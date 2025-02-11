@@ -2,13 +2,10 @@ import scrapy
 
 from typing import Generator
 
-import urllib.parse
 from scrapy.item import Item
 from scrapy.loader import ItemLoader
 
 from burlingtoncalendar.items import Meeting
-import json
-from datetime import date
 import icalendar
 
 
@@ -25,8 +22,6 @@ class CouncilMeetingsSpider(scrapy.Spider):
 
         for row in response.css("#calMainBody table tbody tr"):
             m = row.css("td:nth-child(2) a::attr(href)").get()
-            if '2025-02-10-0930-Committee-of-the-Whole' not in m:
-                continue
 
             video_url = row.css("td:nth-child(3) a::attr(href)").get()
             if video_url:
@@ -43,18 +38,6 @@ class CouncilMeetingsSpider(scrapy.Spider):
                     "package": package
                 }
             )
-        """
-        meeting_urls = response.css("#calMainBody table tbody tr td:nth-child(2) a::attr(href)").getall()
-
-        for m in meeting_urls:
-            if '2025-02-10-0930-Committee-of-the-Whole' not in m:
-                continue
-            yield scrapy.Request(
-                response.urljoin(m),
-                callback=self.parse_meeting_details,
-            )
-            break
-        """
 
         # form input Page value always matches request url?
         current_page = int(response.xpath('//form[@id="CalendarSearchForm"]/input[@name="Page"]/@value').get())
@@ -64,7 +47,6 @@ class CouncilMeetingsSpider(scrapy.Spider):
         if not total_pages:
             raise ValueError(f"Cannot get total_pages on page {current_page}")
 
-        return
         print(f"Currently on input page {current_page}, js page {current_page_js} of {total_pages}")
         if current_page_js < total_pages:
             next_page_request = scrapy.FormRequest.from_response(

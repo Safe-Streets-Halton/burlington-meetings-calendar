@@ -12,9 +12,10 @@ BOT_NAME = 'BurlingtonOntarioCalendar'
 SPIDER_MODULES = ['burlingtoncalendar.spiders']
 NEWSPIDER_MODULE = 'burlingtoncalendar.spiders'
 
+LOG_LEVEL = 'INFO'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'burlingtoncalendar (+https://verselogic.net)'
+USER_AGENT = 'ical exporter (+https://github.com/ellieayla/burlington-meetings-calendar)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True

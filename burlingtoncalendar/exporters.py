@@ -3,10 +3,7 @@ from scrapy.exporters import BaseItemExporter
 
 
 import icalendar
-import json
-from datetime import datetime, date, tzinfo
-import pytz
-from uuid import uuid5, UUID
+from uuid import UUID, uuid5
 
 from .items import Meeting
 
@@ -48,10 +45,11 @@ class ICalItemExporter(BaseItemExporter):
 
         e.add("description", icalendar.vText(d))
 
-        e.add("dtstart", item['start_datetime'])
-        e.add("dtend", item['end_datetime'])
-        e.add("dtstamp", item['dtstamp_updated_at_datetime'])
+        e.add("dtstart", icalendar.vDatetime(item['start_datetime']))
+        e.add("dtend", icalendar.vDatetime(item['end_datetime']))
+        e.add("dtstamp", icalendar.vDatetime(item['dtstamp_updated_at_datetime']))
 
+        e.add('uid', icalendar.vText(uuid5(ns, item['detail_url'])))
         e.add('url', icalendar.vText(item['detail_url']))
 
         # print(item['start_datetime'], type(item['start_datetime']), dir(item['start_datetime']))

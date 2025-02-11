@@ -1,5 +1,5 @@
 This is a Scrapy project
-which scrapes the date-availability information for
+which scrapes the public meeting event information for
 [Burlington Ontario Committee Meetings](https://events.burlington.ca/meetings/Index)
 and exports it as iCal.
 
