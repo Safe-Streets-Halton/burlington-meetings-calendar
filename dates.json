@@ -1,0 +1,23 @@
+[
+{
+    "agendas": [
+        "https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=6c9c1823-4a29-4ed6-bbd8-74f1fabe975f&Agenda=Agenda&lang=English",
+        "https://events.burlington.ca/meetings/Detail/2025-02-10-0930-Committee-of-the-Whole/02d7caa4-1370-4b3b-a26e-b276015f8fa0",
+        "https://events.burlington.ca/meetings/Detail/2025-02-10-0930-Committee-of-the-Whole/83d5e8ad-12be-4e22-98d8-b27d01545d66",
+        "https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=6c9c1823-4a29-4ed6-bbd8-74f1fabe975f&Agenda=Merged&lang=English"
+    ],
+    "contact": null,
+    "detail_url": "https://events.burlington.ca/meetings/Detail/2025-02-10-0930-Committee-of-the-Whole",
+    "dtstamp_updated_at_datetime": "2025-02-11 21:19:11",
+    "end_datetime": "2025-02-10 22:00:00",
+    "event_details_description": "Standing committee and City Council meetings are held at city hall, 426 Brant St. Requests to speak at this meeting can be made by completing the online delegation registration form at\nwww.burlington.ca/delegate\n, by submitting a written request by email to Legislative Services at\nclerks@burlington.ca\nor by phoning 905-335-7777, ext. 7481 by noon the business day before the meeting date. If you do not wish to speak, but would like to submit your comments in writing, please email your comments to\nclerks@burlington.ca\n. Correspondence (delegation notes and written comments) will be circulated to committee members and attached to the meeting minutes, forming part of the public record.",
+    "meeting_type": "Council Standing Committee",
+    "package": [
+        "https://events.burlington.ca/meetings/Detail/2025-02-10-0930-Committee-of-the-Whole/943b8240-845e-4b71-8c16-b27d0154f812",
+        "https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=6c9c1823-4a29-4ed6-bbd8-74f1fabe975f&Agenda=Addendum&lang=English"
+    ],
+    "start_datetime": "2025-02-10 14:30:00",
+    "title": "Committee of the Whole",
+    "video_url": "https://burlingtonpublishing.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?ClientId=burlington&FileName=iSiLIVE%20Encoder%20763_Committee%20of%20the%20Whole_2025-02-10-09-05.mp4"
+}
+]
