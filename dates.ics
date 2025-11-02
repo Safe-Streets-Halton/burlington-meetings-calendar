@@ -3,34 +3,74 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Integrated Transportation Advisory Committee
-DTSTART:20251125T000000Z
-DTEND:20251125T020000Z
-DTSTAMP:20251101T053815Z
-UID:37c3adc1-bd4c-57f5-8333-0ad34e18cac3
+SUMMARY:Burlington Inclusivity Advisory Committee
+DTSTART:20251121T140000Z
+DTEND:20251121T160000Z
+DTSTAMP:20251102T053910Z
+UID:a1708a5a-e510-58e3-9359-d688d1402add
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Int
- egrated Transportation Advisory Committee (ITAC) is a committee made up of
-  community volunteers and reports to City Council through the Committee of
-  the Whole. This advisory committee focuses on all forms of transportation
-  in the community including pedestrian\, cycling\, transit and driving. Th
- e committee provides input to Council and staff on policies\, initiatives 
- and strategies affecting transportation including but not limited to: road
-  safety\, cycling\, transit and integrated mobility. For any additional in
- formation\, please see\nwww.Burlington.ca/ITAC\n.\nPlease note Advisory Co
- mmittees are not webcasted. There is no link to a video at HTML- Minutes a
- nd Video.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11
- -24-1900-Integrated-Transportation-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-11-24-1900-Integrate
- d-Transportation-Advisory-Committee
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Inclusivity  Advisory Committee is a committee made up of communi
+ ty volunteers and reports to City Council through the Committee of the Who
+ le meeting. The committee provides a monitoring and measuring role to help
+  ensure that the City applies an inclusion lens to its policies\, services
+  and programs. Our mission is to embrace diversity by providing opportunit
+ ies for all members of the community that reflect the ideals of acceptance
+ \, accommodation and respect. For any additional information\, please see\
+ nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
+  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
+ ails: https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burling
+ ton-Inclusivity-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burlingto
+ n-Inclusivity-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pipeline to Permit Committee
+DTSTART:20251113T143000Z
+DTEND:20251113T170000Z
+DTSTAMP:20251102T053910Z
+UID:99e77cf1-7d6a-5f13-ad04-07543796c9c4
+DESCRIPTION:Standing committee and City Council meetings are held at City 
+ Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
+ slative Services at\nclerks@burlington.ca\nby noon the business day before
+  the meeting date. Correspondence will be circulated to committee members.
+ \n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11-13-0930-
+ Pipeline-to-Permit-Committee\n\nAgenda: https://burlingtonpublishing.escri
+ bemeetings.com/Meeting.aspx?Id=8a75dbf2-7b59-4da3-b6fc-95ba80ef196b&Agenda
+ =Agenda&lang=English https://events.burlington.ca/meetings/Detail/2025-11-
+ 13-0930-Pipeline-to-Permit-Committee/a100ce44-9e2f-4ef4-a9b9-b3850157d626
+URL:https://events.burlington.ca/meetings/Detail/2025-11-13-0930-Pipeline-
+ to-Permit-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budget Committee
+DTSTART:20251113T180000Z
+DTEND:20251113T213000Z
+DTSTAMP:20251102T053910Z
+UID:e7539093-d5f3-5468-a244-2b006a3a0f81
+DESCRIPTION:Standing committee and City Council meetings are held at city 
+ hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
+ leting the online delegation registration form at\nwww.burlington.ca/deleg
+ ate\n\, by submitting a written request by email to Legislative Services a
+ t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
+ e business day before the meeting date.\nIf you do not wish to speak\, but
+  would like to submit your comments in writing\, please email your comment
+ s to\nclerks@burlington.ca\n. Written correspondence will be circulated to
+  committee members.\n\nDetails: https://events.burlington.ca/meetings/Deta
+ il/2025-11-13-1300-Budget-Committee\n\nAgenda: https://burlingtonpublishin
+ g.escribemeetings.com/Meeting.aspx?Id=1f13763b-0899-45d4-83fe-47c123a07c70
+ &Agenda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/2
+ 025-11-13-1300-Budget-Committee/7905c1d2-32c7-44af-9a36-b38501572759
+URL:https://events.burlington.ca/meetings/Detail/2025-11-13-1300-Budget-Co
+ mmittee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council
 DTSTART:20251118T143000Z
 DTEND:20251118T213000Z
-DTSTAMP:20251101T053816Z
+DTSTAMP:20251102T053910Z
 UID:e8ead226-2b05-5d84-9bf4-b2c300eb67b6
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
@@ -53,123 +93,52 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-18-0930-Regular-M
  eeting-of-Council
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Inclusivity Advisory Committee
-DTSTART:20251121T140000Z
-DTEND:20251121T160000Z
-DTSTAMP:20251101T053816Z
-UID:a1708a5a-e510-58e3-9359-d688d1402add
+SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
+DTSTART:20251120T000000Z
+DTEND:20251120T020000Z
+DTSTAMP:20251102T053910Z
+UID:ea344f2c-b53f-5bbb-bc9e-afae99af674b
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
   to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Inclusivity  Advisory Committee is a committee made up of communi
- ty volunteers and reports to City Council through the Committee of the Who
- le meeting. The committee provides a monitoring and measuring role to help
-  ensure that the City applies an inclusion lens to its policies\, services
-  and programs. Our mission is to embrace diversity by providing opportunit
- ies for all members of the community that reflect the ideals of acceptance
- \, accommodation and respect. For any additional information\, please see\
- nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
-  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
- ails: https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burling
- ton-Inclusivity-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burlingto
- n-Inclusivity-Advisory-Committee
+ lington Agricultural and Rural Affairs Advisory Committee is a committee m
+ ade up of community volunteers and reports to City Council through the Com
+ mittee of the Whole meeting. The mandate of the committee is to provide ad
+ vice to Council on Burlington's agricultural and rural goals\, objectives 
+ and policies\; and to raise community awareness and understanding of agric
+ ultural and rural issues as they relate to the city and its activities.\nP
+ lease note Advisory Committees are not webcasted. There is no link to a vi
+ deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
+ etings/Detail/2025-11-19-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
+ visory
+URL:https://events.burlington.ca/meetings/Detail/2025-11-19-1900-Burlingto
+ n-Agricultural-and-Rural-Affairs-Advisory
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Seniors' Advisory Committee
-DTSTART:20251117T150000Z
-DTEND:20251117T170000Z
-DTSTAMP:20251101T053816Z
-UID:7023e66f-dad4-5b80-9d59-cc2a0b3af8ed
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Seniors' Advisory Committee (BSAC) is a committee made up of commu
- nity volunteers and reports to City Council through the Committee of the W
- hole meeting. BSAC represents Burlington seniors' perspectives on municipa
- l and other key seniors' issues\, for example: transportation\, isolation\
- , affordability\, parks and recreation services\, geographical service del
- ivery. BSAC provides a voice for Burlington seniors\, exchanging informati
- on about current issues and emerging concerns and provides input to city s
- taff as requested and to the Halton Region's Older Adult Advisory Committe
- e (OAAC) on an ongoing basis. BSAC responds to seniors' community needs an
- d creates and executes an annual work plan\, which may include: hosting se
- niors' discussion forums\, supporting strategic planning for development o
- f local seniors' services\, public information. For any additional informa
- tion\, please see\nwww.Burlington.ca/bsac\n.\nPlease note Advisory Committ
- ees are not webcasted. There is no link to a video at HTML- Minutes and Vi
- deo.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11-17-1
- 000-Burlington-Seniors-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-11-17-1000-Burlingto
- n-Seniors-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pipeline to Permit Committee
-DTSTART:20251113T143000Z
-DTEND:20251113T170000Z
-DTSTAMP:20251101T053816Z
-UID:99e77cf1-7d6a-5f13-ad04-07543796c9c4
-DESCRIPTION:Standing committee and City Council meetings are held at City 
- Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
- slative Services at\nclerks@burlington.ca\nby noon the business day before
-  the meeting date. Correspondence will be circulated to committee members.
- \n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11-13-0930-
- Pipeline-to-Permit-Committee\n\nAgenda: https://burlingtonpublishing.escri
- bemeetings.com/Meeting.aspx?Id=8a75dbf2-7b59-4da3-b6fc-95ba80ef196b&Agenda
- =Agenda&lang=English https://events.burlington.ca/meetings/Detail/2025-11-
- 13-0930-Pipeline-to-Permit-Committee/a100ce44-9e2f-4ef4-a9b9-b3850157d626
-URL:https://events.burlington.ca/meetings/Detail/2025-11-13-0930-Pipeline-
- to-Permit-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Budget Committee
-DTSTART:20251113T180000Z
-DTEND:20251113T213000Z
-DTSTAMP:20251101T053816Z
-UID:e7539093-d5f3-5468-a244-2b006a3a0f81
+SUMMARY:Committee of the Whole
+DTSTART:20251104T143000Z
+DTEND:20251104T213000Z
+DTSTAMP:20251102T053910Z
+UID:ead1b6c9-8125-5f39-825d-2401947796ee
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
  leting the online delegation registration form at\nwww.burlington.ca/deleg
  ate\n\, by submitting a written request by email to Legislative Services a
  t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e business day before the meeting date.\nIf you do not wish to speak\, but
-  would like to submit your comments in writing\, please email your comment
- s to\nclerks@burlington.ca\n. Written correspondence will be circulated to
-  committee members.\n\nDetails: https://events.burlington.ca/meetings/Deta
- il/2025-11-13-1300-Budget-Committee\n\nAgenda: https://burlingtonpublishin
- g.escribemeetings.com/Meeting.aspx?Id=1f13763b-0899-45d4-83fe-47c123a07c70
- &Agenda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/2
- 025-11-13-1300-Budget-Committee/7905c1d2-32c7-44af-9a36-b38501572759
-URL:https://events.burlington.ca/meetings/Detail/2025-11-13-1300-Budget-Co
- mmittee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burlington Downtown Parking Advisory Committee
-DTSTART:20251120T133000Z
-DTEND:20251120T150000Z
-DTSTAMP:20251101T053816Z
-UID:45b328fb-5710-5175-915b-6cac03b625b2
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Dow
- ntown Parking Committee (DPC)\, an advisory Committee of Council\, was cre
- ated on April 28\, 2003. The DPC provides comments and advice to the Commi
- ttee of the Whole meetings on strategies and policies that affect the deve
- lopment and delivery of parking services in downtown Burlington.\nPlease n
- ote Advisory Committees are not webcasted. There is no link to a video at 
- HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meetings
- /Detail/2025-11-20-0830-Burlington-Downtown-Parking-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-11-20-0830-Burlingto
- n-Downtown-Parking-Advisory-Committee
+ e Friday before the meeting date. If you do not wish to speak\, but would 
+ like to submit your comments in writing\, please email your comments to\nc
+ lerks@burlington.ca\n. Written correspondence will be circulated to commit
+ tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025
+ -11-04-0930-Committee-of-the-Whole
+URL:https://events.burlington.ca/meetings/Detail/2025-11-04-0930-Committee
+ -of-the-Whole
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20251106T000000Z
 DTEND:20251106T020000Z
-DTSTAMP:20251101T053816Z
+DTSTAMP:20251102T053910Z
 UID:6501a152-7543-53ce-a862-d1c7b01c2215
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -199,10 +168,123 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-05-1900-Burlingto
  n-Mundialization-Committee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Committee of Adjustment Meeting
+DTSTART:20251119T180000Z
+DTEND:20251120T010000Z
+DTSTAMP:20251102T053910Z
+UID:e0f880ec-4912-5e16-b617-1ac1dd58c5f5
+DESCRIPTION:As of January 2025\, Committee of Adjustment meetings will be 
+ held using a hybrid model\, allowing members of the public the option of p
+ articipating remotely or in-person at City Hall Council Chambers\, 426 Bra
+ nt St.\nRequests to delegate to this hybrid meeting can be made by submitt
+ ing a written request by email to the Secretary Treasurer of the Committee
+  of Adjustment at\ncommitteeofadjustment@burlington.ca\nor by phoning 905-
+ 335-7600\, ext. 7629 by noon the business day before the meeting is to be 
+ held. Y\nou are encouraged to pre-register as a delegate as soon as possib
+ le to facilitate an orderly registration process.\nIt is recommended that 
+ virtual delegates include their intended remarks\, which will be circulate
+ d to all members in advance\, as a backup to any disruptions in technology
+  issues that may occur.\nIf you do not wish to delegate\, but would like t
+ o submit correspondence\, please email your comments to\ncommitteeofadjust
+ ment@burlington.ca\n. Any notes and comments will be circulated to the app
+ licant\, staff and members in advance of the meeting and will forming part
+  of the public record.\nWatch or listen to the Virtual Committee of Adjust
+ ment Hearing: The hearing will be held live through a virtual Zoom Webinar
+ . Instructions\, links\, and phone numbers for joining the meeting will be
+  posted on the City calendar event listing the day prior to the scheduled 
+ meeting. The link will be active 1 hour before the start time.\nApplicatio
+ ns will be heard in the order that they appear on the agenda.\nZoom Meetin
+ g Details\nJoin from PC\, Mac\, iPad\, or Android:\nhttps://us06web.zoom.u
+ s/j/86168116990\nPhone one-tap:\n+16473744685\,\,86168116990# Canada\n+164
+ 75580588\,\,86168116990# Canada\nJoin via audio:\n+1 647 374 4685 Canada\n
+ +1 647 558 0588 Canada\n+1 778 907 2071 Canada\n+1 780 666 0144 Canada\n+1
+  204 272 7920 Canada\n+1 438 809 7799 Canada\n+1 587 328 1099 Canada\nWebi
+ nar ID: 861 6811 6990\nInternational numbers available:\nhttps://us06web.z
+ oom.us/u/kc9yTPfre5\n\nDetails: https://events.burlington.ca/meetings/Deta
+ il/2025-11-19-1300-Committee-of-Adjustment-Meeting
+URL:https://events.burlington.ca/meetings/Detail/2025-11-19-1300-Committee
+ -of-Adjustment-Meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burlington Downtown Parking Advisory Committee
+DTSTART:20251120T133000Z
+DTEND:20251120T150000Z
+DTSTAMP:20251102T053910Z
+UID:45b328fb-5710-5175-915b-6cac03b625b2
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Dow
+ ntown Parking Committee (DPC)\, an advisory Committee of Council\, was cre
+ ated on April 28\, 2003. The DPC provides comments and advice to the Commi
+ ttee of the Whole meetings on strategies and policies that affect the deve
+ lopment and delivery of parking services in downtown Burlington.\nPlease n
+ ote Advisory Committees are not webcasted. There is no link to a video at 
+ HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meetings
+ /Detail/2025-11-20-0830-Burlington-Downtown-Parking-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2025-11-20-0830-Burlingto
+ n-Downtown-Parking-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burlington Seniors' Advisory Committee
+DTSTART:20251117T150000Z
+DTEND:20251117T170000Z
+DTSTAMP:20251102T053910Z
+UID:7023e66f-dad4-5b80-9d59-cc2a0b3af8ed
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Seniors' Advisory Committee (BSAC) is a committee made up of commu
+ nity volunteers and reports to City Council through the Committee of the W
+ hole meeting. BSAC represents Burlington seniors' perspectives on municipa
+ l and other key seniors' issues\, for example: transportation\, isolation\
+ , affordability\, parks and recreation services\, geographical service del
+ ivery. BSAC provides a voice for Burlington seniors\, exchanging informati
+ on about current issues and emerging concerns and provides input to city s
+ taff as requested and to the Halton Region's Older Adult Advisory Committe
+ e (OAAC) on an ongoing basis. BSAC responds to seniors' community needs an
+ d creates and executes an annual work plan\, which may include: hosting se
+ niors' discussion forums\, supporting strategic planning for development o
+ f local seniors' services\, public information. For any additional informa
+ tion\, please see\nwww.Burlington.ca/bsac\n.\nPlease note Advisory Committ
+ ees are not webcasted. There is no link to a video at HTML- Minutes and Vi
+ deo.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11-17-1
+ 000-Burlington-Seniors-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2025-11-17-1000-Burlingto
+ n-Seniors-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regular Meeting of Council
+DTSTART:20251209T143000Z
+DTEND:20251209T213000Z
+DTSTAMP:20251102T053910Z
+UID:a94f5ffd-7991-52c4-ac46-2b09429043d9
+DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
+ quests to speak at this meeting can be made by completing the online deleg
+ ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
+  written request by email to Legislative Services at\nclerks@burlington.ca
+ \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
+ he meeting date. If you do not wish to speak\, but would like to submit yo
+ ur comments in writing\, please email your comments to\nclerks@burlington.
+ ca\n. Correspondence (delegation notes and written comments) will be circu
+ lated to committee members and attached to the meeting minutes\, forming p
+ art of the public record.\nCouncil meetings are where the final approval t
+ akes place of items that went to the meetings of the Committee of the Whol
+ e\, Pipeline to Permit Committee\, Council Workshop and Audit Committee. M
+ eeting agendas\, dates or times may change. To verify information\, contac
+ t the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 90
+ 5-335-7600 Ext. 7481. Note: Special meetings of Council may be scheduled a
+ s required.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-
+ 12-09-0930-Regular-Meeting-of-Council
+URL:https://events.burlington.ca/meetings/Detail/2025-12-09-0930-Regular-M
+ eeting-of-Council
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
 DTSTART:20251106T143000Z
 DTEND:20251106T163000Z
-DTSTAMP:20251101T053816Z
+DTSTAMP:20251102T053910Z
 UID:3e106471-219a-50e8-9109-509b01412c1c
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -226,76 +308,10 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-06-0930-Burlingto
  n-School-Traffic-Safety-and-Mobility-Advi2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
-DTSTART:20251120T000000Z
-DTEND:20251120T020000Z
-DTSTAMP:20251101T053816Z
-UID:ea344f2c-b53f-5bbb-bc9e-afae99af674b
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Agricultural and Rural Affairs Advisory Committee is a committee m
- ade up of community volunteers and reports to City Council through the Com
- mittee of the Whole meeting. The mandate of the committee is to provide ad
- vice to Council on Burlington's agricultural and rural goals\, objectives 
- and policies\; and to raise community awareness and understanding of agric
- ultural and rural issues as they relate to the city and its activities.\nP
- lease note Advisory Committees are not webcasted. There is no link to a vi
- deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
- etings/Detail/2025-11-19-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
- visory
-URL:https://events.burlington.ca/meetings/Detail/2025-11-19-1900-Burlingto
- n-Agricultural-and-Rural-Affairs-Advisory
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Committee of the Whole
-DTSTART:20251104T143000Z
-DTEND:20251104T213000Z
-DTSTAMP:20251101T053816Z
-UID:ead1b6c9-8125-5f39-825d-2401947796ee
-DESCRIPTION:Standing committee and City Council meetings are held at city 
- hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
- leting the online delegation registration form at\nwww.burlington.ca/deleg
- ate\n\, by submitting a written request by email to Legislative Services a
- t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e Friday before the meeting date. If you do not wish to speak\, but would 
- like to submit your comments in writing\, please email your comments to\nc
- lerks@burlington.ca\n. Written correspondence will be circulated to commit
- tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025
- -11-04-0930-Committee-of-the-Whole
-URL:https://events.burlington.ca/meetings/Detail/2025-11-04-0930-Committee
- -of-the-Whole
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Council Information Package
-DTSTART:20251031T150000Z
-DTEND:20251031T160000Z
-DTSTAMP:20251101T053816Z
-UID:242cd84c-a429-5feb-a807-e8e02d0bd59e
-DESCRIPTION:Council Information Packages (CIPS) are published every week o
- n Friday afternoons for members of City Council and the public. They can i
- nclude information reports and memos from staff\, inter-governmental corre
- spondence from the provincial and federal government\, other municipalitie
- s and from local boards and committees\nCouncil Information Packages\npubl
- ished before January 2025 can be found on the\nCouncil Information Package
-  Page.\nMembers of City Council may request that an information item be pl
- aced on the next available Committee of the Whole agenda.\nIf you require 
- the CIP in an alternative format or with communication supports\, please s
- ubmit an\nAccessible Document and Communication request.\n\nDetails: https
- ://events.burlington.ca/meetings/Detail/2025-10-31-1100-Council-Informatio
- n-Package\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meet
- ing.aspx?Id=bc32503d-75a5-4065-9f6c-2a7a954106f9&Agenda=Agenda&lang=Englis
- h https://events.burlington.ca/meetings/Detail/2025-10-31-1100-Council-Inf
- ormation-Package/68ca958c-d3e0-4054-97b9-b38700fd0a02
-URL:https://events.burlington.ca/meetings/Detail/2025-10-31-1100-Council-I
- nformation-Package
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Committee of Adjustment Meeting
 DTSTART:20251105T223000Z
 DTEND:20251106T033000Z
-DTSTAMP:20251101T053816Z
+DTSTAMP:20251102T053911Z
 UID:9977fc5a-7c81-5738-a76d-17381a438c52
 DESCRIPTION:As of January 2025\, Committee of Adjustment meetings will be 
  held using a hybrid model\, allowing members of the public the option of p
@@ -332,49 +348,11 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-05-1730-Committee
  -of-Adjustment-Meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Committee of Adjustment Meeting
-DTSTART:20251119T180000Z
-DTEND:20251120T010000Z
-DTSTAMP:20251101T053816Z
-UID:e0f880ec-4912-5e16-b617-1ac1dd58c5f5
-DESCRIPTION:As of January 2025\, Committee of Adjustment meetings will be 
- held using a hybrid model\, allowing members of the public the option of p
- articipating remotely or in-person at City Hall Council Chambers\, 426 Bra
- nt St.\nRequests to delegate to this hybrid meeting can be made by submitt
- ing a written request by email to the Secretary Treasurer of the Committee
-  of Adjustment at\ncommitteeofadjustment@burlington.ca\nor by phoning 905-
- 335-7600\, ext. 7629 by noon the business day before the meeting is to be 
- held. Y\nou are encouraged to pre-register as a delegate as soon as possib
- le to facilitate an orderly registration process.\nIt is recommended that 
- virtual delegates include their intended remarks\, which will be circulate
- d to all members in advance\, as a backup to any disruptions in technology
-  issues that may occur.\nIf you do not wish to delegate\, but would like t
- o submit correspondence\, please email your comments to\ncommitteeofadjust
- ment@burlington.ca\n. Any notes and comments will be circulated to the app
- licant\, staff and members in advance of the meeting and will forming part
-  of the public record.\nWatch or listen to the Virtual Committee of Adjust
- ment Hearing: The hearing will be held live through a virtual Zoom Webinar
- . Instructions\, links\, and phone numbers for joining the meeting will be
-  posted on the City calendar event listing the day prior to the scheduled 
- meeting. The link will be active 1 hour before the start time.\nApplicatio
- ns will be heard in the order that they appear on the agenda.\nZoom Meetin
- g Details\nJoin from PC\, Mac\, iPad\, or Android:\nhttps://us06web.zoom.u
- s/j/86168116990\nPhone one-tap:\n+16473744685\,\,86168116990# Canada\n+164
- 75580588\,\,86168116990# Canada\nJoin via audio:\n+1 647 374 4685 Canada\n
- +1 647 558 0588 Canada\n+1 778 907 2071 Canada\n+1 780 666 0144 Canada\n+1
-  204 272 7920 Canada\n+1 438 809 7799 Canada\n+1 587 328 1099 Canada\nWebi
- nar ID: 861 6811 6990\nInternational numbers available:\nhttps://us06web.z
- oom.us/u/kc9yTPfre5\n\nDetails: https://events.burlington.ca/meetings/Deta
- il/2025-11-19-1300-Committee-of-Adjustment-Meeting
-URL:https://events.burlington.ca/meetings/Detail/2025-11-19-1300-Committee
- -of-Adjustment-Meeting
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Special Meeting of Council - Immediately following Committee of th
  e Whole
 DTSTART:20251104T180000Z
 DTEND:20251104T190000Z
-DTSTAMP:20251101T053816Z
+DTSTAMP:20251102T053911Z
 UID:1f8f37fa-57a0-5ccc-ac28-3d05d5ff05e0
 DESCRIPTION:At the call of the Mayor to Approve the recommendation from Co
  nfidential Report HRS-08-25 and Report HRS-10-25 which are directly relate
@@ -402,36 +380,10 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-04-1300-Special-M
  eeting-of-Council-Immediately-following-C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Regular Meeting of Council
-DTSTART:20251209T143000Z
-DTEND:20251209T213000Z
-DTSTAMP:20251101T053816Z
-UID:a94f5ffd-7991-52c4-ac46-2b09429043d9
-DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
- quests to speak at this meeting can be made by completing the online deleg
- ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
-  written request by email to Legislative Services at\nclerks@burlington.ca
- \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
- he meeting date. If you do not wish to speak\, but would like to submit yo
- ur comments in writing\, please email your comments to\nclerks@burlington.
- ca\n. Correspondence (delegation notes and written comments) will be circu
- lated to committee members and attached to the meeting minutes\, forming p
- art of the public record.\nCouncil meetings are where the final approval t
- akes place of items that went to the meetings of the Committee of the Whol
- e\, Pipeline to Permit Committee\, Council Workshop and Audit Committee. M
- eeting agendas\, dates or times may change. To verify information\, contac
- t the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 90
- 5-335-7600 Ext. 7481. Note: Special meetings of Council may be scheduled a
- s required.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-
- 12-09-0930-Regular-Meeting-of-Council
-URL:https://events.burlington.ca/meetings/Detail/2025-12-09-0930-Regular-M
- eeting-of-Council
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Council Workshop Committee
 DTSTART:20251204T180000Z
 DTEND:20251204T213000Z
-DTSTAMP:20251101T053816Z
+DTSTAMP:20251102T053911Z
 UID:656dbb82-12c9-5031-ad03-b538d6b3f807
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -446,57 +398,10 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-04-1300-Council-W
  orkshop-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Committee of the Whole (Note: revised start time\, the meeting wil
- l begin at 1:00 pm)
-DTSTART:20251103T180000Z
-DTEND:20251103T213000Z
-DTSTAMP:20251101T053816Z
-UID:3fe78704-a89a-5191-b788-1b35282dfc28
-DESCRIPTION:Standing committee and City Council meetings are held at city 
- hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
- leting the online delegation registration form at\nwww.burlington.ca/deleg
- ate\n\, by submitting a written request by email to Legislative Services a
- t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e Friday before the meeting date. If you do not wish to speak\, but would 
- like to submit your comments in writing\, please email your comments to\nc
- lerks@burlington.ca\n. Written correspondence will be circulated to commit
- tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025
- -11-03-1300-Committee-of-the-Whole-Note-revised-start-time-the\n\nAgenda: 
- https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=2eac415c-
- d64a-4e0b-b83c-15ac8966aff9&Agenda=Agenda&lang=English https://events.burl
- ington.ca/meetings/Detail/2025-11-03-1300-Committee-of-the-Whole-Note-revi
- sed-start-time-the/67c276d5-870e-406f-9eb0-b38300ebdbcf https://events.bur
- lington.ca/meetings/Detail/2025-11-03-1300-Committee-of-the-Whole-Note-rev
- ised-start-time-the/f195c45b-b2c9-4e95-9b10-b387014f1eea https://burlingto
- npublishing.escribemeetings.com/Meeting.aspx?Id=2eac415c-d64a-4e0b-b83c-15
- ac8966aff9&Agenda=Merged&lang=English\n\nPackage: https://events.burlingto
- n.ca/meetings/Detail/2025-11-03-1300-Committee-of-the-Whole-Note-revised-s
- tart-time-the/aeedcbf1-935f-4644-9c1d-b387014df47a https://burlingtonpubli
- shing.escribemeetings.com/Meeting.aspx?Id=2eac415c-d64a-4e0b-b83c-15ac8966
- aff9&Agenda=Addendum&lang=English
-URL:https://events.burlington.ca/meetings/Detail/2025-11-03-1300-Committee
- -of-the-Whole-Note-revised-start-time-the
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pipeline to Permit Committee
-DTSTART:20251204T143000Z
-DTEND:20251204T170000Z
-DTSTAMP:20251101T053816Z
-UID:42c6e359-6641-5e07-8c49-a684c63a43a9
-DESCRIPTION:Standing committee and City Council meetings are held at City 
- Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
- slative Services at\nclerks@burlington.ca\nby noon the business day before
-  the meeting date. Correspondence will be circulated to committee members.
- \n\nDetails: https://events.burlington.ca/meetings/Detail/2025-12-04-0930-
- Pipeline-to-Permit-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-12-04-0930-Pipeline-
- to-Permit-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Audit Committee
 DTSTART:20251203T203000Z
 DTEND:20251203T223000Z
-DTSTAMP:20251101T053816Z
+DTSTAMP:20251102T053911Z
 UID:194c4bb1-90a8-5b84-be5b-1fc4a5648561
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -513,11 +418,26 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-03-1530-Audit-Com
  mittee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pipeline to Permit Committee
+DTSTART:20251204T143000Z
+DTEND:20251204T170000Z
+DTSTAMP:20251102T053911Z
+UID:42c6e359-6641-5e07-8c49-a684c63a43a9
+DESCRIPTION:Standing committee and City Council meetings are held at City 
+ Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
+ slative Services at\nclerks@burlington.ca\nby noon the business day before
+  the meeting date. Correspondence will be circulated to committee members.
+ \n\nDetails: https://events.burlington.ca/meetings/Detail/2025-12-04-0930-
+ Pipeline-to-Permit-Committee
+URL:https://events.burlington.ca/meetings/Detail/2025-12-04-0930-Pipeline-
+ to-Permit-Committee
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Special Meeting of Council - Immediately following Committee of th
  e Whole
 DTSTART:20251202T203000Z
 DTEND:20251202T213000Z
-DTSTAMP:20251101T053816Z
+DTSTAMP:20251102T053911Z
 UID:647ff2fd-fe9a-51a2-b580-8789a860efb9
 DESCRIPTION:The purpose of this Special Council meeting is to finalize the
   2026 Budget meeting the 30-day timelines of Strong Mayor legislatio.\nSta
@@ -540,82 +460,34 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-02-1530-Special-M
  eeting-of-Council-Immediately-following-C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Cycling Advisory Committee
-DTSTART:20251028T230000Z
-DTEND:20251029T010000Z
-DTSTAMP:20251101T053816Z
-UID:0308fadb-01fb-5784-b27f-a1ecae3508a1
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Cycling Advisory Committee is a committee made up of community vol
- unteers and reports to City Council through the Committee of the Whole mee
- ting. The role of the committee is to advise Council on matters pertaining
-  to cycling in the City of Burlington. For any additional information\, pl
- ease see www.Burlington.ca/cycling.\nPlease note Advisory Committees are n
- ot webcasted. There is no link to a video at HTML- Minutes and Video.\n\nD
- etails: https://events.burlington.ca/meetings/Detail/2025-10-28-1900-Burli
- ngton-Cycling-Advisory-Committee\n\nAgenda: https://burlingtonpublishing.e
- scribemeetings.com/Meeting.aspx?Id=3444038f-53de-44ce-aee1-e7eecbc9926d&Ag
- enda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/2025
- -10-28-1900-Burlington-Cycling-Advisory-Committee/c7777027-64f2-47cb-969f-
- b38301310e65
-URL:https://events.burlington.ca/meetings/Detail/2025-10-28-1900-Burlingto
- n-Cycling-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Committee of the Whole
-DTSTART:20251201T143000Z
-DTEND:20251201T213000Z
-DTSTAMP:20251101T053816Z
-UID:59aaadb9-3400-59fa-88ca-1eb584559387
-DESCRIPTION:Standing committee and City Council meetings are held at city 
- hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
- leting the online delegation registration form at\nwww.burlington.ca/deleg
- ate\n\, by submitting a written request by email to Legislative Services a
- t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e Friday before the meeting date. If you do not wish to speak\, but would 
- like to submit your comments in writing\, please email your comments to\nc
- lerks@burlington.ca\n. Written correspondence will be circulated to commit
- tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025
- -12-01-0930-Committee-of-the-Whole
-URL:https://events.burlington.ca/meetings/Detail/2025-12-01-0930-Committee
- -of-the-Whole
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Integrated Transportation Advisory Committee
-DTSTART:20251027T230000Z
-DTEND:20251028T010000Z
-DTSTAMP:20251101T053816Z
-UID:113207d8-193a-5af6-9656-19fece0b7f0e
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Int
- egrated Transportation Advisory Committee (ITAC) is a committee made up of
-  community volunteers and reports to City Council through the Committee of
-  the Whole. This advisory committee focuses on all forms of transportation
-  in the community including pedestrian\, cycling\, transit and driving. Th
- e committee provides input to Council and staff on policies\, initiatives 
- and strategies affecting transportation including but not limited to: road
-  safety\, cycling\, transit and integrated mobility. For any additional in
- formation\, please see\nwww.Burlington.ca/ITAC\n.\nPlease note Advisory Co
- mmittees are not webcasted. There is no link to a video at HTML- Minutes a
- nd Video.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-10
- -27-1900-Integrated-Transportation-Advisory-Committee\n\nAgenda: https://b
- urlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=18d71010-fd14-40ad
- -903f-03650ece54ca&Agenda=Agenda&lang=English https://events.burlington.ca
- /meetings/Detail/2025-10-27-1900-Integrated-Transportation-Advisory-Commit
- tee/5f7009ea-698e-4b32-bf48-b37d00fbd2cf
-URL:https://events.burlington.ca/meetings/Detail/2025-10-27-1900-Integrate
- d-Transportation-Advisory-Committee
+SUMMARY:Council Information Package
+DTSTART:20251031T150000Z
+DTEND:20251031T160000Z
+DTSTAMP:20251102T053911Z
+UID:242cd84c-a429-5feb-a807-e8e02d0bd59e
+DESCRIPTION:Council Information Packages (CIPS) are published every week o
+ n Friday afternoons for members of City Council and the public. They can i
+ nclude information reports and memos from staff\, inter-governmental corre
+ spondence from the provincial and federal government\, other municipalitie
+ s and from local boards and committees\nCouncil Information Packages\npubl
+ ished before January 2025 can be found on the\nCouncil Information Package
+  Page.\nMembers of City Council may request that an information item be pl
+ aced on the next available Committee of the Whole agenda.\nIf you require 
+ the CIP in an alternative format or with communication supports\, please s
+ ubmit an\nAccessible Document and Communication request.\n\nDetails: https
+ ://events.burlington.ca/meetings/Detail/2025-10-31-1100-Council-Informatio
+ n-Package\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meet
+ ing.aspx?Id=bc32503d-75a5-4065-9f6c-2a7a954106f9&Agenda=Agenda&lang=Englis
+ h https://events.burlington.ca/meetings/Detail/2025-10-31-1100-Council-Inf
+ ormation-Package/68ca958c-d3e0-4054-97b9-b38700fd0a02
+URL:https://events.burlington.ca/meetings/Detail/2025-10-31-1100-Council-I
+ nformation-Package
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Special Meeting of Council/Statutory Public Meeting
 DTSTART:20260106T143000Z
 DTEND:20260106T213000Z
-DTSTAMP:20251101T053817Z
+DTSTAMP:20251102T053911Z
 UID:47a6a9f5-e4c4-5c12-ae5d-4a018d34cfee
 DESCRIPTION:This Special Council/Statutory Public meeting is called by the
   Mayor to consider an Official Plan amendment & Zoning By-law amendment fo
@@ -641,10 +513,62 @@ URL:https://events.burlington.ca/meetings/Detail/2026-01-06-0930-Special-M
  eeting-of-CouncilStatutory-Public-Meeting
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Integrated Transportation Advisory Committee
+DTSTART:20251027T230000Z
+DTEND:20251028T010000Z
+DTSTAMP:20251102T053911Z
+UID:113207d8-193a-5af6-9656-19fece0b7f0e
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Int
+ egrated Transportation Advisory Committee (ITAC) is a committee made up of
+  community volunteers and reports to City Council through the Committee of
+  the Whole. This advisory committee focuses on all forms of transportation
+  in the community including pedestrian\, cycling\, transit and driving. Th
+ e committee provides input to Council and staff on policies\, initiatives 
+ and strategies affecting transportation including but not limited to: road
+  safety\, cycling\, transit and integrated mobility. For any additional in
+ formation\, please see\nwww.Burlington.ca/ITAC\n.\nPlease note Advisory Co
+ mmittees are not webcasted. There is no link to a video at HTML- Minutes a
+ nd Video.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-10
+ -27-1900-Integrated-Transportation-Advisory-Committee\n\nAgenda: https://b
+ urlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=18d71010-fd14-40ad
+ -903f-03650ece54ca&Agenda=Agenda&lang=English https://events.burlington.ca
+ /meetings/Detail/2025-10-27-1900-Integrated-Transportation-Advisory-Commit
+ tee/5f7009ea-698e-4b32-bf48-b37d00fbd2cf
+URL:https://events.burlington.ca/meetings/Detail/2025-10-27-1900-Integrate
+ d-Transportation-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Integrated Transportation Advisory Committee
+DTSTART:20251125T000000Z
+DTEND:20251125T020000Z
+DTSTAMP:20251102T053911Z
+UID:37c3adc1-bd4c-57f5-8333-0ad34e18cac3
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Int
+ egrated Transportation Advisory Committee (ITAC) is a committee made up of
+  community volunteers and reports to City Council through the Committee of
+  the Whole. This advisory committee focuses on all forms of transportation
+  in the community including pedestrian\, cycling\, transit and driving. Th
+ e committee provides input to Council and staff on policies\, initiatives 
+ and strategies affecting transportation including but not limited to: road
+  safety\, cycling\, transit and integrated mobility. For any additional in
+ formation\, please see\nwww.Burlington.ca/ITAC\n.\nPlease note Advisory Co
+ mmittees are not webcasted. There is no link to a video at HTML- Minutes a
+ nd Video.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11
+ -24-1900-Integrated-Transportation-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2025-11-24-1900-Integrate
+ d-Transportation-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20251027T140000Z
 DTEND:20251027T160000Z
-DTSTAMP:20251101T053817Z
+DTSTAMP:20251102T053911Z
 UID:2a3289d0-4428-5f59-bfa6-8aaeca5c2704
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -674,10 +598,35 @@ URL:https://events.burlington.ca/meetings/Detail/2025-10-27-1000-Burlingto
  n-Seniors-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burlington Cycling Advisory Committee
+DTSTART:20251028T230000Z
+DTEND:20251029T010000Z
+DTSTAMP:20251102T053912Z
+UID:0308fadb-01fb-5784-b27f-a1ecae3508a1
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Cycling Advisory Committee is a committee made up of community vol
+ unteers and reports to City Council through the Committee of the Whole mee
+ ting. The role of the committee is to advise Council on matters pertaining
+  to cycling in the City of Burlington. For any additional information\, pl
+ ease see www.Burlington.ca/cycling.\nPlease note Advisory Committees are n
+ ot webcasted. There is no link to a video at HTML- Minutes and Video.\n\nD
+ etails: https://events.burlington.ca/meetings/Detail/2025-10-28-1900-Burli
+ ngton-Cycling-Advisory-Committee\n\nAgenda: https://burlingtonpublishing.e
+ scribemeetings.com/Meeting.aspx?Id=3444038f-53de-44ce-aee1-e7eecbc9926d&Ag
+ enda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/2025
+ -10-28-1900-Burlington-Cycling-Advisory-Committee/c7777027-64f2-47cb-969f-
+ b38301310e65
+URL:https://events.burlington.ca/meetings/Detail/2025-10-28-1900-Burlingto
+ n-Cycling-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Committee of Adjustment Meeting
 DTSTART:20251210T223000Z
 DTEND:20251211T033000Z
-DTSTAMP:20251101T053817Z
+DTSTAMP:20251102T053912Z
 UID:624dca69-3bfd-57cc-9836-808e32f8035f
 DESCRIPTION:As of January 2025\, Committee of Adjustment meetings will be 
  held using a hybrid model\, allowing members of the public the option of p
@@ -710,5 +659,56 @@ DESCRIPTION:As of January 2025\, Committee of Adjustment meetings will be
  l/2025-12-10-1730-Committee-of-Adjustment-Meeting
 URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1730-Committee
  -of-Adjustment-Meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Committee of the Whole
+DTSTART:20251201T143000Z
+DTEND:20251201T213000Z
+DTSTAMP:20251102T053912Z
+UID:59aaadb9-3400-59fa-88ca-1eb584559387
+DESCRIPTION:Standing committee and City Council meetings are held at city 
+ hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
+ leting the online delegation registration form at\nwww.burlington.ca/deleg
+ ate\n\, by submitting a written request by email to Legislative Services a
+ t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
+ e Friday before the meeting date. If you do not wish to speak\, but would 
+ like to submit your comments in writing\, please email your comments to\nc
+ lerks@burlington.ca\n. Written correspondence will be circulated to commit
+ tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025
+ -12-01-0930-Committee-of-the-Whole
+URL:https://events.burlington.ca/meetings/Detail/2025-12-01-0930-Committee
+ -of-the-Whole
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Committee of the Whole (Note: revised start time\, the meeting wil
+ l begin at 1:00 pm)
+DTSTART:20251103T180000Z
+DTEND:20251103T213000Z
+DTSTAMP:20251102T053912Z
+UID:3fe78704-a89a-5191-b788-1b35282dfc28
+DESCRIPTION:Standing committee and City Council meetings are held at city 
+ hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
+ leting the online delegation registration form at\nwww.burlington.ca/deleg
+ ate\n\, by submitting a written request by email to Legislative Services a
+ t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
+ e Friday before the meeting date. If you do not wish to speak\, but would 
+ like to submit your comments in writing\, please email your comments to\nc
+ lerks@burlington.ca\n. Written correspondence will be circulated to commit
+ tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025
+ -11-03-1300-Committee-of-the-Whole-Note-revised-start-time-the\n\nAgenda: 
+ https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=2eac415c-
+ d64a-4e0b-b83c-15ac8966aff9&Agenda=Agenda&lang=English https://events.burl
+ ington.ca/meetings/Detail/2025-11-03-1300-Committee-of-the-Whole-Note-revi
+ sed-start-time-the/67c276d5-870e-406f-9eb0-b38300ebdbcf https://events.bur
+ lington.ca/meetings/Detail/2025-11-03-1300-Committee-of-the-Whole-Note-rev
+ ised-start-time-the/f195c45b-b2c9-4e95-9b10-b387014f1eea https://burlingto
+ npublishing.escribemeetings.com/Meeting.aspx?Id=2eac415c-d64a-4e0b-b83c-15
+ ac8966aff9&Agenda=Merged&lang=English\n\nPackage: https://events.burlingto
+ n.ca/meetings/Detail/2025-11-03-1300-Committee-of-the-Whole-Note-revised-s
+ tart-time-the/aeedcbf1-935f-4644-9c1d-b387014df47a https://burlingtonpubli
+ shing.escribemeetings.com/Meeting.aspx?Id=2eac415c-d64a-4e0b-b83c-15ac8966
+ aff9&Agenda=Addendum&lang=English
+URL:https://events.burlington.ca/meetings/Detail/2025-11-03-1300-Committee
+ -of-the-Whole-Note-revised-start-time-the
 END:VEVENT
 END:VCALENDAR
