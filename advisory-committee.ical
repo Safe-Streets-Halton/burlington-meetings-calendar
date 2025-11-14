@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20251121T140000Z
 DTEND:20251121T160000Z
-DTSTAMP:20251113T054132Z
+DTSTAMP:20251114T054048Z
 UID:a1708a5a-e510-58e3-9359-d688d1402add
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -22,15 +22,42 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
   webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
  ails: https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burling
- ton-Inclusivity-Advisory-Committee
+ ton-Inclusivity-Advisory-Committee\n\nAgenda: https://burlingtonpublishing
+ .escribemeetings.com/Meeting.aspx?Id=44ed16a2-045b-4763-90be-c2bc04e1852e&
+ Agenda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/20
+ 25-11-21-0900-Burlington-Inclusivity-Advisory-Committee/a6cde367-0c91-4d74
+ -a747-b394015333e8
 URL:https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burlingto
  n-Inclusivity-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
+DTSTART:20251120T000000Z
+DTEND:20251120T020000Z
+DTSTAMP:20251114T054048Z
+UID:ea344f2c-b53f-5bbb-bc9e-afae99af674b
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Agricultural and Rural Affairs Advisory Committee is a committee m
+ ade up of community volunteers and reports to City Council through the Com
+ mittee of the Whole meeting. The mandate of the committee is to provide ad
+ vice to Council on Burlington's agricultural and rural goals\, objectives 
+ and policies\; and to raise community awareness and understanding of agric
+ ultural and rural issues as they relate to the city and its activities.\nP
+ lease note Advisory Committees are not webcasted. There is no link to a vi
+ deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
+ etings/Detail/2025-11-19-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
+ visory
+URL:https://events.burlington.ca/meetings/Detail/2025-11-19-1900-Burlingto
+ n-Agricultural-and-Rural-Affairs-Advisory
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20251125T000000Z
 DTEND:20251125T020000Z
-DTSTAMP:20251113T054132Z
+DTSTAMP:20251114T054048Z
 UID:37c3adc1-bd4c-57f5-8333-0ad34e18cac3
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -51,79 +78,43 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-24-1900-Integrate
  d-Transportation-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
-DTSTART:20251120T000000Z
-DTEND:20251120T020000Z
-DTSTAMP:20251113T054132Z
-UID:ea344f2c-b53f-5bbb-bc9e-afae99af674b
+SUMMARY:Burlington Seniors' Advisory Committee
+DTSTART:20251117T150000Z
+DTEND:20251117T170000Z
+DTSTAMP:20251114T054048Z
+UID:7023e66f-dad4-5b80-9d59-cc2a0b3af8ed
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
   to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Agricultural and Rural Affairs Advisory Committee is a committee m
- ade up of community volunteers and reports to City Council through the Com
- mittee of the Whole meeting. The mandate of the committee is to provide ad
- vice to Council on Burlington's agricultural and rural goals\, objectives 
- and policies\; and to raise community awareness and understanding of agric
- ultural and rural issues as they relate to the city and its activities.\nP
- lease note Advisory Committees are not webcasted. There is no link to a vi
- deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
- etings/Detail/2025-11-19-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
- visory
-URL:https://events.burlington.ca/meetings/Detail/2025-11-19-1900-Burlingto
- n-Agricultural-and-Rural-Affairs-Advisory
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burlington Downtown Parking Advisory Committee
-DTSTART:20251120T133000Z
-DTEND:20251120T150000Z
-DTSTAMP:20251113T054132Z
-UID:45b328fb-5710-5175-915b-6cac03b625b2
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Dow
- ntown Parking Committee (DPC)\, an advisory Committee of Council\, was cre
- ated on April 28\, 2003. The DPC provides comments and advice to the Commi
- ttee of the Whole meetings on strategies and policies that affect the deve
- lopment and delivery of parking services in downtown Burlington.\nPlease n
- ote Advisory Committees are not webcasted. There is no link to a video at 
- HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meetings
- /Detail/2025-11-20-0830-Burlington-Downtown-Parking-Advisory-Committee\n\n
- Agenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=b
- 41bf30a-9a9c-44c7-a950-d9910b917110&Agenda=Agenda&lang=English https://eve
- nts.burlington.ca/meetings/Detail/2025-11-20-0830-Burlington-Downtown-Park
- ing-Advisory-Committee/4a87ee77-534d-457e-966a-b38c011b1b48
-URL:https://events.burlington.ca/meetings/Detail/2025-11-20-0830-Burlingto
- n-Downtown-Parking-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heritage Burlington Advisory Committee
-DTSTART:20251211T000000Z
-DTEND:20251211T020000Z
-DTSTAMP:20251113T054132Z
-UID:58a661fe-8066-52de-9377-3ecaa39735d5
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
- e Burlington Advisory Committee is a committee made up of community volunt
- eers and reports to City Council through the Committee of the Whole. The m
- andate of the committee is to provide advice to Council on issues related 
- to the conservation of Burlington's cultural heritage and to promote commu
- nity awareness and understanding of Burlington's cultural heritage. For an
- y additional information\, please see www.Burlington.ca/heritageburlington
- .\nPlease note Advisory Committees are not webcasted. There is no link to 
- a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
- /meetings/Detail/2025-12-10-1900-Heritage-Burlington-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
- Burlington-Advisory-Committee
+ lington Seniors' Advisory Committee (BSAC) is a committee made up of commu
+ nity volunteers and reports to City Council through the Committee of the W
+ hole meeting. BSAC represents Burlington seniors' perspectives on municipa
+ l and other key seniors' issues\, for example: transportation\, isolation\
+ , affordability\, parks and recreation services\, geographical service del
+ ivery. BSAC provides a voice for Burlington seniors\, exchanging informati
+ on about current issues and emerging concerns and provides input to city s
+ taff as requested and to the Halton Region's Older Adult Advisory Committe
+ e (OAAC) on an ongoing basis. BSAC responds to seniors' community needs an
+ d creates and executes an annual work plan\, which may include: hosting se
+ niors' discussion forums\, supporting strategic planning for development o
+ f local seniors' services\, public information. For any additional informa
+ tion\, please see\nwww.Burlington.ca/bsac\n.\nPlease note Advisory Committ
+ ees are not webcasted. There is no link to a video at HTML- Minutes and Vi
+ deo.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11-17-1
+ 000-Burlington-Seniors-Advisory-Committee\n\nAgenda: https://burlingtonpub
+ lishing.escribemeetings.com/Meeting.aspx?Id=6a5311ab-0d30-4e83-9fb6-b41f67
+ 0593ab&Agenda=Agenda&lang=English https://events.burlington.ca/meetings/De
+ tail/2025-11-17-1000-Burlington-Seniors-Advisory-Committee/5af76d26-abe3-4
+ 216-8e2f-b39300f1ae02
+URL:https://events.burlington.ca/meetings/Detail/2025-11-17-1000-Burlingto
+ n-Seniors-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burlington Accessibility Advisory Committee
 DTSTART:20251114T000000Z
 DTEND:20251114T020000Z
-DTSTAMP:20251113T054132Z
+DTSTAMP:20251114T054048Z
 UID:62b6163c-3178-5045-b4af-dc1e877a6769
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -158,43 +149,34 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-13-1900-Burlingto
  n-Accessibility-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Seniors' Advisory Committee
-DTSTART:20251117T150000Z
-DTEND:20251117T170000Z
-DTSTAMP:20251113T054132Z
-UID:7023e66f-dad4-5b80-9d59-cc2a0b3af8ed
+SUMMARY:Burlington Downtown Parking Advisory Committee
+DTSTART:20251120T133000Z
+DTEND:20251120T150000Z
+DTSTAMP:20251114T054048Z
+UID:45b328fb-5710-5175-915b-6cac03b625b2
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Seniors' Advisory Committee (BSAC) is a committee made up of commu
- nity volunteers and reports to City Council through the Committee of the W
- hole meeting. BSAC represents Burlington seniors' perspectives on municipa
- l and other key seniors' issues\, for example: transportation\, isolation\
- , affordability\, parks and recreation services\, geographical service del
- ivery. BSAC provides a voice for Burlington seniors\, exchanging informati
- on about current issues and emerging concerns and provides input to city s
- taff as requested and to the Halton Region's Older Adult Advisory Committe
- e (OAAC) on an ongoing basis. BSAC responds to seniors' community needs an
- d creates and executes an annual work plan\, which may include: hosting se
- niors' discussion forums\, supporting strategic planning for development o
- f local seniors' services\, public information. For any additional informa
- tion\, please see\nwww.Burlington.ca/bsac\n.\nPlease note Advisory Committ
- ees are not webcasted. There is no link to a video at HTML- Minutes and Vi
- deo.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11-17-1
- 000-Burlington-Seniors-Advisory-Committee\n\nAgenda: https://burlingtonpub
- lishing.escribemeetings.com/Meeting.aspx?Id=6a5311ab-0d30-4e83-9fb6-b41f67
- 0593ab&Agenda=Agenda&lang=English https://events.burlington.ca/meetings/De
- tail/2025-11-17-1000-Burlington-Seniors-Advisory-Committee/5af76d26-abe3-4
- 216-8e2f-b39300f1ae02
-URL:https://events.burlington.ca/meetings/Detail/2025-11-17-1000-Burlingto
- n-Seniors-Advisory-Committee
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Dow
+ ntown Parking Committee (DPC)\, an advisory Committee of Council\, was cre
+ ated on April 28\, 2003. The DPC provides comments and advice to the Commi
+ ttee of the Whole meetings on strategies and policies that affect the deve
+ lopment and delivery of parking services in downtown Burlington.\nPlease n
+ ote Advisory Committees are not webcasted. There is no link to a video at 
+ HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meetings
+ /Detail/2025-11-20-0830-Burlington-Downtown-Parking-Advisory-Committee\n\n
+ Agenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=b
+ 41bf30a-9a9c-44c7-a950-d9910b917110&Agenda=Agenda&lang=English https://eve
+ nts.burlington.ca/meetings/Detail/2025-11-20-0830-Burlington-Downtown-Park
+ ing-Advisory-Committee/4a87ee77-534d-457e-966a-b38c011b1b48
+URL:https://events.burlington.ca/meetings/Detail/2025-11-20-0830-Burlingto
+ n-Downtown-Parking-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20251113T000000Z
 DTEND:20251113T020000Z
-DTSTAMP:20251113T054132Z
+DTSTAMP:20251114T054048Z
 UID:42264cd6-76e8-5f32-a6c8-8d6acd482cc8
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -217,30 +199,25 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-12-1900-Heritage-
  Burlington-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
-DTSTART:20251106T143000Z
-DTEND:20251106T163000Z
-DTSTAMP:20251113T054134Z
-UID:3e106471-219a-50e8-9109-509b01412c1c
+SUMMARY:Heritage Burlington Advisory Committee
+DTSTART:20251211T000000Z
+DTEND:20251211T020000Z
+DTSTAMP:20251114T054049Z
+UID:58a661fe-8066-52de-9377-3ecaa39735d5
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington School Traffic Safety and Mobility Advisory Committee is a committ
- ee comprised of community volunteers and Halton District School Board and 
- Halton Catholic District School Board Trustees and reports to City Council
-  through the Committee of the Whole. The mandate of this committee is to i
- dentify\, assess\, and provide recommendations on school traffic and mobil
- ity-related risks\, with the goal of implementing measures that improve sa
- fety in and around school areas.\nPlease note Advisory Committees are not 
- webcasted. There is no link to a video at HTML-Minutes and Video.\n\nDetai
- ls: https://events.burlington.ca/meetings/Detail/2025-11-06-0930-Burlingto
- n-School-Traffic-Safety-and-Mobility-Advi2\n\nAgenda: https://burlingtonpu
- blishing.escribemeetings.com/Meeting.aspx?Id=fabdfa10-3f30-499a-b390-0b903
- a1e10eb&Agenda=Agenda&lang=English https://events.burlington.ca/meetings/D
- etail/2025-11-06-0930-Burlington-School-Traffic-Safety-and-Mobility-Advi2/
- 51566cde-4c6f-4502-a504-b38601342684
-URL:https://events.burlington.ca/meetings/Detail/2025-11-06-0930-Burlingto
- n-School-Traffic-Safety-and-Mobility-Advi2
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
+ e Burlington Advisory Committee is a committee made up of community volunt
+ eers and reports to City Council through the Committee of the Whole. The m
+ andate of the committee is to provide advice to Council on issues related 
+ to the conservation of Burlington's cultural heritage and to promote commu
+ nity awareness and understanding of Burlington's cultural heritage. For an
+ y additional information\, please see www.Burlington.ca/heritageburlington
+ .\nPlease note Advisory Committees are not webcasted. There is no link to 
+ a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
+ /meetings/Detail/2025-12-10-1900-Heritage-Burlington-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
+ Burlington-Advisory-Committee
 END:VEVENT
 END:VCALENDAR
