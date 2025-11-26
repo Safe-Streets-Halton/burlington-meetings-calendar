@@ -3,10 +3,32 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:Heritage Burlington Advisory Committee
+DTSTART:20251211T000000Z
+DTEND:20251211T020000Z
+DTSTAMP:20251126T054129Z
+UID:58a661fe-8066-52de-9377-3ecaa39735d5
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
+ e Burlington Advisory Committee is a committee made up of community volunt
+ eers and reports to City Council through the Committee of the Whole. The m
+ andate of the committee is to provide advice to Council on issues related 
+ to the conservation of Burlington's cultural heritage and to promote commu
+ nity awareness and understanding of Burlington's cultural heritage. For an
+ y additional information\, please see www.Burlington.ca/heritageburlington
+ .\nPlease note Advisory Committees are not webcasted. There is no link to 
+ a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
+ /meetings/Detail/2025-12-10-1900-Heritage-Burlington-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
+ Burlington-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burlington Cycling Advisory Committee
 DTSTART:20251126T000000Z
 DTEND:20251126T020000Z
-DTSTAMP:20251125T054228Z
+DTSTAMP:20251126T054129Z
 UID:f4bfc76d-e7ea-5269-89b3-222d7c9d94a2
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -31,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20251125T000000Z
 DTEND:20251125T020000Z
-DTSTAMP:20251125T054228Z
+DTSTAMP:20251126T054129Z
 UID:37c3adc1-bd4c-57f5-8333-0ad34e18cac3
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -56,38 +78,10 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-24-1900-Integrate
  d-Transportation-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Inclusivity Advisory Committee
-DTSTART:20251121T140000Z
-DTEND:20251121T160000Z
-DTSTAMP:20251125T054228Z
-UID:a1708a5a-e510-58e3-9359-d688d1402add
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Inclusivity  Advisory Committee is a committee made up of communi
- ty volunteers and reports to City Council through the Committee of the Who
- le meeting. The committee provides a monitoring and measuring role to help
-  ensure that the City applies an inclusion lens to its policies\, services
-  and programs. Our mission is to embrace diversity by providing opportunit
- ies for all members of the community that reflect the ideals of acceptance
- \, accommodation and respect. For any additional information\, please see\
- nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
-  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
- ails: https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burling
- ton-Inclusivity-Advisory-Committee\n\nAgenda: https://burlingtonpublishing
- .escribemeetings.com/Meeting.aspx?Id=44ed16a2-045b-4763-90be-c2bc04e1852e&
- Agenda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/20
- 25-11-21-0900-Burlington-Inclusivity-Advisory-Committee/a6cde367-0c91-4d74
- -a747-b394015333e8
-URL:https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burlingto
- n-Inclusivity-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burlington Downtown Parking Advisory Committee
 DTSTART:20251120T133000Z
 DTEND:20251120T150000Z
-DTSTAMP:20251125T054228Z
+DTSTAMP:20251126T054129Z
 UID:45b328fb-5710-5175-915b-6cac03b625b2
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -111,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20251120T000000Z
 DTEND:20251120T020000Z
-DTSTAMP:20251125T054228Z
+DTSTAMP:20251126T054130Z
 UID:ea344f2c-b53f-5bbb-bc9e-afae99af674b
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -134,25 +128,31 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-19-1900-Burlingto
  n-Agricultural-and-Rural-Affairs-Advisory
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heritage Burlington Advisory Committee
-DTSTART:20251211T000000Z
-DTEND:20251211T020000Z
-DTSTAMP:20251125T054230Z
-UID:58a661fe-8066-52de-9377-3ecaa39735d5
+SUMMARY:Burlington Inclusivity Advisory Committee
+DTSTART:20251121T140000Z
+DTEND:20251121T160000Z
+DTSTAMP:20251126T054131Z
+UID:a1708a5a-e510-58e3-9359-d688d1402add
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
- e Burlington Advisory Committee is a committee made up of community volunt
- eers and reports to City Council through the Committee of the Whole. The m
- andate of the committee is to provide advice to Council on issues related 
- to the conservation of Burlington's cultural heritage and to promote commu
- nity awareness and understanding of Burlington's cultural heritage. For an
- y additional information\, please see www.Burlington.ca/heritageburlington
- .\nPlease note Advisory Committees are not webcasted. There is no link to 
- a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
- /meetings/Detail/2025-12-10-1900-Heritage-Burlington-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
- Burlington-Advisory-Committee
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Inclusivity  Advisory Committee is a committee made up of communi
+ ty volunteers and reports to City Council through the Committee of the Who
+ le meeting. The committee provides a monitoring and measuring role to help
+  ensure that the City applies an inclusion lens to its policies\, services
+  and programs. Our mission is to embrace diversity by providing opportunit
+ ies for all members of the community that reflect the ideals of acceptance
+ \, accommodation and respect. For any additional information\, please see\
+ nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
+  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
+ ails: https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burling
+ ton-Inclusivity-Advisory-Committee\n\nAgenda: https://burlingtonpublishing
+ .escribemeetings.com/Meeting.aspx?Id=44ed16a2-045b-4763-90be-c2bc04e1852e&
+ Agenda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/20
+ 25-11-21-0900-Burlington-Inclusivity-Advisory-Committee/a6cde367-0c91-4d74
+ -a747-b394015333e8
+URL:https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burlingto
+ n-Inclusivity-Advisory-Committee
 END:VEVENT
 END:VCALENDAR
