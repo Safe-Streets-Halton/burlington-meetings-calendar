@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20251211T000000Z
 DTEND:20251211T020000Z
-DTSTAMP:20251126T054129Z
+DTSTAMP:20251127T054215Z
 UID:58a661fe-8066-52de-9377-3ecaa39735d5
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Cycling Advisory Committee
 DTSTART:20251126T000000Z
 DTEND:20251126T020000Z
-DTSTAMP:20251126T054129Z
+DTSTAMP:20251127T054215Z
 UID:f4bfc76d-e7ea-5269-89b3-222d7c9d94a2
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20251125T000000Z
 DTEND:20251125T020000Z
-DTSTAMP:20251126T054129Z
+DTSTAMP:20251127T054215Z
 UID:37c3adc1-bd4c-57f5-8333-0ad34e18cac3
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -78,60 +78,10 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-24-1900-Integrate
  d-Transportation-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Downtown Parking Advisory Committee
-DTSTART:20251120T133000Z
-DTEND:20251120T150000Z
-DTSTAMP:20251126T054129Z
-UID:45b328fb-5710-5175-915b-6cac03b625b2
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Dow
- ntown Parking Committee (DPC)\, an advisory Committee of Council\, was cre
- ated on April 28\, 2003. The DPC provides comments and advice to the Commi
- ttee of the Whole meetings on strategies and policies that affect the deve
- lopment and delivery of parking services in downtown Burlington.\nPlease n
- ote Advisory Committees are not webcasted. There is no link to a video at 
- HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meetings
- /Detail/2025-11-20-0830-Burlington-Downtown-Parking-Advisory-Committee\n\n
- Agenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=b
- 41bf30a-9a9c-44c7-a950-d9910b917110&Agenda=Agenda&lang=English https://eve
- nts.burlington.ca/meetings/Detail/2025-11-20-0830-Burlington-Downtown-Park
- ing-Advisory-Committee/4a87ee77-534d-457e-966a-b38c011b1b48
-URL:https://events.burlington.ca/meetings/Detail/2025-11-20-0830-Burlingto
- n-Downtown-Parking-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
-DTSTART:20251120T000000Z
-DTEND:20251120T020000Z
-DTSTAMP:20251126T054130Z
-UID:ea344f2c-b53f-5bbb-bc9e-afae99af674b
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Agricultural and Rural Affairs Advisory Committee is a committee m
- ade up of community volunteers and reports to City Council through the Com
- mittee of the Whole meeting. The mandate of the committee is to provide ad
- vice to Council on Burlington's agricultural and rural goals\, objectives 
- and policies\; and to raise community awareness and understanding of agric
- ultural and rural issues as they relate to the city and its activities.\nP
- lease note Advisory Committees are not webcasted. There is no link to a vi
- deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
- etings/Detail/2025-11-19-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
- visory\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meeting
- .aspx?Id=d38192fd-0f8e-4b5b-a18a-17617bd8a071&Agenda=Agenda&lang=English h
- ttps://events.burlington.ca/meetings/Detail/2025-11-19-1900-Burlington-Agr
- icultural-and-Rural-Affairs-Advisory/2089fec7-b867-4d66-8954-b398012bd233
-URL:https://events.burlington.ca/meetings/Detail/2025-11-19-1900-Burlingto
- n-Agricultural-and-Rural-Affairs-Advisory
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20251121T140000Z
 DTEND:20251121T160000Z
-DTSTAMP:20251126T054131Z
+DTSTAMP:20251127T054215Z
 UID:a1708a5a-e510-58e3-9359-d688d1402add
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -154,5 +104,29 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  -a747-b394015333e8
 URL:https://events.burlington.ca/meetings/Detail/2025-11-21-0900-Burlingto
  n-Inclusivity-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burlington Downtown Parking Advisory Committee
+DTSTART:20251120T133000Z
+DTEND:20251120T150000Z
+DTSTAMP:20251127T054215Z
+UID:45b328fb-5710-5175-915b-6cac03b625b2
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Dow
+ ntown Parking Committee (DPC)\, an advisory Committee of Council\, was cre
+ ated on April 28\, 2003. The DPC provides comments and advice to the Commi
+ ttee of the Whole meetings on strategies and policies that affect the deve
+ lopment and delivery of parking services in downtown Burlington.\nPlease n
+ ote Advisory Committees are not webcasted. There is no link to a video at 
+ HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meetings
+ /Detail/2025-11-20-0830-Burlington-Downtown-Parking-Advisory-Committee\n\n
+ Agenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=b
+ 41bf30a-9a9c-44c7-a950-d9910b917110&Agenda=Agenda&lang=English https://eve
+ nts.burlington.ca/meetings/Detail/2025-11-20-0830-Burlington-Downtown-Park
+ ing-Advisory-Committee/4a87ee77-534d-457e-966a-b38c011b1b48
+URL:https://events.burlington.ca/meetings/Detail/2025-11-20-0830-Burlingto
+ n-Downtown-Parking-Advisory-Committee
 END:VEVENT
 END:VCALENDAR
