@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20251211T000000Z
 DTEND:20251211T020000Z
-DTSTAMP:20251129T054033Z
+DTSTAMP:20251130T054113Z
 UID:58a661fe-8066-52de-9377-3ecaa39735d5
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -25,10 +25,35 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
  Burlington-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burlington Cycling Advisory Committee
+DTSTART:20251126T000000Z
+DTEND:20251126T020000Z
+DTSTAMP:20251130T054115Z
+UID:f4bfc76d-e7ea-5269-89b3-222d7c9d94a2
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Cycling Advisory Committee is a committee made up of community vol
+ unteers and reports to City Council through the Committee of the Whole mee
+ ting. The role of the committee is to advise Council on matters pertaining
+  to cycling in the City of Burlington. For any additional information\, pl
+ ease see www.Burlington.ca/cycling.\nPlease note Advisory Committees are n
+ ot webcasted. There is no link to a video at HTML- Minutes and Video.\n\nD
+ etails: https://events.burlington.ca/meetings/Detail/2025-11-25-1900-Burli
+ ngton-Cycling-Advisory-Committee\n\nAgenda: https://burlingtonpublishing.e
+ scribemeetings.com/Meeting.aspx?Id=fb512365-4ad7-4e23-9792-3cd20be49666&Ag
+ enda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/2025
+ -11-25-1900-Burlington-Cycling-Advisory-Committee/2222e8e2-97b9-4937-b311-
+ b39f014fa503
+URL:https://events.burlington.ca/meetings/Detail/2025-11-25-1900-Burlingto
+ n-Cycling-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20251125T000000Z
 DTEND:20251125T020000Z
-DTSTAMP:20251129T054035Z
+DTSTAMP:20251130T054118Z
 UID:37c3adc1-bd4c-57f5-8333-0ad34e18cac3
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -51,30 +76,5 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  tee/8c4cd275-8bff-48af-b51e-b39800faaa06
 URL:https://events.burlington.ca/meetings/Detail/2025-11-24-1900-Integrate
  d-Transportation-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burlington Cycling Advisory Committee
-DTSTART:20251126T000000Z
-DTEND:20251126T020000Z
-DTSTAMP:20251129T054035Z
-UID:f4bfc76d-e7ea-5269-89b3-222d7c9d94a2
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Cycling Advisory Committee is a committee made up of community vol
- unteers and reports to City Council through the Committee of the Whole mee
- ting. The role of the committee is to advise Council on matters pertaining
-  to cycling in the City of Burlington. For any additional information\, pl
- ease see www.Burlington.ca/cycling.\nPlease note Advisory Committees are n
- ot webcasted. There is no link to a video at HTML- Minutes and Video.\n\nD
- etails: https://events.burlington.ca/meetings/Detail/2025-11-25-1900-Burli
- ngton-Cycling-Advisory-Committee\n\nAgenda: https://burlingtonpublishing.e
- scribemeetings.com/Meeting.aspx?Id=fb512365-4ad7-4e23-9792-3cd20be49666&Ag
- enda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/2025
- -11-25-1900-Burlington-Cycling-Advisory-Committee/2222e8e2-97b9-4937-b311-
- b39f014fa503
-URL:https://events.burlington.ca/meetings/Detail/2025-11-25-1900-Burlingto
- n-Cycling-Advisory-Committee
 END:VEVENT
 END:VCALENDAR
