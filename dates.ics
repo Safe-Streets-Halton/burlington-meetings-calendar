@@ -3,28 +3,25 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Council Workshop Committee
-DTSTART:20260115T180000Z
-DTEND:20260115T213000Z
-DTSTAMP:20251130T054113Z
-UID:9eac342e-0f39-55b6-9734-e8e934d25f41
-DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
- . Workshops are live webcasted\, and archived on the city website. Council
-  Workshop meets when time is required for training\, discussions with othe
- r levels of government and outside agencies\, workshops on complex matters
- \, and strategic planning. Delegations are not permitted at Council Worksh
- ops.\nMeeting agendas\, dates or times may change. To verify information\,
-  contact Legislative Services at\nclerks@burlington.ca\n\nDetails: https:/
- /events.burlington.ca/meetings/Detail/2026-01-15-1300-Council-Workshop-Com
- mittee
-URL:https://events.burlington.ca/meetings/Detail/2026-01-15-1300-Council-W
- orkshop-Committee
+SUMMARY:Pipeline to Permit Committee
+DTSTART:20260115T143000Z
+DTEND:20260115T170000Z
+DTSTAMP:20251201T054741Z
+UID:3ea59441-dcdf-5e0c-a04d-b014f7276108
+DESCRIPTION:Standing committee and City Council meetings are held at City 
+ Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
+ slative Services at\nclerks@burlington.ca\nby noon the business day before
+  the meeting date. Correspondence will be circulated to committee members.
+ \n\nDetails: https://events.burlington.ca/meetings/Detail/2026-01-15-0930-
+ Pipeline-to-Permit-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-01-15-0930-Pipeline-
+ to-Permit-Committee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pipeline to Permit Committee
 DTSTART:20251204T143000Z
 DTEND:20251204T170000Z
-DTSTAMP:20251130T054113Z
+DTSTAMP:20251201T054741Z
 UID:42c6e359-6641-5e07-8c49-a684c63a43a9
 DESCRIPTION:Standing committee and City Council meetings are held at City 
  Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
@@ -39,47 +36,10 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-04-0930-Pipeline-
  to-Permit-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heritage Burlington Advisory Committee
-DTSTART:20251211T000000Z
-DTEND:20251211T020000Z
-DTSTAMP:20251130T054113Z
-UID:58a661fe-8066-52de-9377-3ecaa39735d5
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
- e Burlington Advisory Committee is a committee made up of community volunt
- eers and reports to City Council through the Committee of the Whole. The m
- andate of the committee is to provide advice to Council on issues related 
- to the conservation of Burlington's cultural heritage and to promote commu
- nity awareness and understanding of Burlington's cultural heritage. For an
- y additional information\, please see www.Burlington.ca/heritageburlington
- .\nPlease note Advisory Committees are not webcasted. There is no link to 
- a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
- /meetings/Detail/2025-12-10-1900-Heritage-Burlington-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
- Burlington-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pipeline to Permit Committee
-DTSTART:20260115T143000Z
-DTEND:20260115T170000Z
-DTSTAMP:20251130T054113Z
-UID:3ea59441-dcdf-5e0c-a04d-b014f7276108
-DESCRIPTION:Standing committee and City Council meetings are held at City 
- Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
- slative Services at\nclerks@burlington.ca\nby noon the business day before
-  the meeting date. Correspondence will be circulated to committee members.
- \n\nDetails: https://events.burlington.ca/meetings/Detail/2026-01-15-0930-
- Pipeline-to-Permit-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-01-15-0930-Pipeline-
- to-Permit-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Committee of the Whole
 DTSTART:20260112T143000Z
 DTEND:20260112T213000Z
-DTSTAMP:20251130T054114Z
+DTSTAMP:20251201T054741Z
 UID:0de493f0-5a61-5b6f-a099-c0c554567951
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -95,10 +55,36 @@ URL:https://events.burlington.ca/meetings/Detail/2026-01-12-0930-Committee
  -of-the-Whole
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Regular Meeting of Council
+DTSTART:20251209T143000Z
+DTEND:20251209T213000Z
+DTSTAMP:20251201T054741Z
+UID:a94f5ffd-7991-52c4-ac46-2b09429043d9
+DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
+ quests to speak at this meeting can be made by completing the online deleg
+ ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
+  written request by email to Legislative Services at\nclerks@burlington.ca
+ \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
+ he meeting date. If you do not wish to speak\, but would like to submit yo
+ ur comments in writing\, please email your comments to\nclerks@burlington.
+ ca\n. Correspondence (delegation notes and written comments) will be circu
+ lated to committee members and attached to the meeting minutes\, forming p
+ art of the public record.\nCouncil meetings are where the final approval t
+ akes place of items that went to the meetings of the Committee of the Whol
+ e\, Pipeline to Permit Committee\, Council Workshop and Audit Committee. M
+ eeting agendas\, dates or times may change. To verify information\, contac
+ t the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 90
+ 5-335-7600 Ext. 7481. Note: Special meetings of Council may be scheduled a
+ s required.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-
+ 12-09-0930-Regular-Meeting-of-Council
+URL:https://events.burlington.ca/meetings/Detail/2025-12-09-0930-Regular-M
+ eeting-of-Council
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Committee of the Whole
 DTSTART:20251202T143000Z
 DTEND:20251202T213000Z
-DTSTAMP:20251130T054114Z
+DTSTAMP:20251201T054741Z
 UID:41d083ee-5116-58d7-9bdf-18016475ad8e
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -117,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Audit Committee
 DTSTART:20251203T203000Z
 DTEND:20251203T223000Z
-DTSTAMP:20251130T054114Z
+DTSTAMP:20251201T054741Z
 UID:194c4bb1-90a8-5b84-be5b-1fc4a5648561
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -138,10 +124,56 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-03-1530-Audit-Com
  mittee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heritage Burlington Advisory Committee
+DTSTART:20251211T000000Z
+DTEND:20251211T020000Z
+DTSTAMP:20251201T054741Z
+UID:58a661fe-8066-52de-9377-3ecaa39735d5
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
+ e Burlington Advisory Committee is a committee made up of community volunt
+ eers and reports to City Council through the Committee of the Whole. The m
+ andate of the committee is to provide advice to Council on issues related 
+ to the conservation of Burlington's cultural heritage and to promote commu
+ nity awareness and understanding of Burlington's cultural heritage. For an
+ y additional information\, please see www.Burlington.ca/heritageburlington
+ .\nPlease note Advisory Committees are not webcasted. There is no link to 
+ a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
+ /meetings/Detail/2025-12-10-1900-Heritage-Burlington-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
+ Burlington-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Council Information Package
+DTSTART:20251128T160000Z
+DTEND:20251128T170000Z
+DTSTAMP:20251201T054741Z
+UID:8e6a53cc-9931-52ea-be00-daea05d988af
+DESCRIPTION:Council Information Packages (CIPS) are published every week o
+ n Friday afternoons for members of City Council and the public. They can i
+ nclude information reports and memos from staff\, inter-governmental corre
+ spondence from the provincial and federal government\, other municipalitie
+ s and from local boards and committees\nCouncil Information Packages\npubl
+ ished before January 2025 can be found on the\nCouncil Information Package
+  Page.\nMembers of City Council may request that an information item be pl
+ aced on the next available Committee of the Whole agenda.\nIf you require 
+ the CIP in an alternative format or with communication supports\, please s
+ ubmit an\nAccessible Document and Communication request.\n\nDetails: https
+ ://events.burlington.ca/meetings/Detail/2025-11-28-1100-Council-Informatio
+ n-Package\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meet
+ ing.aspx?Id=12c7c2b5-2469-4d9b-a65a-1ccb252bd95e&Agenda=Agenda&lang=Englis
+ h https://events.burlington.ca/meetings/Detail/2025-11-28-1100-Council-Inf
+ ormation-Package/99e13944-585d-42b4-9c0a-b3a300efc07e
+URL:https://events.burlington.ca/meetings/Detail/2025-11-28-1100-Council-I
+ nformation-Package
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Council Workshop Committee (Canceled not required)
 DTSTART:20251204T180000Z
 DTEND:20251204T213000Z
-DTSTAMP:20251130T054114Z
+DTSTAMP:20251201T054741Z
 UID:97638a5c-caf4-502f-a2d3-6dd919b91173
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -156,39 +188,88 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-04-1300-Council-W
  orkshop-Committee-Canceled-not-required
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Special Meeting of Council/Statutory Public Meeting
-DTSTART:20260106T143000Z
-DTEND:20260106T213000Z
-DTSTAMP:20251130T054114Z
-UID:47a6a9f5-e4c4-5c12-ae5d-4a018d34cfee
-DESCRIPTION:This Special Council/Statutory Public meeting is called by the
-  Mayor to consider an Official Plan amendment & Zoning By-law amendment fo
- r a proposed 23-storey mixed use building at 2076 Old Lakeshore Road in th
- e downtown. This development application requires a Council decision withi
- n 120 days (before January 10\, 2026).\nStanding committee and City Counci
- l meetings are held at city hall\, 426 Brant St. Requests to speak at this
-  meeting can be made by completing the online delegation registration form
-  at\nwww.burlington.ca/delegate\n\, by submitting a written request by ema
- il to Legislative Services at\nclerks@burlington.ca\nor by phoning 905-335
- -7777\, ext. 7481 by noon the business day before the meeting date. If you
-  do not wish to speak\, but would like to submit your comments in writing\
- , please email your comments to\nclerks@burlington.ca\n. Correspondence (d
- elegation notes and written comments) will be circulated to committee memb
- ers.\nSpecial Meetings of Council are not scheduled in accordance with the
-  approved calendar of meetings for the year. These meetings are held to de
- al with time sensitive or emergency situations. Meeting agendas\, dates or
-  times may change. To verify information contact the Legislative Services 
- department at 905-335-7777 Ext. 7698.\n\nDetails: https://events.burlingto
- n.ca/meetings/Detail/2026-01-06-0930-Special-Meeting-of-CouncilStatutory-P
- ublic-Meeting
-URL:https://events.burlington.ca/meetings/Detail/2026-01-06-0930-Special-M
- eeting-of-CouncilStatutory-Public-Meeting
+SUMMARY:Integrated Transportation Advisory Committee
+DTSTART:20251125T000000Z
+DTEND:20251125T020000Z
+DTSTAMP:20251201T054741Z
+UID:37c3adc1-bd4c-57f5-8333-0ad34e18cac3
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Int
+ egrated Transportation Advisory Committee (ITAC) is a committee made up of
+  community volunteers and reports to City Council through the Committee of
+  the Whole. This advisory committee focuses on all forms of transportation
+  in the community including pedestrian\, cycling\, transit and driving. Th
+ e committee provides input to Council and staff on policies\, initiatives 
+ and strategies affecting transportation including but not limited to: road
+  safety\, cycling\, transit and integrated mobility. For any additional in
+ formation\, please see\nwww.Burlington.ca/ITAC\n.\nPlease note Advisory Co
+ mmittees are not webcasted. There is no link to a video at HTML- Minutes a
+ nd Video.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11
+ -24-1900-Integrated-Transportation-Advisory-Committee\n\nAgenda: https://b
+ urlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=97cd31bc-445b-4865
+ -974e-81c15f23b089&Agenda=Agenda&lang=English https://events.burlington.ca
+ /meetings/Detail/2025-11-24-1900-Integrated-Transportation-Advisory-Commit
+ tee/8c4cd275-8bff-48af-b51e-b39800faaa06
+URL:https://events.burlington.ca/meetings/Detail/2025-11-24-1900-Integrate
+ d-Transportation-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special Meeting of Council - Immediately following Committee of th
+ e Whole
+DTSTART:20251202T203000Z
+DTEND:20251202T213000Z
+DTSTAMP:20251201T054741Z
+UID:647ff2fd-fe9a-51a2-b580-8789a860efb9
+DESCRIPTION:The purpose of this Special Council meeting is to finalize the
+  2026 Budget meeting the 30-day timelines of Strong Mayor legislatio.\nSta
+ nding committee and City Council meetings are held at city hall\, 426 Bran
+ t St. Requests to speak at this meeting can be made by completing the onli
+ ne delegation registration form at\nwww.burlington.ca/delegate\n\, by subm
+ itting a written request by email to Legislative Services at\nclerks@burli
+ ngton.ca\nor by phoning 905-335-7777\, ext. 7481 by noon the business day 
+ before the meeting date. If you do not wish to speak\, but would like to s
+ ubmit your comments in writing\, please email your comments to\nclerks@bur
+ lington.ca\n. Correspondence (delegation notes and written comments) will 
+ be circulated to committee members.\nSpecial Meetings of Council are not s
+ cheduled in accordance with the approved calendar of meetings for the year
+ . These meetings are held to deal with time sensitive or emergency situati
+ ons. Meeting agendas\, dates or times may change. To verify information co
+ ntact the Legislative Services department at 905-335-7777 Ext. 7698.\n\nDe
+ tails: https://events.burlington.ca/meetings/Detail/2025-12-02-1530-Specia
+ l-Meeting-of-Council-Immediately-following-C\n\nAgenda: https://burlington
+ publishing.escribemeetings.com/Meeting.aspx?Id=cc626645-7203-4fb9-ada8-953
+ 4852fd512&Agenda=Agenda&lang=English https://events.burlington.ca/meetings
+ /Detail/2025-12-02-1530-Special-Meeting-of-Council-Immediately-following-C
+ /5057f6c0-4a19-4869-8c40-b3a3010018c7
+URL:https://events.burlington.ca/meetings/Detail/2025-12-02-1530-Special-M
+ eeting-of-Council-Immediately-following-C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budget Committee (cancelled\, not required)
+DTSTART:20251125T143000Z
+DTEND:20251125T213000Z
+DTSTAMP:20251201T054741Z
+UID:38827bbe-6305-54ba-a6bf-3da09fc381e2
+DESCRIPTION:Standing committee and City Council meetings are held at city 
+ hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
+ leting the online delegation registration form at\nwww.burlington.ca/deleg
+ ate\n\, by submitting a written request by email to Legislative Services a
+ t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
+ e business day before the meeting date.\nIf you do not wish to speak\, but
+  would like to submit your comments in writing\, please email your comment
+ s to\nclerks@burlington.ca\n. Written correspondence will be circulated to
+  committee members.\n\nDetails: https://events.burlington.ca/meetings/Deta
+ il/2025-11-25-0930-Budget-Committee-cancelled-not-required
+URL:https://events.burlington.ca/meetings/Detail/2025-11-25-0930-Budget-Co
+ mmittee-cancelled-not-required
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Committee of Adjustment Meeting
 DTSTART:20251210T223000Z
 DTEND:20251211T033000Z
-DTSTAMP:20251130T054114Z
+DTSTAMP:20251201T054741Z
 UID:624dca69-3bfd-57cc-9836-808e32f8035f
 DESCRIPTION:As of January 2025\, Committee of Adjustment meetings will be 
  held using a hybrid model\, allowing members of the public the option of p
@@ -226,9 +307,159 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1730-Committee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Committee of the Whole
+DTSTART:20260302T143000Z
+DTEND:20260302T213000Z
+DTSTAMP:20251201T054741Z
+UID:cf2e924b-e934-572d-914e-385506e6620c
+DESCRIPTION:Standing committee and City Council meetings are held at city 
+ hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
+ leting the online delegation registration form at\nwww.burlington.ca/deleg
+ ate\n\, by submitting a written request by email to Legislative Services a
+ t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
+ e Friday before the meeting date. If you do not wish to speak\, but would 
+ like to submit your comments in writing\, please email your comments to\nc
+ lerks@burlington.ca\n. Written correspondence will be circulated to commit
+ tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026
+ -03-02-0930-Committee-of-the-Whole
+URL:https://events.burlington.ca/meetings/Detail/2026-03-02-0930-Committee
+ -of-the-Whole
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burlington Cycling Advisory Committee
+DTSTART:20251126T000000Z
+DTEND:20251126T020000Z
+DTSTAMP:20251201T054741Z
+UID:f4bfc76d-e7ea-5269-89b3-222d7c9d94a2
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Cycling Advisory Committee is a committee made up of community vol
+ unteers and reports to City Council through the Committee of the Whole mee
+ ting. The role of the committee is to advise Council on matters pertaining
+  to cycling in the City of Burlington. For any additional information\, pl
+ ease see www.Burlington.ca/cycling.\nPlease note Advisory Committees are n
+ ot webcasted. There is no link to a video at HTML- Minutes and Video.\n\nD
+ etails: https://events.burlington.ca/meetings/Detail/2025-11-25-1900-Burli
+ ngton-Cycling-Advisory-Committee\n\nAgenda: https://burlingtonpublishing.e
+ scribemeetings.com/Meeting.aspx?Id=fb512365-4ad7-4e23-9792-3cd20be49666&Ag
+ enda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/2025
+ -11-25-1900-Burlington-Cycling-Advisory-Committee/2222e8e2-97b9-4937-b311-
+ b39f014fa503
+URL:https://events.burlington.ca/meetings/Detail/2025-11-25-1900-Burlingto
+ n-Cycling-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Committee of the Whole
+DTSTART:20260209T143000Z
+DTEND:20260209T213000Z
+DTSTAMP:20251201T054742Z
+UID:837765ef-c2d1-522f-b3b5-dfe681fa2a87
+DESCRIPTION:Standing committee and City Council meetings are held at city 
+ hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
+ leting the online delegation registration form at\nwww.burlington.ca/deleg
+ ate\n\, by submitting a written request by email to Legislative Services a
+ t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
+ e Friday before the meeting date. If you do not wish to speak\, but would 
+ like to submit your comments in writing\, please email your comments to\nc
+ lerks@burlington.ca\n. Written correspondence will be circulated to commit
+ tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026
+ -02-09-0930-Committee-of-the-Whole
+URL:https://events.burlington.ca/meetings/Detail/2026-02-09-0930-Committee
+ -of-the-Whole
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pipeline to Permit Committee
+DTSTART:20260212T143000Z
+DTEND:20260212T170000Z
+DTSTAMP:20251201T054742Z
+UID:b76052c4-0961-530c-9bb1-f419c3ef32e1
+DESCRIPTION:Standing committee and City Council meetings are held at City 
+ Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
+ slative Services at\nclerks@burlington.ca\nby noon the business day before
+  the meeting date. Correspondence will be circulated to committee members.
+ \n\nDetails: https://events.burlington.ca/meetings/Detail/2026-02-12-0930-
+ Pipeline-to-Permit-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-02-12-0930-Pipeline-
+ to-Permit-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regular Meeting of Council
+DTSTART:20260217T143000Z
+DTEND:20260217T153000Z
+DTSTAMP:20251201T054742Z
+UID:894efc9c-d0fb-50cd-963c-7634e0a50d3a
+DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
+ quests to speak at this meeting can be made by completing the online deleg
+ ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
+  written request by email to Legislative Services at\nclerks@burlington.ca
+ \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
+ he meeting date. If you do not wish to speak\, but would like to submit yo
+ ur comments in writing\, please email your comments to\nclerks@burlington.
+ ca\n. Correspondence (delegation notes and written comments) will be circu
+ lated to committee members.\nCouncil meetings are where the final approval
+  takes place of items that went to the meetings of the Committee of the Wh
+ ole\, Pipeline to Permit Committee\, Council Workshop and Audit Committee.
+  Meeting agendas\, dates or times may change. To verify information\, cont
+ act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
+ 905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
+  as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
+ 6-02-17-0930-Regular-Meeting-of-Council
+URL:https://events.burlington.ca/meetings/Detail/2026-02-17-0930-Regular-M
+ eeting-of-Council
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special Meeting of Council/Statutory Public Meeting
+DTSTART:20260106T143000Z
+DTEND:20260106T213000Z
+DTSTAMP:20251201T054742Z
+UID:47a6a9f5-e4c4-5c12-ae5d-4a018d34cfee
+DESCRIPTION:This Special Council/Statutory Public meeting is called by the
+  Mayor to consider an Official Plan amendment & Zoning By-law amendment fo
+ r a proposed 23-storey mixed use building at 2076 Old Lakeshore Road in th
+ e downtown. This development application requires a Council decision withi
+ n 120 days (before January 10\, 2026).\nStanding committee and City Counci
+ l meetings are held at city hall\, 426 Brant St. Requests to speak at this
+  meeting can be made by completing the online delegation registration form
+  at\nwww.burlington.ca/delegate\n\, by submitting a written request by ema
+ il to Legislative Services at\nclerks@burlington.ca\nor by phoning 905-335
+ -7777\, ext. 7481 by noon the business day before the meeting date. If you
+  do not wish to speak\, but would like to submit your comments in writing\
+ , please email your comments to\nclerks@burlington.ca\n. Correspondence (d
+ elegation notes and written comments) will be circulated to committee memb
+ ers.\nSpecial Meetings of Council are not scheduled in accordance with the
+  approved calendar of meetings for the year. These meetings are held to de
+ al with time sensitive or emergency situations. Meeting agendas\, dates or
+  times may change. To verify information contact the Legislative Services 
+ department at 905-335-7777 Ext. 7698.\n\nDetails: https://events.burlingto
+ n.ca/meetings/Detail/2026-01-06-0930-Special-Meeting-of-CouncilStatutory-P
+ ublic-Meeting
+URL:https://events.burlington.ca/meetings/Detail/2026-01-06-0930-Special-M
+ eeting-of-CouncilStatutory-Public-Meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Council Workshop Committee
+DTSTART:20260212T180000Z
+DTEND:20260212T213000Z
+DTSTAMP:20251201T054742Z
+UID:743acd06-7c98-5738-a22c-85b14aebcfa0
+DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
+ . Workshops are live webcasted\, and archived on the city website. Council
+  Workshop meets when time is required for training\, discussions with othe
+ r levels of government and outside agencies\, workshops on complex matters
+ \, and strategic planning. Delegations are not permitted at Council Worksh
+ ops.\nMeeting agendas\, dates or times may change. To verify information\,
+  contact Legislative Services at\nclerks@burlington.ca\n\nDetails: https:/
+ /events.burlington.ca/meetings/Detail/2026-02-12-1300-Council-Workshop-Com
+ mittee
+URL:https://events.burlington.ca/meetings/Detail/2026-02-12-1300-Council-W
+ orkshop-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Committee of the Whole
 DTSTART:20251201T143000Z
 DTEND:20251201T213000Z
-DTSTAMP:20251130T054114Z
+DTSTAMP:20251201T054742Z
 UID:59aaadb9-3400-59fa-88ca-1eb584559387
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -253,61 +484,11 @@ URL:https://events.burlington.ca/meetings/Detail/2025-12-01-0930-Committee
  -of-the-Whole
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Budget Committee (cancelled\, not required)
-DTSTART:20251125T143000Z
-DTEND:20251125T213000Z
-DTSTAMP:20251130T054114Z
-UID:38827bbe-6305-54ba-a6bf-3da09fc381e2
-DESCRIPTION:Standing committee and City Council meetings are held at city 
- hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
- leting the online delegation registration form at\nwww.burlington.ca/deleg
- ate\n\, by submitting a written request by email to Legislative Services a
- t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e business day before the meeting date.\nIf you do not wish to speak\, but
-  would like to submit your comments in writing\, please email your comment
- s to\nclerks@burlington.ca\n. Written correspondence will be circulated to
-  committee members.\n\nDetails: https://events.burlington.ca/meetings/Deta
- il/2025-11-25-0930-Budget-Committee-cancelled-not-required
-URL:https://events.burlington.ca/meetings/Detail/2025-11-25-0930-Budget-Co
- mmittee-cancelled-not-required
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Special Meeting of Council - Immediately following Committee of th
- e Whole
-DTSTART:20251202T203000Z
-DTEND:20251202T213000Z
-DTSTAMP:20251130T054114Z
-UID:647ff2fd-fe9a-51a2-b580-8789a860efb9
-DESCRIPTION:The purpose of this Special Council meeting is to finalize the
-  2026 Budget meeting the 30-day timelines of Strong Mayor legislatio.\nSta
- nding committee and City Council meetings are held at city hall\, 426 Bran
- t St. Requests to speak at this meeting can be made by completing the onli
- ne delegation registration form at\nwww.burlington.ca/delegate\n\, by subm
- itting a written request by email to Legislative Services at\nclerks@burli
- ngton.ca\nor by phoning 905-335-7777\, ext. 7481 by noon the business day 
- before the meeting date. If you do not wish to speak\, but would like to s
- ubmit your comments in writing\, please email your comments to\nclerks@bur
- lington.ca\n. Correspondence (delegation notes and written comments) will 
- be circulated to committee members.\nSpecial Meetings of Council are not s
- cheduled in accordance with the approved calendar of meetings for the year
- . These meetings are held to deal with time sensitive or emergency situati
- ons. Meeting agendas\, dates or times may change. To verify information co
- ntact the Legislative Services department at 905-335-7777 Ext. 7698.\n\nDe
- tails: https://events.burlington.ca/meetings/Detail/2025-12-02-1530-Specia
- l-Meeting-of-Council-Immediately-following-C\n\nAgenda: https://burlington
- publishing.escribemeetings.com/Meeting.aspx?Id=cc626645-7203-4fb9-ada8-953
- 4852fd512&Agenda=Agenda&lang=English https://events.burlington.ca/meetings
- /Detail/2025-12-02-1530-Special-Meeting-of-Council-Immediately-following-C
- /5057f6c0-4a19-4869-8c40-b3a3010018c7
-URL:https://events.burlington.ca/meetings/Detail/2025-12-02-1530-Special-M
- eeting-of-Council-Immediately-following-C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council
-DTSTART:20260217T143000Z
-DTEND:20260217T153000Z
-DTSTAMP:20251130T054114Z
-UID:894efc9c-d0fb-50cd-963c-7634e0a50d3a
+DTSTART:20260616T133000Z
+DTEND:20260616T203000Z
+DTSTAMP:20251201T054743Z
+UID:70d851c9-5c58-5b44-a686-bc57cb8da535
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
  ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
@@ -323,83 +504,65 @@ DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
  905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
   as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
- 6-02-17-0930-Regular-Meeting-of-Council
-URL:https://events.burlington.ca/meetings/Detail/2026-02-17-0930-Regular-M
+ 6-06-16-0930-Regular-Meeting-of-Council
+URL:https://events.burlington.ca/meetings/Detail/2026-06-16-0930-Regular-M
  eeting-of-Council
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Council Information Package
-DTSTART:20251128T160000Z
-DTEND:20251128T170000Z
-DTSTAMP:20251130T054115Z
-UID:8e6a53cc-9931-52ea-be00-daea05d988af
-DESCRIPTION:Council Information Packages (CIPS) are published every week o
- n Friday afternoons for members of City Council and the public. They can i
- nclude information reports and memos from staff\, inter-governmental corre
- spondence from the provincial and federal government\, other municipalitie
- s and from local boards and committees\nCouncil Information Packages\npubl
- ished before January 2025 can be found on the\nCouncil Information Package
-  Page.\nMembers of City Council may request that an information item be pl
- aced on the next available Committee of the Whole agenda.\nIf you require 
- the CIP in an alternative format or with communication supports\, please s
- ubmit an\nAccessible Document and Communication request.\n\nDetails: https
- ://events.burlington.ca/meetings/Detail/2025-11-28-1100-Council-Informatio
- n-Package\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meet
- ing.aspx?Id=12c7c2b5-2469-4d9b-a65a-1ccb252bd95e&Agenda=Agenda&lang=Englis
- h https://events.burlington.ca/meetings/Detail/2025-11-28-1100-Council-Inf
- ormation-Package/99e13944-585d-42b4-9c0a-b3a300efc07e
-URL:https://events.burlington.ca/meetings/Detail/2025-11-28-1100-Council-I
- nformation-Package
+SUMMARY:Regular Meeting of Council
+DTSTART:20260519T133000Z
+DTEND:20260519T203000Z
+DTSTAMP:20251201T054743Z
+UID:71cda5ba-9c3e-5232-a051-2fb3111bcc3b
+DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
+ quests to speak at this meeting can be made by completing the online deleg
+ ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
+  written request by email to Legislative Services at\nclerks@burlington.ca
+ \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
+ he meeting date. If you do not wish to speak\, but would like to submit yo
+ ur comments in writing\, please email your comments to\nclerks@burlington.
+ ca\n. Correspondence (delegation notes and written comments) will be circu
+ lated to committee members.\nCouncil meetings are where the final approval
+  takes place of items that went to the meetings of the Committee of the Wh
+ ole\, Pipeline to Permit Committee\, Council Workshop and Audit Committee.
+  Meeting agendas\, dates or times may change. To verify information\, cont
+ act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
+ 905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
+  as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
+ 6-05-19-0930-Regular-Meeting-of-Council
+URL:https://events.burlington.ca/meetings/Detail/2026-05-19-0930-Regular-M
+ eeting-of-Council
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Committee of the Whole
-DTSTART:20260209T143000Z
-DTEND:20260209T213000Z
-DTSTAMP:20251130T054115Z
-UID:837765ef-c2d1-522f-b3b5-dfe681fa2a87
-DESCRIPTION:Standing committee and City Council meetings are held at city 
- hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
- leting the online delegation registration form at\nwww.burlington.ca/deleg
- ate\n\, by submitting a written request by email to Legislative Services a
- t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e Friday before the meeting date. If you do not wish to speak\, but would 
- like to submit your comments in writing\, please email your comments to\nc
- lerks@burlington.ca\n. Written correspondence will be circulated to commit
- tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026
- -02-09-0930-Committee-of-the-Whole
-URL:https://events.burlington.ca/meetings/Detail/2026-02-09-0930-Committee
- -of-the-Whole
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burlington Cycling Advisory Committee
-DTSTART:20251126T000000Z
-DTEND:20251126T020000Z
-DTSTAMP:20251130T054115Z
-UID:f4bfc76d-e7ea-5269-89b3-222d7c9d94a2
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Cycling Advisory Committee is a committee made up of community vol
- unteers and reports to City Council through the Committee of the Whole mee
- ting. The role of the committee is to advise Council on matters pertaining
-  to cycling in the City of Burlington. For any additional information\, pl
- ease see www.Burlington.ca/cycling.\nPlease note Advisory Committees are n
- ot webcasted. There is no link to a video at HTML- Minutes and Video.\n\nD
- etails: https://events.burlington.ca/meetings/Detail/2025-11-25-1900-Burli
- ngton-Cycling-Advisory-Committee\n\nAgenda: https://burlingtonpublishing.e
- scribemeetings.com/Meeting.aspx?Id=fb512365-4ad7-4e23-9792-3cd20be49666&Ag
- enda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/2025
- -11-25-1900-Burlington-Cycling-Advisory-Committee/2222e8e2-97b9-4937-b311-
- b39f014fa503
-URL:https://events.burlington.ca/meetings/Detail/2025-11-25-1900-Burlingto
- n-Cycling-Advisory-Committee
+SUMMARY:Regular Meeting of Council
+DTSTART:20260127T143000Z
+DTEND:20260127T213000Z
+DTSTAMP:20251201T054743Z
+UID:04bd51d6-e1c3-5933-a4be-865c0838aad6
+DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
+ quests to speak at this meeting can be made by completing the online deleg
+ ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
+  written request by email to Legislative Services at\nclerks@burlington.ca
+ \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
+ he meeting date. If you do not wish to speak\, but would like to submit yo
+ ur comments in writing\, please email your comments to\nclerks@burlington.
+ ca\n. Correspondence (delegation notes and written comments) will be circu
+ lated to committee members.\nCouncil meetings are where the final approval
+  takes place of items that went to the meetings of the Committee of the Wh
+ ole\, Pipeline to Permit Committee\, Council Workshop and Audit Committee.
+  Meeting agendas\, dates or times may change. To verify information\, cont
+ act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
+ 905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
+  as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
+ 6-01-27-0930-Regular-Meeting-of-Council
+URL:https://events.burlington.ca/meetings/Detail/2026-01-27-0930-Regular-M
+ eeting-of-Council
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council - Civic Recognition 
 DTSTART:20260428T223000Z
 DTEND:20260429T003000Z
-DTSTAMP:20251130T054115Z
+DTSTAMP:20251201T054743Z
 UID:6377518d-8cb4-591c-aff0-9f04f7c479ea
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
@@ -422,288 +585,9 @@ URL:https://events.burlington.ca/meetings/Detail/2026-04-28-1830-Regular-M
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council
-DTSTART:20260127T143000Z
-DTEND:20260127T213000Z
-DTSTAMP:20251130T054115Z
-UID:04bd51d6-e1c3-5933-a4be-865c0838aad6
-DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
- quests to speak at this meeting can be made by completing the online deleg
- ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
-  written request by email to Legislative Services at\nclerks@burlington.ca
- \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
- he meeting date. If you do not wish to speak\, but would like to submit yo
- ur comments in writing\, please email your comments to\nclerks@burlington.
- ca\n. Correspondence (delegation notes and written comments) will be circu
- lated to committee members.\nCouncil meetings are where the final approval
-  takes place of items that went to the meetings of the Committee of the Wh
- ole\, Pipeline to Permit Committee\, Council Workshop and Audit Committee.
-  Meeting agendas\, dates or times may change. To verify information\, cont
- act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
- 905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
-  as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
- 6-01-27-0930-Regular-Meeting-of-Council
-URL:https://events.burlington.ca/meetings/Detail/2026-01-27-0930-Regular-M
- eeting-of-Council
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Council Workshop Committee
-DTSTART:20260416T170000Z
-DTEND:20260416T203000Z
-DTSTAMP:20251130T054115Z
-UID:28d4596e-fd02-5f46-80e6-e751b7a3b837
-DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
- . Workshops are live webcasted\, and archived on the city website. Council
-  Workshop meets when time is required for training\, discussions with othe
- r levels of government and outside agencies\, workshops on complex matters
- \, and strategic planning. Delegations are not permitted at Council Worksh
- ops.\nMeeting agendas\, dates or times may change. To verify information\,
-  contact Legislative Services at\nclerks@burlington.ca\n\nDetails: https:/
- /events.burlington.ca/meetings/Detail/2026-04-16-1300-Council-Workshop-Com
- mittee
-URL:https://events.burlington.ca/meetings/Detail/2026-04-16-1300-Council-W
- orkshop-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Council Workshop Committee
-DTSTART:20260212T180000Z
-DTEND:20260212T213000Z
-DTSTAMP:20251130T054115Z
-UID:743acd06-7c98-5738-a22c-85b14aebcfa0
-DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
- . Workshops are live webcasted\, and archived on the city website. Council
-  Workshop meets when time is required for training\, discussions with othe
- r levels of government and outside agencies\, workshops on complex matters
- \, and strategic planning. Delegations are not permitted at Council Worksh
- ops.\nMeeting agendas\, dates or times may change. To verify information\,
-  contact Legislative Services at\nclerks@burlington.ca\n\nDetails: https:/
- /events.burlington.ca/meetings/Detail/2026-02-12-1300-Council-Workshop-Com
- mittee
-URL:https://events.burlington.ca/meetings/Detail/2026-02-12-1300-Council-W
- orkshop-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regular Meeting of Council
-DTSTART:20251209T143000Z
-DTEND:20251209T213000Z
-DTSTAMP:20251130T054116Z
-UID:a94f5ffd-7991-52c4-ac46-2b09429043d9
-DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
- quests to speak at this meeting can be made by completing the online deleg
- ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
-  written request by email to Legislative Services at\nclerks@burlington.ca
- \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
- he meeting date. If you do not wish to speak\, but would like to submit yo
- ur comments in writing\, please email your comments to\nclerks@burlington.
- ca\n. Correspondence (delegation notes and written comments) will be circu
- lated to committee members and attached to the meeting minutes\, forming p
- art of the public record.\nCouncil meetings are where the final approval t
- akes place of items that went to the meetings of the Committee of the Whol
- e\, Pipeline to Permit Committee\, Council Workshop and Audit Committee. M
- eeting agendas\, dates or times may change. To verify information\, contac
- t the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 90
- 5-335-7600 Ext. 7481. Note: Special meetings of Council may be scheduled a
- s required.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-
- 12-09-0930-Regular-Meeting-of-Council
-URL:https://events.burlington.ca/meetings/Detail/2025-12-09-0930-Regular-M
- eeting-of-Council
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Committee of the Whole
-DTSTART:20260302T143000Z
-DTEND:20260302T213000Z
-DTSTAMP:20251130T054117Z
-UID:cf2e924b-e934-572d-914e-385506e6620c
-DESCRIPTION:Standing committee and City Council meetings are held at city 
- hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
- leting the online delegation registration form at\nwww.burlington.ca/deleg
- ate\n\, by submitting a written request by email to Legislative Services a
- t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e Friday before the meeting date. If you do not wish to speak\, but would 
- like to submit your comments in writing\, please email your comments to\nc
- lerks@burlington.ca\n. Written correspondence will be circulated to commit
- tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026
- -03-02-0930-Committee-of-the-Whole
-URL:https://events.burlington.ca/meetings/Detail/2026-03-02-0930-Committee
- -of-the-Whole
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regular Meeting of Council
-DTSTART:20260519T133000Z
-DTEND:20260519T203000Z
-DTSTAMP:20251130T054117Z
-UID:71cda5ba-9c3e-5232-a051-2fb3111bcc3b
-DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
- quests to speak at this meeting can be made by completing the online deleg
- ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
-  written request by email to Legislative Services at\nclerks@burlington.ca
- \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
- he meeting date. If you do not wish to speak\, but would like to submit yo
- ur comments in writing\, please email your comments to\nclerks@burlington.
- ca\n. Correspondence (delegation notes and written comments) will be circu
- lated to committee members.\nCouncil meetings are where the final approval
-  takes place of items that went to the meetings of the Committee of the Wh
- ole\, Pipeline to Permit Committee\, Council Workshop and Audit Committee.
-  Meeting agendas\, dates or times may change. To verify information\, cont
- act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
- 905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
-  as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
- 6-05-19-0930-Regular-Meeting-of-Council
-URL:https://events.burlington.ca/meetings/Detail/2026-05-19-0930-Regular-M
- eeting-of-Council
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Committee of the Whole
-DTSTART:20260413T133000Z
-DTEND:20260413T203000Z
-DTSTAMP:20251130T054117Z
-UID:927ca4ec-902f-52d5-b574-650fccc3d88f
-DESCRIPTION:Standing committee and City Council meetings are held at city 
- hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
- leting the online delegation registration form at\nwww.burlington.ca/deleg
- ate\n\, by submitting a written request by email to Legislative Services a
- t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e Friday before the meeting date. If you do not wish to speak\, but would 
- like to submit your comments in writing\, please email your comments to\nc
- lerks@burlington.ca\n. Written correspondence will be circulated to commit
- tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026
- -04-13-0930-Committee-of-the-Whole
-URL:https://events.burlington.ca/meetings/Detail/2026-04-13-0930-Committee
- -of-the-Whole
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Audit Committee
-DTSTART:20260304T203000Z
-DTEND:20260304T223000Z
-DTSTAMP:20251130T054117Z
-UID:9df554ce-77a8-509c-8a0c-fa006bd93610
-DESCRIPTION:Standing committee and City Council meetings are held at city 
- hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
- leting the online delegation registration form at\nwww.burlington.ca/deleg
- ate\n\, by submitting a written request by email to Legislative Services a
- t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
- e business day before the meeting date.\nIf you do not wish to speak\, but
-  would like to submit your comments in writing\, please email your comment
- s to\nclerks@burlington.ca\n. Written correspondence will be circulated to
-  committee members.\n\nDetails: https://events.burlington.ca/meetings/Deta
- il/2026-03-04-1530-Audit-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-03-04-1530-Audit-Com
- mittee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regular Meeting of Council
-DTSTART:20260310T133000Z
-DTEND:20260310T203000Z
-DTSTAMP:20251130T054117Z
-UID:fa29f20f-40ad-5c04-b52b-bb5d4de26351
-DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
- quests to speak at this meeting can be made by completing the online deleg
- ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
-  written request by email to Legislative Services at\nclerks@burlington.ca
- \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
- he meeting date. If you do not wish to speak\, but would like to submit yo
- ur comments in writing\, please email your comments to\nclerks@burlington.
- ca\n. Correspondence (delegation notes and written comments) will be circu
- lated to committee members.\nCouncil meetings are where the final approval
-  takes place of items that went to the meetings of the Committee of the Wh
- ole\, Pipeline to Permit Committee\, Council Workshop and Audit Committee.
-  Meeting agendas\, dates or times may change. To verify information\, cont
- act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
- 905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
-  as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
- 6-03-10-0930-Regular-Meeting-of-Council
-URL:https://events.burlington.ca/meetings/Detail/2026-03-10-0930-Regular-M
- eeting-of-Council
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Committee of Adjustment Meeting
-DTSTART:20260121T180000Z
-DTEND:20260122T010000Z
-DTSTAMP:20251130T054117Z
-UID:b25585d3-0319-5769-b424-af6f993abf31
-DESCRIPTION:As of January 2025\, Committee of Adjustment meetings have bee
- n held using a hybrid model\, allowing members of the public the option of
-  participating remotely or in-person at City Hall Council Chambers\, 426 B
- rant St.\nRequests to delegate to this hybrid meeting can be made by submi
- tting a written request by email to the Secretary Treasurer of the Committ
- ee of Adjustment at\ncommitteeofadjustment@burlington.ca\nor by phoning 90
- 5-335-7600\, ext. 7629 by noon the business day before the meeting is to b
- e held. Y\nou are encouraged to pre-register as a delegate as soon as poss
- ible to facilitate an orderly registration process.\nIt is recommended tha
- t virtual delegates include their intended remarks\, which will be circula
- ted to all members in advance\, as a backup to any disruptions in technolo
- gy issues that may occur.\nIf you do not wish to delegate\, but would like
-  to submit correspondence\, please email your comments to\ncommitteeofadju
- stment@burlington.ca\n. Any notes and comments will be circulated to the a
- pplicant\, staff and members in advance of the meeting and will forming pa
- rt of the public record.\nWatch or listen to the Virtual Committee of Adju
- stment Hearing: The hearing will be held live through a virtual Zoom Webin
- ar. Instructions\, links\, and phone numbers for joining the meeting will 
- be posted on the City calendar event listing the day prior to the schedule
- d meeting. The link will be active 1 hour before the start time.\nApplicat
- ions will be heard in the order that they appear on the agenda.\nZoom Meet
- ing Details\nTBD\n\nDetails: https://events.burlington.ca/meetings/Detail/
- 2026-01-21-1300-Committee-of-Adjustment-Meeting2
-URL:https://events.burlington.ca/meetings/Detail/2026-01-21-1300-Committee
- -of-Adjustment-Meeting2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regular Meeting of Council
-DTSTART:20260616T133000Z
-DTEND:20260616T203000Z
-DTSTAMP:20251130T054117Z
-UID:70d851c9-5c58-5b44-a686-bc57cb8da535
-DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
- quests to speak at this meeting can be made by completing the online deleg
- ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
-  written request by email to Legislative Services at\nclerks@burlington.ca
- \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
- he meeting date. If you do not wish to speak\, but would like to submit yo
- ur comments in writing\, please email your comments to\nclerks@burlington.
- ca\n. Correspondence (delegation notes and written comments) will be circu
- lated to committee members.\nCouncil meetings are where the final approval
-  takes place of items that went to the meetings of the Committee of the Wh
- ole\, Pipeline to Permit Committee\, Council Workshop and Audit Committee.
-  Meeting agendas\, dates or times may change. To verify information\, cont
- act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
- 905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
-  as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
- 6-06-16-0930-Regular-Meeting-of-Council
-URL:https://events.burlington.ca/meetings/Detail/2026-06-16-0930-Regular-M
- eeting-of-Council
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Integrated Transportation Advisory Committee
-DTSTART:20251125T000000Z
-DTEND:20251125T020000Z
-DTSTAMP:20251130T054118Z
-UID:37c3adc1-bd4c-57f5-8333-0ad34e18cac3
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Int
- egrated Transportation Advisory Committee (ITAC) is a committee made up of
-  community volunteers and reports to City Council through the Committee of
-  the Whole. This advisory committee focuses on all forms of transportation
-  in the community including pedestrian\, cycling\, transit and driving. Th
- e committee provides input to Council and staff on policies\, initiatives 
- and strategies affecting transportation including but not limited to: road
-  safety\, cycling\, transit and integrated mobility. For any additional in
- formation\, please see\nwww.Burlington.ca/ITAC\n.\nPlease note Advisory Co
- mmittees are not webcasted. There is no link to a video at HTML- Minutes a
- nd Video.\n\nDetails: https://events.burlington.ca/meetings/Detail/2025-11
- -24-1900-Integrated-Transportation-Advisory-Committee\n\nAgenda: https://b
- urlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=97cd31bc-445b-4865
- -974e-81c15f23b089&Agenda=Agenda&lang=English https://events.burlington.ca
- /meetings/Detail/2025-11-24-1900-Integrated-Transportation-Advisory-Commit
- tee/8c4cd275-8bff-48af-b51e-b39800faaa06
-URL:https://events.burlington.ca/meetings/Detail/2025-11-24-1900-Integrate
- d-Transportation-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Regular Meeting of Council
 DTSTART:20260421T133000Z
 DTEND:20260421T203000Z
-DTSTAMP:20251130T054118Z
+DTSTAMP:20251201T054743Z
 UID:4b658139-4994-5025-a334-8013a34ca14f
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
@@ -725,10 +609,81 @@ URL:https://events.burlington.ca/meetings/Detail/2026-04-21-0930-Regular-M
  eeting-of-Council
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Audit Committee
+DTSTART:20260304T203000Z
+DTEND:20260304T223000Z
+DTSTAMP:20251201T054743Z
+UID:9df554ce-77a8-509c-8a0c-fa006bd93610
+DESCRIPTION:Standing committee and City Council meetings are held at city 
+ hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
+ leting the online delegation registration form at\nwww.burlington.ca/deleg
+ ate\n\, by submitting a written request by email to Legislative Services a
+ t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
+ e business day before the meeting date.\nIf you do not wish to speak\, but
+  would like to submit your comments in writing\, please email your comment
+ s to\nclerks@burlington.ca\n. Written correspondence will be circulated to
+  committee members.\n\nDetails: https://events.burlington.ca/meetings/Deta
+ il/2026-03-04-1530-Audit-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-03-04-1530-Audit-Com
+ mittee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pipeline to Permit Committee
+DTSTART:20260305T143000Z
+DTEND:20260305T170000Z
+DTSTAMP:20251201T054743Z
+UID:5a615164-19ab-5ad5-bebe-bf59f0b43cd4
+DESCRIPTION:Standing committee and City Council meetings are held at City 
+ Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
+ slative Services at\nclerks@burlington.ca\nby noon the business day before
+  the meeting date. Correspondence will be circulated to committee members.
+ \n\nDetails: https://events.burlington.ca/meetings/Detail/2026-03-05-0930-
+ Pipeline-to-Permit-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-03-05-0930-Pipeline-
+ to-Permit-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Council Workshop Committee
+DTSTART:20260416T170000Z
+DTEND:20260416T203000Z
+DTSTAMP:20251201T054743Z
+UID:28d4596e-fd02-5f46-80e6-e751b7a3b837
+DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
+ . Workshops are live webcasted\, and archived on the city website. Council
+  Workshop meets when time is required for training\, discussions with othe
+ r levels of government and outside agencies\, workshops on complex matters
+ \, and strategic planning. Delegations are not permitted at Council Worksh
+ ops.\nMeeting agendas\, dates or times may change. To verify information\,
+  contact Legislative Services at\nclerks@burlington.ca\n\nDetails: https:/
+ /events.burlington.ca/meetings/Detail/2026-04-16-1300-Council-Workshop-Com
+ mittee
+URL:https://events.burlington.ca/meetings/Detail/2026-04-16-1300-Council-W
+ orkshop-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Committee of the Whole
+DTSTART:20260413T133000Z
+DTEND:20260413T203000Z
+DTSTAMP:20251201T054744Z
+UID:927ca4ec-902f-52d5-b574-650fccc3d88f
+DESCRIPTION:Standing committee and City Council meetings are held at city 
+ hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
+ leting the online delegation registration form at\nwww.burlington.ca/deleg
+ ate\n\, by submitting a written request by email to Legislative Services a
+ t\nclerks@burlington.ca\nor by phoning 905-335-7777\, ext. 7481 by noon th
+ e Friday before the meeting date. If you do not wish to speak\, but would 
+ like to submit your comments in writing\, please email your comments to\nc
+ lerks@burlington.ca\n. Written correspondence will be circulated to commit
+ tee members.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026
+ -04-13-0930-Committee-of-the-Whole
+URL:https://events.burlington.ca/meetings/Detail/2026-04-13-0930-Committee
+ -of-the-Whole
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pipeline to Permit Committee
 DTSTART:20260416T133000Z
 DTEND:20260416T160000Z
-DTSTAMP:20251130T054118Z
+DTSTAMP:20251201T054744Z
 UID:d4bba01f-d1bb-53e1-9ac2-df0b8d31588f
 DESCRIPTION:Standing committee and City Council meetings are held at City 
  Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
@@ -740,25 +695,10 @@ URL:https://events.burlington.ca/meetings/Detail/2026-04-16-0930-Pipeline-
  to-Permit-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pipeline to Permit Committee
-DTSTART:20260212T143000Z
-DTEND:20260212T170000Z
-DTSTAMP:20251130T054118Z
-UID:b76052c4-0961-530c-9bb1-f419c3ef32e1
-DESCRIPTION:Standing committee and City Council meetings are held at City 
- Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
- slative Services at\nclerks@burlington.ca\nby noon the business day before
-  the meeting date. Correspondence will be circulated to committee members.
- \n\nDetails: https://events.burlington.ca/meetings/Detail/2026-02-12-0930-
- Pipeline-to-Permit-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-02-12-0930-Pipeline-
- to-Permit-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Budget Committee
 DTSTART:20251124T143000Z
 DTEND:20251124T213000Z
-DTSTAMP:20251130T054118Z
+DTSTAMP:20251201T054744Z
 UID:7b0a4e97-6021-5b70-92cd-17f47721f573
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -787,25 +727,35 @@ URL:https://events.burlington.ca/meetings/Detail/2025-11-24-0930-Budget-Co
  mmittee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pipeline to Permit Committee
-DTSTART:20260305T143000Z
-DTEND:20260305T170000Z
-DTSTAMP:20251130T054118Z
-UID:5a615164-19ab-5ad5-bebe-bf59f0b43cd4
-DESCRIPTION:Standing committee and City Council meetings are held at City 
- Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
- slative Services at\nclerks@burlington.ca\nby noon the business day before
-  the meeting date. Correspondence will be circulated to committee members.
- \n\nDetails: https://events.burlington.ca/meetings/Detail/2026-03-05-0930-
- Pipeline-to-Permit-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-03-05-0930-Pipeline-
- to-Permit-Committee
+SUMMARY:Regular Meeting of Council
+DTSTART:20260310T133000Z
+DTEND:20260310T203000Z
+DTSTAMP:20251201T054744Z
+UID:fa29f20f-40ad-5c04-b52b-bb5d4de26351
+DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
+ quests to speak at this meeting can be made by completing the online deleg
+ ation registration form at\nwww.burlington.ca/delegate\n\, by submitting a
+  written request by email to Legislative Services at\nclerks@burlington.ca
+ \nor by phoning 905-335-7777\, ext. 7481 by noon the business day before t
+ he meeting date. If you do not wish to speak\, but would like to submit yo
+ ur comments in writing\, please email your comments to\nclerks@burlington.
+ ca\n. Correspondence (delegation notes and written comments) will be circu
+ lated to committee members.\nCouncil meetings are where the final approval
+  takes place of items that went to the meetings of the Committee of the Wh
+ ole\, Pipeline to Permit Committee\, Council Workshop and Audit Committee.
+  Meeting agendas\, dates or times may change. To verify information\, cont
+ act the Office of the City Clerk by email at\nclerks@burlington.ca\nor at 
+ 905-335-7777 Ext. 7481. Note: Special meetings of Council may be scheduled
+  as required.\n\nDetails: https://events.burlington.ca/meetings/Detail/202
+ 6-03-10-0930-Regular-Meeting-of-Council
+URL:https://events.burlington.ca/meetings/Detail/2026-03-10-0930-Regular-M
+ eeting-of-Council
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Council Workshop Committee
 DTSTART:20260305T180000Z
 DTEND:20260305T213000Z
-DTSTAMP:20251130T054118Z
+DTSTAMP:20251201T054744Z
 UID:afbee134-d73c-54e1-b9f0-c64fa11fa6b2
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -818,5 +768,55 @@ DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  mittee
 URL:https://events.burlington.ca/meetings/Detail/2026-03-05-1300-Council-W
  orkshop-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Council Workshop Committee
+DTSTART:20260115T180000Z
+DTEND:20260115T213000Z
+DTSTAMP:20251201T054745Z
+UID:9eac342e-0f39-55b6-9734-e8e934d25f41
+DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
+ . Workshops are live webcasted\, and archived on the city website. Council
+  Workshop meets when time is required for training\, discussions with othe
+ r levels of government and outside agencies\, workshops on complex matters
+ \, and strategic planning. Delegations are not permitted at Council Worksh
+ ops.\nMeeting agendas\, dates or times may change. To verify information\,
+  contact Legislative Services at\nclerks@burlington.ca\n\nDetails: https:/
+ /events.burlington.ca/meetings/Detail/2026-01-15-1300-Council-Workshop-Com
+ mittee
+URL:https://events.burlington.ca/meetings/Detail/2026-01-15-1300-Council-W
+ orkshop-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Committee of Adjustment Meeting
+DTSTART:20260121T180000Z
+DTEND:20260122T010000Z
+DTSTAMP:20251201T054745Z
+UID:b25585d3-0319-5769-b424-af6f993abf31
+DESCRIPTION:As of January 2025\, Committee of Adjustment meetings have bee
+ n held using a hybrid model\, allowing members of the public the option of
+  participating remotely or in-person at City Hall Council Chambers\, 426 B
+ rant St.\nRequests to delegate to this hybrid meeting can be made by submi
+ tting a written request by email to the Secretary Treasurer of the Committ
+ ee of Adjustment at\ncommitteeofadjustment@burlington.ca\nor by phoning 90
+ 5-335-7600\, ext. 7629 by noon the business day before the meeting is to b
+ e held. Y\nou are encouraged to pre-register as a delegate as soon as poss
+ ible to facilitate an orderly registration process.\nIt is recommended tha
+ t virtual delegates include their intended remarks\, which will be circula
+ ted to all members in advance\, as a backup to any disruptions in technolo
+ gy issues that may occur.\nIf you do not wish to delegate\, but would like
+  to submit correspondence\, please email your comments to\ncommitteeofadju
+ stment@burlington.ca\n. Any notes and comments will be circulated to the a
+ pplicant\, staff and members in advance of the meeting and will forming pa
+ rt of the public record.\nWatch or listen to the Virtual Committee of Adju
+ stment Hearing: The hearing will be held live through a virtual Zoom Webin
+ ar. Instructions\, links\, and phone numbers for joining the meeting will 
+ be posted on the City calendar event listing the day prior to the schedule
+ d meeting. The link will be active 1 hour before the start time.\nApplicat
+ ions will be heard in the order that they appear on the agenda.\nZoom Meet
+ ing Details\nTBD\n\nDetails: https://events.burlington.ca/meetings/Detail/
+ 2026-01-21-1300-Committee-of-Adjustment-Meeting2
+URL:https://events.burlington.ca/meetings/Detail/2026-01-21-1300-Committee
+ -of-Adjustment-Meeting2
 END:VEVENT
 END:VCALENDAR
