@@ -3,34 +3,10 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Burlington Inclusivity Advisory Committee
-DTSTART:20260123T140000Z
-DTEND:20260123T160000Z
-DTSTAMP:20251204T054228Z
-UID:b8892919-9fb7-5495-b74b-2548acc72765
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Inclusivity  Advisory Committee is a committee made up of communi
- ty volunteers and reports to City Council through the Committee of the Who
- le meeting. The committee provides a monitoring and measuring role to help
-  ensure that the City applies an inclusion lens to its policies\, services
-  and programs. Our mission is to embrace diversity by providing opportunit
- ies for all members of the community that reflect the ideals of acceptance
- \, accommodation and respect. For any additional information\, please see\
- nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
-  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
- ails: https://events.burlington.ca/meetings/Detail/2026-01-23-0900-Burling
- ton-Inclusivity-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-01-23-0900-Burlingto
- n-Inclusivity-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20260108T000000Z
 DTEND:20260108T020000Z
-DTSTAMP:20251204T054228Z
+DTSTAMP:20251205T054238Z
 UID:74f03f29-176a-5232-906e-5cd26a647220
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -56,32 +32,34 @@ URL:https://events.burlington.ca/meetings/Detail/2026-01-07-1900-Burlingto
  n-Mundialization-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heritage Burlington Advisory Committee
-DTSTART:20251211T000000Z
-DTEND:20251211T020000Z
-DTSTAMP:20251204T054229Z
-UID:58a661fe-8066-52de-9377-3ecaa39735d5
+SUMMARY:Burlington Inclusivity Advisory Committee
+DTSTART:20260123T140000Z
+DTEND:20260123T160000Z
+DTSTAMP:20251205T054238Z
+UID:b8892919-9fb7-5495-b74b-2548acc72765
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
- e Burlington Advisory Committee is a committee made up of community volunt
- eers and reports to City Council through the Committee of the Whole. The m
- andate of the committee is to provide advice to Council on issues related 
- to the conservation of Burlington's cultural heritage and to promote commu
- nity awareness and understanding of Burlington's cultural heritage. For an
- y additional information\, please see www.Burlington.ca/heritageburlington
- .\nPlease note Advisory Committees are not webcasted. There is no link to 
- a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
- /meetings/Detail/2025-12-10-1900-Heritage-Burlington-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
- Burlington-Advisory-Committee
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Inclusivity  Advisory Committee is a committee made up of communi
+ ty volunteers and reports to City Council through the Committee of the Who
+ le meeting. The committee provides a monitoring and measuring role to help
+  ensure that the City applies an inclusion lens to its policies\, services
+  and programs. Our mission is to embrace diversity by providing opportunit
+ ies for all members of the community that reflect the ideals of acceptance
+ \, accommodation and respect. For any additional information\, please see\
+ nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
+  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
+ ails: https://events.burlington.ca/meetings/Detail/2026-01-23-0900-Burling
+ ton-Inclusivity-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-01-23-0900-Burlingto
+ n-Inclusivity-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20260205T000000Z
 DTEND:20260205T020000Z
-DTSTAMP:20251204T054229Z
+DTSTAMP:20251205T054238Z
 UID:f16843a4-0c25-54dc-90db-a4eb958a7925
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -107,10 +85,36 @@ URL:https://events.burlington.ca/meetings/Detail/2026-02-04-1900-Burlingto
  n-Mundialization-Committee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heritage Burlington Advisory Committee
+DTSTART:20251211T000000Z
+DTEND:20251211T020000Z
+DTSTAMP:20251205T054238Z
+UID:58a661fe-8066-52de-9377-3ecaa39735d5
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
+ e Burlington Advisory Committee is a committee made up of community volunt
+ eers and reports to City Council through the Committee of the Whole. The m
+ andate of the committee is to provide advice to Council on issues related 
+ to the conservation of Burlington's cultural heritage and to promote commu
+ nity awareness and understanding of Burlington's cultural heritage. For an
+ y additional information\, please see www.Burlington.ca/heritageburlington
+ .\nPlease note Advisory Committees are not webcasted. There is no link to 
+ a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
+ /meetings/Detail/2025-12-10-1900-Heritage-Burlington-Advisory-Committee\n\
+ nAgenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=
+ a644d0d1-ff38-4665-8845-c9727fbb81df&Agenda=Agenda&lang=English https://ev
+ ents.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-Burlington-Adv
+ isory-Committee/e7a27e8f-4776-44c6-ada6-b3a90172cead
+URL:https://events.burlington.ca/meetings/Detail/2025-12-10-1900-Heritage-
+ Burlington-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260220T140000Z
 DTEND:20260220T160000Z
-DTSTAMP:20251204T054229Z
+DTSTAMP:20251205T054239Z
 UID:1c167ba3-d9af-57f8-8552-7f96f4cf3048
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -131,58 +135,10 @@ URL:https://events.burlington.ca/meetings/Detail/2026-02-20-0900-Burlingto
  n-Inclusivity-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Inclusivity Advisory Committee
-DTSTART:20261120T140000Z
-DTEND:20261120T160000Z
-DTSTAMP:20251204T054229Z
-UID:07b6f2a3-fb51-58d5-8c78-3474b1962f7a
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Inclusivity  Advisory Committee is a committee made up of communi
- ty volunteers and reports to City Council through the Committee of the Who
- le meeting. The committee provides a monitoring and measuring role to help
-  ensure that the City applies an inclusion lens to its policies\, services
-  and programs. Our mission is to embrace diversity by providing opportunit
- ies for all members of the community that reflect the ideals of acceptance
- \, accommodation and respect. For any additional information\, please see\
- nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
-  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
- ails: https://events.burlington.ca/meetings/Detail/2026-11-20-0900-Burling
- ton-Inclusivity-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-11-20-0900-Burlingto
- n-Inclusivity-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burlington Inclusivity Advisory Committee
-DTSTART:20260619T130000Z
-DTEND:20260619T150000Z
-DTSTAMP:20251204T054230Z
-UID:eaf1f3cd-1e79-5b48-aacb-8848d020ea43
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Inclusivity  Advisory Committee is a committee made up of communi
- ty volunteers and reports to City Council through the Committee of the Who
- le meeting. The committee provides a monitoring and measuring role to help
-  ensure that the City applies an inclusion lens to its policies\, services
-  and programs. Our mission is to embrace diversity by providing opportunit
- ies for all members of the community that reflect the ideals of acceptance
- \, accommodation and respect. For any additional information\, please see\
- nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
-  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
- ails: https://events.burlington.ca/meetings/Detail/2026-06-19-0900-Burling
- ton-Inclusivity-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-06-19-0900-Burlingto
- n-Inclusivity-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20261104T190000Z
 DTEND:20261104T200000Z
-DTSTAMP:20251204T054230Z
+DTSTAMP:20251205T054239Z
 UID:ac01553f-0b74-5d55-8cf4-024cd6e94295
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -209,10 +165,10 @@ URL:https://events.burlington.ca/meetings/Detail/2026-11-04-1400-Burlingto
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
-DTSTART:20260522T130000Z
-DTEND:20260522T150000Z
-DTSTAMP:20251204T054230Z
-UID:1f7f458f-5b11-56f0-9142-d7e6342b3010
+DTSTART:20260619T130000Z
+DTEND:20260619T150000Z
+DTSTAMP:20251205T054239Z
+UID:eaf1f3cd-1e79-5b48-aacb-8848d020ea43
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
@@ -226,45 +182,40 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  \, accommodation and respect. For any additional information\, please see\
  nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
   webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
- ails: https://events.burlington.ca/meetings/Detail/2026-05-22-0900-Burling
+ ails: https://events.burlington.ca/meetings/Detail/2026-06-19-0900-Burling
  ton-Inclusivity-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-05-22-0900-Burlingto
+URL:https://events.burlington.ca/meetings/Detail/2026-06-19-0900-Burlingto
  n-Inclusivity-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Mundialization Committee
-DTSTART:20260603T230000Z
-DTEND:20260604T010000Z
-DTSTAMP:20251204T054230Z
-UID:f6437836-0471-5a1c-928b-71e98b257b8d
+SUMMARY:Burlington Inclusivity Advisory Committee
+DTSTART:20261120T140000Z
+DTEND:20261120T160000Z
+DTSTAMP:20251205T054239Z
+UID:07b6f2a3-fb51-58d5-8c78-3474b1962f7a
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
   to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Mundialization Committee is a committee made up of community volun
- teers and reports to City Council through the Committee of the Whole meeti
- ng. In 1984\, a Mundialization Committee of volunteer citizens was formed 
- in Burlington to pursue twinning with another country. A by-law was passed
-  in 1985 to declare Burlington a "World Community" dedicated to internatio
- nal co-operation (mundialization) and that the City of Burlington\, as par
- t of its Mundialization program\, proceed: (a) to undertake a twinning pro
- gram with a municipality in another country\, and (b) to fly the United Na
- tions flag with the Canadian flag from City Hall at all times. On May 12\,
-  1989\, Mayor Bird signed a twinning agreement with Mayor Kurihara of Itab
- ashi\, Japan. On May 6\, 2005\, Mayor MacIsaac signed a twinning agreement
-  with Mayor de Graaf of Apeldoorn\, the Netherlands. For any additional in
- formation\, please see\nwww.Burlington.ca/mund\n.\nPlease note this Commit
- tee meeting is not webcasted. There is no link to a video at HTML- Minutes
-  and Video.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026-
- 06-03-1900-Burlington-Mundialization-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-06-03-1900-Burlingto
- n-Mundialization-Committee
+ lington Inclusivity  Advisory Committee is a committee made up of communi
+ ty volunteers and reports to City Council through the Committee of the Who
+ le meeting. The committee provides a monitoring and measuring role to help
+  ensure that the City applies an inclusion lens to its policies\, services
+  and programs. Our mission is to embrace diversity by providing opportunit
+ ies for all members of the community that reflect the ideals of acceptance
+ \, accommodation and respect. For any additional information\, please see\
+ nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
+  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
+ ails: https://events.burlington.ca/meetings/Detail/2026-11-20-0900-Burling
+ ton-Inclusivity-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-11-20-0900-Burlingto
+ n-Inclusivity-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20260506T230000Z
 DTEND:20260507T010000Z
-DTSTAMP:20251204T054230Z
+DTSTAMP:20251205T054239Z
 UID:e14cfbfc-0245-504c-a1f2-8953f39fd91a
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -293,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260424T130000Z
 DTEND:20260424T150000Z
-DTSTAMP:20251204T054230Z
+DTSTAMP:20251205T054239Z
 UID:35fb17e7-a34f-51ac-ab26-fc728223acab
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -315,9 +266,38 @@ URL:https://events.burlington.ca/meetings/Detail/2026-04-24-0900-Burlingto
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
+DTSTART:20260603T230000Z
+DTEND:20260604T010000Z
+DTSTAMP:20251205T054239Z
+UID:f6437836-0471-5a1c-928b-71e98b257b8d
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Mundialization Committee is a committee made up of community volun
+ teers and reports to City Council through the Committee of the Whole meeti
+ ng. In 1984\, a Mundialization Committee of volunteer citizens was formed 
+ in Burlington to pursue twinning with another country. A by-law was passed
+  in 1985 to declare Burlington a "World Community" dedicated to internatio
+ nal co-operation (mundialization) and that the City of Burlington\, as par
+ t of its Mundialization program\, proceed: (a) to undertake a twinning pro
+ gram with a municipality in another country\, and (b) to fly the United Na
+ tions flag with the Canadian flag from City Hall at all times. On May 12\,
+  1989\, Mayor Bird signed a twinning agreement with Mayor Kurihara of Itab
+ ashi\, Japan. On May 6\, 2005\, Mayor MacIsaac signed a twinning agreement
+  with Mayor de Graaf of Apeldoorn\, the Netherlands. For any additional in
+ formation\, please see\nwww.Burlington.ca/mund\n.\nPlease note this Commit
+ tee meeting is not webcasted. There is no link to a video at HTML- Minutes
+  and Video.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026-
+ 06-03-1900-Burlington-Mundialization-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-06-03-1900-Burlingto
+ n-Mundialization-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burlington Mundialization Committee
 DTSTART:20260401T230000Z
 DTEND:20260402T010000Z
-DTSTAMP:20251204T054230Z
+DTSTAMP:20251205T054239Z
 UID:853a63de-71f1-5825-8887-0fd588ee1f63
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -344,9 +324,33 @@ URL:https://events.burlington.ca/meetings/Detail/2026-04-01-1900-Burlingto
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
+DTSTART:20260522T130000Z
+DTEND:20260522T150000Z
+DTSTAMP:20251205T054240Z
+UID:1f7f458f-5b11-56f0-9142-d7e6342b3010
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Inclusivity  Advisory Committee is a committee made up of communi
+ ty volunteers and reports to City Council through the Committee of the Who
+ le meeting. The committee provides a monitoring and measuring role to help
+  ensure that the City applies an inclusion lens to its policies\, services
+  and programs. Our mission is to embrace diversity by providing opportunit
+ ies for all members of the community that reflect the ideals of acceptance
+ \, accommodation and respect. For any additional information\, please see\
+ nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
+  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
+ ails: https://events.burlington.ca/meetings/Detail/2026-05-22-0900-Burling
+ ton-Inclusivity-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-05-22-0900-Burlingto
+ n-Inclusivity-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260320T130000Z
 DTEND:20260320T150000Z
-DTSTAMP:20251204T054230Z
+DTSTAMP:20251205T054240Z
 UID:0cfc3221-373d-5620-9622-9e7112d195d8
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -370,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20260305T000000Z
 DTEND:20260305T020000Z
-DTSTAMP:20251204T054230Z
+DTSTAMP:20251205T054240Z
 UID:c699dbfa-9c4b-50b2-ab96-88c4f8ba19a5
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
