@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260220T140000Z
 DTEND:20260220T160000Z
-DTSTAMP:20260119T055254Z
+DTSTAMP:20260120T055144Z
 UID:1c167ba3-d9af-57f8-8552-7f96f4cf3048
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260219T000000Z
 DTEND:20260219T020000Z
-DTSTAMP:20260119T055253Z
+DTSTAMP:20260120T055144Z
 UID:4321ffa3-8123-5984-85d0-590fc0507952
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260119T150000Z
 DTEND:20260119T170000Z
-DTSTAMP:20260119T055257Z
+DTSTAMP:20260120T055144Z
 UID:4bbdf43b-554c-5446-a832-5ecbf1fe1660
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260127T000000Z
 DTEND:20260127T020000Z
-DTSTAMP:20260119T055255Z
+DTSTAMP:20260120T055144Z
 UID:4fee32b1-5005-5161-9236-1a60da6109b4
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260224T000000Z
 DTEND:20260224T020000Z
-DTSTAMP:20260119T055255Z
+DTSTAMP:20260120T055144Z
 UID:5806a6d5-8a19-5b56-a77b-9e54634583da
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260129T000000Z
 DTEND:20260129T020000Z
-DTSTAMP:20260119T055255Z
+DTSTAMP:20260120T055144Z
 UID:6895b26e-79da-5bdf-939e-a2e0bd7007c6
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260223T150000Z
 DTEND:20260223T170000Z
-DTSTAMP:20260119T055253Z
+DTSTAMP:20260120T055144Z
 UID:8fde1499-f5b5-5c7d-8bec-aa629f568f9a
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Downtown Parking Advisory Committee
 DTSTART:20260219T133000Z
 DTEND:20260219T150000Z
-DTSTAMP:20260119T055254Z
+DTSTAMP:20260120T055144Z
 UID:a2853d3e-8cf2-5133-98ee-9a83149e9147
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -203,10 +203,41 @@ URL:https://events.burlington.ca/meetings/Detail/2026-02-19-0830-Burlingto
  n-Downtown-Parking-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burlington Sustainable Development Advisory Committee
+DTSTART:20260122T000000Z
+DTEND:20260122T020000Z
+DTSTAMP:20260120T055144Z
+UID:ad16910f-9161-51fd-b79b-7f82e746cd87
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Sustainable Development Committee is an advisory committee of Bur
+ lington Council. Our role in the community is to promote the principles an
+ d objectives of Sustainable Development and to advise and assist City staf
+ f and Council members on these issues. We do this by reviewing and comment
+ ing on land use policies and development applications\, researching sustai
+ nable development issues and preparing position papers\, and by participat
+ ing in and hosting special sustainability events. The members of the Burli
+ ngton Sustainable Development Advisory Committee are volunteer citizens wh
+ o have been appointed by Council to advise on issues that relate to sustai
+ nable development. During the day\, we are\, or have been\, architects\, b
+ iologists\, business people\, developers\, engineers\, musicians\, planner
+ s\, stay-at-home parents\, university students and more. Our common ground
+  is our passion to minimize impacts on the environment and the belief that
+  the City of Burlington is a great place to live\, work and play.\nPlease 
+ note Advisory Committees are not webcasted. There is no link to a video at
+  HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meeting
+ s/Detail/2026-01-21-1900-Burlington-Sustainable-Development-Advisory-Commi
+ t
+URL:https://events.burlington.ca/meetings/Detail/2026-01-21-1900-Burlingto
+ n-Sustainable-Development-Advisory-Commit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260123T140000Z
 DTEND:20260123T160000Z
-DTSTAMP:20260119T055255Z
+DTSTAMP:20260120T055144Z
 UID:b8892919-9fb7-5495-b74b-2548acc72765
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -234,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260212T000000Z
 DTEND:20260212T020000Z
-DTSTAMP:20260119T055254Z
+DTSTAMP:20260120T055144Z
 UID:c900c281-1d54-59fa-a241-f8af208d436d
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -256,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
 DTSTART:20260205T143000Z
 DTEND:20260205T163000Z
-DTSTAMP:20260119T055254Z
+DTSTAMP:20260120T055144Z
 UID:ee491cbd-ad0d-5c1c-a7ff-f2cf2c30b4d3
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -279,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20260205T000000Z
 DTEND:20260205T020000Z
-DTSTAMP:20260119T055254Z
+DTSTAMP:20260120T055144Z
 UID:f16843a4-0c25-54dc-90db-a4eb958a7925
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -308,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260115T000000Z
 DTEND:20260115T020000Z
-DTSTAMP:20260119T055256Z
+DTSTAMP:20260120T055144Z
 UID:fd53650b-7ff9-5551-90e7-1f0f8acc233e
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
