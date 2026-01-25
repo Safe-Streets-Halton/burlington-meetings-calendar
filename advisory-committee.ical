@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260220T140000Z
 DTEND:20260220T160000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:1c167ba3-d9af-57f8-8552-7f96f4cf3048
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Sustainable Development Advisory Committee
 DTSTART:20260129T000000Z
 DTEND:20260129T020000Z
-DTSTAMP:20260124T054324Z
+DTSTAMP:20260125T054909Z
 UID:2203dc1c-0827-5f02-a74e-5e44e0bb60d4
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Accessibility Advisory Committee
 DTSTART:20260213T000000Z
 DTEND:20260213T020000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:3dee0ed6-b576-5256-aded-e04f282cc058
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260219T000000Z
 DTEND:20260219T020000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:4321ffa3-8123-5984-85d0-590fc0507952
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Cycling Advisory Committee
 DTSTART:20260128T000000Z
 DTEND:20260128T020000Z
-DTSTAMP:20260124T054322Z
+DTSTAMP:20260125T054909Z
 UID:479653b7-d94f-5f8e-8909-3db34bead9de
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260119T150000Z
 DTEND:20260119T170000Z
-DTSTAMP:20260124T054323Z
+DTSTAMP:20260125T054909Z
 UID:4bbdf43b-554c-5446-a832-5ecbf1fe1660
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260127T000000Z
 DTEND:20260127T020000Z
-DTSTAMP:20260124T054323Z
+DTSTAMP:20260125T054909Z
 UID:4fee32b1-5005-5161-9236-1a60da6109b4
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260224T000000Z
 DTEND:20260224T020000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:5806a6d5-8a19-5b56-a77b-9e54634583da
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260129T000000Z
 DTEND:20260129T020000Z
-DTSTAMP:20260124T054322Z
+DTSTAMP:20260125T054909Z
 UID:6895b26e-79da-5bdf-939e-a2e0bd7007c6
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260223T150000Z
 DTEND:20260223T170000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:8fde1499-f5b5-5c7d-8bec-aa629f568f9a
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Downtown Parking Advisory Committee
 DTSTART:20260219T133000Z
 DTEND:20260219T150000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:a2853d3e-8cf2-5133-98ee-9a83149e9147
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -301,7 +301,7 @@ SUMMARY:Burlington Sustainable Development Advisory Committee (Rescheduled
   due to lack of quorum)
 DTSTART:20260122T000000Z
 DTEND:20260122T020000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054910Z
 UID:ad16910f-9161-51fd-b79b-7f82e746cd87
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260212T000000Z
 DTEND:20260212T020000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:c900c281-1d54-59fa-a241-f8af208d436d
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
 DTSTART:20260205T143000Z
 DTEND:20260205T163000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:ee491cbd-ad0d-5c1c-a7ff-f2cf2c30b4d3
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20260205T000000Z
 DTEND:20260205T020000Z
-DTSTAMP:20260124T054321Z
+DTSTAMP:20260125T054909Z
 UID:f16843a4-0c25-54dc-90db-a4eb958a7925
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee (remote only) 
 DTSTART:20260123T140000Z
 DTEND:20260123T160000Z
-DTSTAMP:20260124T054322Z
+DTSTAMP:20260125T054909Z
 UID:f54b9c4c-6386-5bdd-9674-bb968cee1e9b
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
