@@ -4,9 +4,33 @@ PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
+DTSTART:20260320T130000Z
+DTEND:20260320T150000Z
+DTSTAMP:20260213T063444Z
+UID:0cfc3221-373d-5620-9622-9e7112d195d8
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Inclusivity  Advisory Committee is a committee made up of communi
+ ty volunteers and reports to City Council through the Committee of the Who
+ le meeting. The committee provides a monitoring and measuring role to help
+  ensure that the City applies an inclusion lens to its policies\, services
+  and programs. Our mission is to embrace diversity by providing opportunit
+ ies for all members of the community that reflect the ideals of acceptance
+ \, accommodation and respect. For any additional information\, please see\
+ nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
+  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
+ ails: https://events.burlington.ca/meetings/Detail/2026-03-20-0900-Burling
+ ton-Inclusivity-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-03-20-0900-Burlingto
+ n-Inclusivity-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260220T140000Z
 DTEND:20260220T160000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:1c167ba3-d9af-57f8-8552-7f96f4cf3048
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -30,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
 DTSTART:20260305T143000Z
 DTEND:20260305T163000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:233d17ff-c94e-52cd-92f0-62d83549f650
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -53,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Accessibility Advisory Committee
 DTSTART:20260213T000000Z
 DTEND:20260213T020000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:3dee0ed6-b576-5256-aded-e04f282cc058
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -95,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260219T000000Z
 DTEND:20260219T020000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:4321ffa3-8123-5984-85d0-590fc0507952
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -110,7 +134,10 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  lease note Advisory Committees are not webcasted. There is no link to a vi
  deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
  etings/Detail/2026-02-18-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
- visory
+ visory\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meeting
+ .aspx?Id=fb09ad73-672c-4bdf-85c2-0171ea801a88&Agenda=Agenda&lang=English h
+ ttps://events.burlington.ca/meetings/Detail/2026-02-18-1900-Burlington-Agr
+ icultural-and-Rural-Affairs-Advisory/e7324a51-473a-4349-866e-b3ef015f08c1
 URL:https://events.burlington.ca/meetings/Detail/2026-02-18-1900-Burlingto
  n-Agricultural-and-Rural-Affairs-Advisory
 END:VEVENT
@@ -118,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260224T000000Z
 DTEND:20260224T020000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:5806a6d5-8a19-5b56-a77b-9e54634583da
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -142,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260223T150000Z
 DTEND:20260223T170000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:8fde1499-f5b5-5c7d-8bec-aa629f568f9a
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -171,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Downtown Parking Advisory Committee
 DTSTART:20260219T133000Z
 DTEND:20260219T150000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:a2853d3e-8cf2-5133-98ee-9a83149e9147
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -191,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260311T230000Z
 DTEND:20260312T010000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:bd6c37ba-1382-5f90-94ce-48cc392378f2
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -213,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20260305T000000Z
 DTEND:20260305T020000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:c699dbfa-9c4b-50b2-ab96-88c4f8ba19a5
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -242,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260212T000000Z
 DTEND:20260212T020000Z
-DTSTAMP:20260212T205529Z
+DTSTAMP:20260213T063444Z
 UID:c900c281-1d54-59fa-a241-f8af208d436d
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -265,30 +292,26 @@ URL:https://events.burlington.ca/meetings/Detail/2026-02-11-1900-Heritage-
  Burlington-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
-DTSTART:20260205T143000Z
-DTEND:20260205T163000Z
-DTSTAMP:20260212T205529Z
-UID:ee491cbd-ad0d-5c1c-a7ff-f2cf2c30b4d3
+SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
+DTSTART:20260318T230000Z
+DTEND:20260319T010000Z
+DTSTAMP:20260213T063444Z
+UID:ec0eccb6-ed45-5b04-9076-41b7335b1a13
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
   to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington School Traffic Safety and Mobility Advisory Committee is a committ
- ee comprised of community volunteers and Halton District School Board and 
- Halton Catholic District School Board Trustees and reports to City Council
-  through the Committee of the Whole. The mandate of this committee is to i
- dentify\, assess\, and provide recommendations on school traffic and mobil
- ity-related risks\, with the goal of implementing measures that improve sa
- fety in and around school areas.\nPlease note Advisory Committees are not 
- webcasted. There is no link to a video at HTML-Minutes and Video.\n\nDetai
- ls: https://events.burlington.ca/meetings/Detail/2026-02-05-0930-Burlingto
- n-School-Traffic-Safety-and-Mobility-Advi\n\nAgenda: https://burlingtonpub
- lishing.escribemeetings.com/Meeting.aspx?Id=1e5f33b5-9f42-4004-89c9-dc358f
- 3b561c&Agenda=Agenda&lang=English https://events.burlington.ca/meetings/De
- tail/2026-02-05-0930-Burlington-School-Traffic-Safety-and-Mobility-Advi/82
- c4c718-f4d8-45ba-be7e-b3e2010550e2
-URL:https://events.burlington.ca/meetings/Detail/2026-02-05-0930-Burlingto
- n-School-Traffic-Safety-and-Mobility-Advi
+ lington Agricultural and Rural Affairs Advisory Committee is a committee m
+ ade up of community volunteers and reports to City Council through the Com
+ mittee of the Whole meeting. The mandate of the committee is to provide ad
+ vice to Council on Burlington's agricultural and rural goals\, objectives 
+ and policies\; and to raise community awareness and understanding of agric
+ ultural and rural issues as they relate to the city and its activities.\nP
+ lease note Advisory Committees are not webcasted. There is no link to a vi
+ deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
+ etings/Detail/2026-03-18-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
+ visory
+URL:https://events.burlington.ca/meetings/Detail/2026-03-18-1900-Burlingto
+ n-Agricultural-and-Rural-Affairs-Advisory
 END:VEVENT
 END:VCALENDAR
