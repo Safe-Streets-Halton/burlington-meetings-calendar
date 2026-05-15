@@ -3,37 +3,10 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
-DTSTART:20260507T133000Z
-DTEND:20260507T153000Z
-DTSTAMP:20260514T080619Z
-UID:04abc4a7-9040-568a-ac3b-b4cf716b1c79
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington School Traffic Safety and Mobility Advisory Committee is a committ
- ee comprised of community volunteers and Halton District School Board and 
- Halton Catholic District School Board Trustees and reports to City Council
-  through the Committee of the Whole. The mandate of this committee is to i
- dentify\, assess\, and provide recommendations on school traffic and mobil
- ity-related risks\, with the goal of implementing measures that improve sa
- fety in and around school areas.\nPlease note Advisory Committees are not 
- webcasted. There is no link to a video at HTML-Minutes and Video.\n\nDetai
- ls: https://events.burlington.ca/meetings/Detail/2026-05-07-0930-Burlingto
- n-School-Traffic-Safety-and-Mobility-Advi\n\nAgenda: https://burlingtonpub
- lishing.escribemeetings.com/Meeting.aspx?Id=3105877a-58ff-4481-953a-b4fb06
- 82f02c&Agenda=Agenda&lang=English https://events.burlington.ca/meetings/De
- tail/2026-05-07-0930-Burlington-School-Traffic-Safety-and-Mobility-Advi/00
- d366cf-bb22-47f5-995a-b441014e2ebd
-URL:https://events.burlington.ca/meetings/Detail/2026-05-07-0930-Burlingto
- n-School-Traffic-Safety-and-Mobility-Advi
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burlington Downtown Parking Advisory Committee
 DTSTART:20260528T123000Z
 DTEND:20260528T140000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:13ecf9e2-016e-53cf-b33c-3fb2abaa04dc
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -53,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of the Whole
 DTSTART:20260511T133000Z
 DTEND:20260511T203000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:145fb112-53ad-5e61-ba5a-51d374f59a86
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -85,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Council Information Package
 DTSTART:20260508T180000Z
 DTEND:20260508T190000Z
-DTSTAMP:20260514T080620Z
+DTSTAMP:20260515T082032Z
 UID:1d5a8f5b-82a9-5772-9190-2967b84734a3
 DESCRIPTION:Council Information Packages (CIPS) are published every week o
  n Friday afternoons for members of City Council and the public. They can i
@@ -109,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260522T130000Z
 DTEND:20260522T150000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:1f7f458f-5b11-56f0-9142-d7e6342b3010
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -133,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Accessibility Advisory Committee
 DTSTART:20260521T230000Z
 DTEND:20260522T010000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:29cafb4f-7385-5ce4-86c4-137cd5660596
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -167,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Council Workshop Committee
 DTSTART:20260611T170000Z
 DTEND:20260611T203000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:3464f2e6-3fdf-5af9-9072-f5d81a3b324f
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -185,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260610T230000Z
 DTEND:20260611T010000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:6bfa0cc0-b157-5f0b-8cbc-ce4fa8e16f09
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -207,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20260603T213000Z
 DTEND:20260604T020000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:6dd9ec36-7219-5826-9135-e66a92ccf39f
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -242,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council
 DTSTART:20260526T133000Z
 DTEND:20260526T203000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:74643bea-c32d-5c58-a8d3-4ccc4098ed61
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
@@ -267,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:75147de6-46f5-5080-9300-9a0a20ae0dc1
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -290,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260525T230000Z
 DTEND:20260526T010000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:9906a43a-b34a-557d-8bbe-1fb11b4bac71
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -314,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
 DTSTART:20260604T133000Z
 DTEND:20260604T153000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:a09e6a50-e90e-53fc-89a9-46023e107846
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -337,17 +310,20 @@ BEGIN:VEVENT
 SUMMARY:Pipeline to Permit Committee
 DTSTART:20260514T133000Z
 DTEND:20260514T163000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:a818be20-4b9c-5c73-a470-d794bf4d9561
 DESCRIPTION:Standing committee and City Council meetings are held at City 
  Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
  slative Services at\nclerks@burlington.ca\nby noon the business day before
   the meeting date. Correspondence will be circulated to committee members.
  \n\nDetails: https://events.burlington.ca/meetings/Detail/2026-05-14-0930-
- Pipeline-to-Permit-Committee\n\nAgenda: https://burlingtonpublishing.escri
- bemeetings.com/Meeting.aspx?Id=0c1d9745-69be-435c-979c-da911922cf59&Agenda
- =Agenda&lang=English https://events.burlington.ca/meetings/Detail/2026-05-
- 14-0930-Pipeline-to-Permit-Committee/71b63208-ce2a-41ea-be0b-b43d015125ff
+ Pipeline-to-Permit-Committee\n\nStream: https://burlingtonpublishing.escri
+ bemeetings.com/Players/ISIStandAlonePlayer.aspx?ClientId=burlington&FileNa
+ me=iSiLIVE%20Encoder%20763_P2P_2026-05-14-09-10.mp4\n\nAgenda: https://bur
+ lingtonpublishing.escribemeetings.com/Meeting.aspx?Id=0c1d9745-69be-435c-9
+ 79c-da911922cf59&Agenda=Agenda&lang=English https://events.burlington.ca/m
+ eetings/Detail/2026-05-14-0930-Pipeline-to-Permit-Committee/71b63208-ce2a-
+ 41ea-be0b-b43d015125ff
 URL:https://events.burlington.ca/meetings/Detail/2026-05-14-0930-Pipeline-
  to-Permit-Committee
 END:VEVENT
@@ -355,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20260520T170000Z
 DTEND:20260521T000000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:ade692f6-18b7-53ab-a8b1-6b5c3a1761e1
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -382,7 +358,10 @@ DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
   0588 Canada\n+1 778 907 2071 Canada\n+1 780 666 0144 Canada\nWebinar ID: 
  832 8230 9677\nInternational numbers available:\nhttps://us06web.zoom.us/u
  /kbPUZdYWLr\n\nDetails: https://events.burlington.ca/meetings/Detail/2026-
- 05-20-1300-Committee-of-Adjustment
+ 05-20-1300-Committee-of-Adjustment\n\nAgenda: https://burlingtonpublishing
+ .escribemeetings.com/Meeting.aspx?Id=9e5a95b6-c79f-4154-9d9d-9f9787e90699&
+ Agenda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/20
+ 26-05-20-1300-Committee-of-Adjustment/f6ceb750-4ba6-4815-a356-b44a014d3b1f
 URL:https://events.burlington.ca/meetings/Detail/2026-05-20-1300-Committee
  -of-Adjustment
 END:VEVENT
@@ -390,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:Council Workshop Committee (Cancelled\, not required)
 DTSTART:20260514T170000Z
 DTEND:20260514T203000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:af335285-3b83-5500-a7f0-1921b2115355
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -408,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of the Whole
 DTSTART:20260608T133000Z
 DTEND:20260608T203000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:bac4a506-70f4-5f6e-a060-9cee5c746137
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -428,7 +407,7 @@ SUMMARY:Committee of the Whole (continuation of May 11th\, Committee of th
  e Whole. Refer to May 11th for meeting material.)
 DTSTART:20260512T133000Z
 DTEND:20260512T203000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:bb2962f7-fe29-5432-8aae-cb1494053c7d
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -450,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260520T230000Z
 DTEND:20260521T010000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:c127bcfb-e0b2-5125-aeae-8b669fdbdce5
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -465,7 +444,10 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  lease note Advisory Committees are not webcasted. There is no link to a vi
  deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
  etings/Detail/2026-05-20-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
- visory
+ visory\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meeting
+ .aspx?Id=6363ba03-4fe6-4c20-8702-26777ee12614&Agenda=Agenda&lang=English h
+ ttps://events.burlington.ca/meetings/Detail/2026-05-20-1900-Burlington-Agr
+ icultural-and-Rural-Affairs-Advisory/82317230-985a-487a-a60e-b44a015d18ac
 URL:https://events.burlington.ca/meetings/Detail/2026-05-20-1900-Burlingto
  n-Agricultural-and-Rural-Affairs-Advisory
 END:VEVENT
@@ -473,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260525T140000Z
 DTEND:20260525T160000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:c8722cc2-47aa-5547-8374-86910fdcd779
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -494,7 +476,11 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  tion\, please see\nwww.Burlington.ca/bsac\n.\nPlease note Advisory Committ
  ees are not webcasted. There is no link to a video at HTML- Minutes and Vi
  deo.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026-05-25-1
- 000-Burlington-Seniors-Advisory-Committee
+ 000-Burlington-Seniors-Advisory-Committee\n\nAgenda: https://burlingtonpub
+ lishing.escribemeetings.com/Meeting.aspx?Id=252da017-9e23-4ef7-9a73-f9fa07
+ cc24e2&Agenda=Agenda&lang=English https://events.burlington.ca/meetings/De
+ tail/2026-05-25-1000-Burlington-Seniors-Advisory-Committee/db1a207c-bbce-4
+ 9bf-aa86-b44a012c7d43
 URL:https://events.burlington.ca/meetings/Detail/2026-05-25-1000-Burlingto
  n-Seniors-Advisory-Committee
 END:VEVENT
@@ -502,7 +488,7 @@ BEGIN:VEVENT
 SUMMARY:Audit Committee
 DTSTART:20260610T193000Z
 DTEND:20260610T213000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:e602aefb-dbf9-531b-8c04-50191c17598c
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -518,10 +504,34 @@ URL:https://events.burlington.ca/meetings/Detail/2026-06-10-1530-Audit-Com
  mittee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burlington Inclusivity Advisory Committee
+DTSTART:20260619T130000Z
+DTEND:20260619T150000Z
+DTSTAMP:20260515T082032Z
+UID:eaf1f3cd-1e79-5b48-aacb-8848d020ea43
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Inclusivity  Advisory Committee is a committee made up of communi
+ ty volunteers and reports to City Council through the Committee of the Who
+ le meeting. The committee provides a monitoring and measuring role to help
+  ensure that the City applies an inclusion lens to its policies\, services
+  and programs. Our mission is to embrace diversity by providing opportunit
+ ies for all members of the community that reflect the ideals of acceptance
+ \, accommodation and respect. For any additional information\, please see\
+ nwww.Burlington.ca/inclusivity\n.\nPlease note Advisory Committees are not
+  webcasted. There is no link to a video at HTML- Minutes and Video.\n\nDet
+ ails: https://events.burlington.ca/meetings/Detail/2026-06-19-0900-Burling
+ ton-Inclusivity-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-06-19-0900-Burlingto
+ n-Inclusivity-Advisory-Committee
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Appeals Committee
 DTSTART:20260528T170000Z
 DTEND:20260528T210000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:ef5eeec8-7758-5191-a770-761a3aaa0e36
 DESCRIPTION:The Burlington Appeals Committee is an administrative tribunal
   established by City Council in August 2025 (DGM-57-25).  The Appeals C
@@ -537,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260513T230000Z
 DTEND:20260514T010000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:f395f12b-7672-547c-8116-d3a385c8095c
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -563,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Mundialization Committee
 DTSTART:20260603T230000Z
 DTEND:20260604T010000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:f6437836-0471-5a1c-928b-71e98b257b8d
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -592,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Pipeline to Permit Committee
 DTSTART:20260611T133000Z
 DTEND:20260611T160000Z
-DTSTAMP:20260514T080619Z
+DTSTAMP:20260515T082032Z
 UID:fb0c1dcd-653e-5f10-9876-73d3efb75f97
 DESCRIPTION:Standing committee and City Council meetings are held at City 
  Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
