@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260604T090904Z
+DTSTAMP:20260605T085428Z
 UID:00d8523d-6198-59df-9240-aec8a2f79dbc
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260629T230000Z
 DTEND:20260630T010000Z
-DTSTAMP:20260604T090904Z
+DTSTAMP:20260605T085429Z
 UID:13c767c3-2536-5aa0-970d-215fc585437e
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -50,34 +50,10 @@ URL:https://events.burlington.ca/meetings/Detail/2026-06-29-1900-Integrate
  d-Transportation-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Downtown Parking Advisory Committee
-DTSTART:20260528T123000Z
-DTEND:20260528T140000Z
-DTSTAMP:20260604T090904Z
-UID:13ecf9e2-016e-53cf-b33c-3fb2abaa04dc
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Dow
- ntown Parking Committee (DPC)\, an advisory Committee of Council\, was cre
- ated on April 28\, 2003. The DPC provides comments and advice to the Commi
- ttee of the Whole meetings on strategies and policies that affect the deve
- lopment and delivery of parking services in downtown Burlington.\nPlease n
- ote Advisory Committees are not webcasted. There is no link to a video at 
- HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meetings
- /Detail/2026-05-28-0830-Burlington-Downtown-Parking-Advisory-Committee\n\n
- Agenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=4
- 0d1ec64-ad00-48d5-8e0f-ae5c2b086dc9&Agenda=Agenda&lang=English https://eve
- nts.burlington.ca/meetings/Detail/2026-05-28-0830-Burlington-Downtown-Park
- ing-Advisory-Committee/c28fc509-37ed-4333-91c3-b452010333ea
-URL:https://events.burlington.ca/meetings/Detail/2026-05-28-0830-Burlingto
- n-Downtown-Parking-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burlington Accessibility Advisory Committee
 DTSTART:20260618T223000Z
 DTEND:20260619T003000Z
-DTSTAMP:20260604T090904Z
+DTSTAMP:20260605T085428Z
 UID:65b53f59-6c1a-5d4c-b9dc-661a959d6db8
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -111,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260610T230000Z
 DTEND:20260611T010000Z
-DTSTAMP:20260604T090904Z
+DTSTAMP:20260605T085429Z
 UID:6bfa0cc0-b157-5f0b-8cbc-ce4fa8e16f09
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -125,7 +101,11 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  y additional information\, please see www.Burlington.ca/heritageburlington
  .\nPlease note Advisory Committees are not webcasted. There is no link to 
  a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
- /meetings/Detail/2026-06-10-1900-Heritage-Burlington-Advisory-Committee
+ /meetings/Detail/2026-06-10-1900-Heritage-Burlington-Advisory-Committee\n\
+ nAgenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=
+ 8cc8235d-ae00-4fd2-a1f6-cb794ae9bc71&Agenda=Agenda&lang=English https://ev
+ ents.burlington.ca/meetings/Detail/2026-06-10-1900-Heritage-Burlington-Adv
+ isory-Committee/24f1e9de-4c62-426e-95b8-b45f0131c691
 URL:https://events.burlington.ca/meetings/Detail/2026-06-10-1900-Heritage-
  Burlington-Advisory-Committee
 END:VEVENT
@@ -133,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Cycling Advisory Committee
 DTSTART:20260601T230000Z
 DTEND:20260602T010000Z
-DTSTAMP:20260604T090904Z
+DTSTAMP:20260605T085429Z
 UID:72f972ea-5b05-5b05-be42-5b03c76bdbc3
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -158,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington School Traffic Safety and Mobility Advisory Committee
 DTSTART:20260604T133000Z
 DTEND:20260604T153000Z
-DTSTAMP:20260604T090904Z
+DTSTAMP:20260605T085429Z
 UID:a09e6a50-e90e-53fc-89a9-46023e107846
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -185,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260619T130000Z
 DTEND:20260619T150000Z
-DTSTAMP:20260604T090904Z
+DTSTAMP:20260605T085428Z
 UID:eaf1f3cd-1e79-5b48-aacb-8848d020ea43
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -209,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260622T140000Z
 DTEND:20260622T160000Z
-DTSTAMP:20260604T090904Z
+DTSTAMP:20260605T085428Z
 UID:f1d0f65f-a637-566e-8040-978cbdf77d7c
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
