@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260617T101217Z
+DTSTAMP:20260618T095128Z
 UID:00d8523d-6198-59df-9240-aec8a2f79dbc
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260629T230000Z
 DTEND:20260630T010000Z
-DTSTAMP:20260617T101217Z
+DTSTAMP:20260618T095128Z
 UID:13c767c3-2536-5aa0-970d-215fc585437e
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -53,10 +53,44 @@ URL:https://events.burlington.ca/meetings/Detail/2026-06-29-1900-Integrate
  d-Transportation-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burlington Sustainable Development Advisory Committee
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+DTSTAMP:20260618T095128Z
+UID:35f84c00-85e2-523b-97c8-e7e022dbb827
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
+ lington Sustainable Development Committee is an advisory committee of Bur
+ lington Council. Our role in the community is to promote the principles an
+ d objectives of Sustainable Development and to advise and assist City staf
+ f and Council members on these issues. We do this by reviewing and comment
+ ing on land use policies and development applications\, researching sustai
+ nable development issues and preparing position papers\, and by participat
+ ing in and hosting special sustainability events. The members of the Burli
+ ngton Sustainable Development Advisory Committee are volunteer citizens wh
+ o have been appointed by Council to advise on issues that relate to sustai
+ nable development. During the day\, we are\, or have been\, architects\, b
+ iologists\, business people\, developers\, engineers\, musicians\, planner
+ s\, stay-at-home parents\, university students and more. Our common ground
+  is our passion to minimize impacts on the environment and the belief that
+  the City of Burlington is a great place to live\, work and play.\nPlease 
+ note Advisory Committees are not webcasted. There is no link to a video at
+  HTML- Minutes and Video.\n\nDetails: https://events.burlington.ca/meeting
+ s/Detail/2026-06-17-1900-Burlington-Sustainable-Development-Advisory-Commi
+ t\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx
+ ?Id=5c090e08-3381-4bbc-8b45-5205d5fb843d&Agenda=Agenda&lang=English https:
+ //events.burlington.ca/meetings/Detail/2026-06-17-1900-Burlington-Sustaina
+ ble-Development-Advisory-Commit/47a0b27f-b19e-4bc2-81d1-b46c00e9e99f
+URL:https://events.burlington.ca/meetings/Detail/2026-06-17-1900-Burlingto
+ n-Sustainable-Development-Advisory-Commit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burlington Accessibility Advisory Committee
 DTSTART:20260618T223000Z
 DTEND:20260619T003000Z
-DTSTAMP:20260617T101217Z
+DTSTAMP:20260618T095128Z
 UID:65b53f59-6c1a-5d4c-b9dc-661a959d6db8
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -91,36 +125,10 @@ URL:https://events.burlington.ca/meetings/Detail/2026-06-18-1830-Burlingto
  n-Accessibility-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heritage Burlington Advisory Committee
-DTSTART:20260610T230000Z
-DTEND:20260611T010000Z
-DTSTAMP:20260617T101218Z
-UID:6bfa0cc0-b157-5f0b-8cbc-ce4fa8e16f09
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
- e Burlington Advisory Committee is a committee made up of community volunt
- eers and reports to City Council through the Committee of the Whole. The m
- andate of the committee is to provide advice to Council on issues related 
- to the conservation of Burlington's cultural heritage and to promote commu
- nity awareness and understanding of Burlington's cultural heritage. For an
- y additional information\, please see www.Burlington.ca/heritageburlington
- .\nPlease note Advisory Committees are not webcasted. There is no link to 
- a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
- /meetings/Detail/2026-06-10-1900-Heritage-Burlington-Advisory-Committee\n\
- nAgenda: https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=
- 8cc8235d-ae00-4fd2-a1f6-cb794ae9bc71&Agenda=Agenda&lang=English https://ev
- ents.burlington.ca/meetings/Detail/2026-06-10-1900-Heritage-Burlington-Adv
- isory-Committee/24f1e9de-4c62-426e-95b8-b45f0131c691
-URL:https://events.burlington.ca/meetings/Detail/2026-06-10-1900-Heritage-
- Burlington-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260619T130000Z
 DTEND:20260619T150000Z
-DTSTAMP:20260617T101217Z
+DTSTAMP:20260618T095128Z
 UID:eaf1f3cd-1e79-5b48-aacb-8848d020ea43
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -148,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260622T140000Z
 DTEND:20260622T160000Z
-DTSTAMP:20260617T101217Z
+DTSTAMP:20260618T095128Z
 UID:f1d0f65f-a637-566e-8040-978cbdf77d7c
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
