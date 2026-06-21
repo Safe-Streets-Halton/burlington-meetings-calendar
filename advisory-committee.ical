@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260620T083057Z
+DTSTAMP:20260621T090643Z
 UID:00d8523d-6198-59df-9240-aec8a2f79dbc
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260629T230000Z
 DTEND:20260630T010000Z
-DTSTAMP:20260620T083053Z
+DTSTAMP:20260621T090643Z
 UID:13c767c3-2536-5aa0-970d-215fc585437e
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Sustainable Development Advisory Committee
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-DTSTAMP:20260620T083056Z
+DTSTAMP:20260621T090643Z
 UID:35f84c00-85e2-523b-97c8-e7e022dbb827
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Accessibility Advisory Committee
 DTSTART:20260618T223000Z
 DTEND:20260619T003000Z
-DTSTAMP:20260620T083054Z
+DTSTAMP:20260621T090643Z
 UID:65b53f59-6c1a-5d4c-b9dc-661a959d6db8
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Inclusivity Advisory Committee
 DTSTART:20260619T130000Z
 DTEND:20260619T150000Z
-DTSTAMP:20260620T083059Z
+DTSTAMP:20260621T090643Z
 UID:eaf1f3cd-1e79-5b48-aacb-8848d020ea43
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Seniors' Advisory Committee
 DTSTART:20260622T140000Z
 DTEND:20260622T160000Z
-DTSTAMP:20260620T083058Z
+DTSTAMP:20260621T090643Z
 UID:f1d0f65f-a637-566e-8040-978cbdf77d7c
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
