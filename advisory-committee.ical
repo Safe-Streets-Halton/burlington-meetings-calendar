@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260625T083404Z
+DTSTAMP:20260626T083746Z
 UID:00d8523d-6198-59df-9240-aec8a2f79dbc
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260629T230000Z
 DTEND:20260630T010000Z
-DTSTAMP:20260625T083404Z
+DTSTAMP:20260626T083746Z
 UID:13c767c3-2536-5aa0-970d-215fc585437e
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -61,7 +61,7 @@ SUMMARY:Burlington Seniors' Advisory Committee (cancelled due to the lack
  of quorum) 
 DTSTART:20260622T140000Z
 DTEND:20260622T160000Z
-DTSTAMP:20260625T083404Z
+DTSTAMP:20260626T083747Z
 UID:18103e5f-8a95-5d05-9171-6755f0755e33
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -95,7 +95,7 @@ SUMMARY:Burlington Inclusivity Advisory Committee (cancelled due to lack o
  f quorum)
 DTSTART:20260619T130000Z
 DTEND:20260619T150000Z
-DTSTAMP:20260625T083404Z
+DTSTAMP:20260626T083746Z
 UID:3428c41e-2a5a-52f1-af28-0c88a8aa8eba
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -120,48 +120,10 @@ URL:https://events.burlington.ca/meetings/Detail/2026-06-19-0900-Burlingto
  n-Inclusivity-Advisory-Committee-cancelle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Accessibility Advisory Committee
-DTSTART:20260618T223000Z
-DTEND:20260619T003000Z
-DTSTAMP:20260625T083404Z
-UID:65b53f59-6c1a-5d4c-b9dc-661a959d6db8
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nEstabli
- shed in 1994\, the Burlington Accessibility Advisory Committee (BAAC) is a
-  committee made up of community volunteers and reports to City Council thr
- ough the Committee of the Whole meeting. The BAAC provides advice on the i
- dentification\, removal and prevention of barriers to people with disabili
- ties in the municipality's by-laws\, policies\, programs and services. The
-  BAAC works in partnership with the City to create the Multi-Year Corporat
- e Accessibility Plan and advises the City on accessibility issues\, not on
- ly to help remove existing barriers but also to prevent new barriers from 
- being created. It provides input to staff and Council about matters of acc
- essibility. All site plans submitted to the City\, including those of the 
- private sector\, are reviewed by the BAAC to make sure accessibility is co
- nsidered before a building is constructed or modified. Members are availab
- le to speak to your organization about accessibility\, welcoming people wi
- th disabilities into your workplace or business\, the Accessibility for On
- tarians with Disabilities Act and its regulations. The Committee is a requ
- irement by law through the Ontarians with Disabilities Act\, 2001 and the 
- Accessibility for Ontarians with Disabilities Act\, 2005. For any addition
- al information\, please see www.Burlington.ca/accessibility.\nPlease note 
- Advisory Committees are not webcasted. There is no link to a video at HTML
- - Minutes and Video.\n\nDetails: https://events.burlington.ca/meetings/Det
- ail/2026-06-18-1830-Burlington-Accessibility-Advisory-Committee\n\nAgenda:
-  https://burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=b53303f6
- -e626-484f-9604-9e888845010b&Agenda=Agenda&lang=English https://events.bur
- lington.ca/meetings/Detail/2026-06-18-1830-Burlington-Accessibility-Adviso
- ry-Committee/b4cc86cd-eb80-40e1-9728-b46b00da75f5
-URL:https://events.burlington.ca/meetings/Detail/2026-06-18-1830-Burlingto
- n-Accessibility-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260812T230000Z
 DTEND:20260813T010000Z
-DTSTAMP:20260625T083404Z
+DTSTAMP:20260626T083745Z
 UID:f0ca6070-eaf5-555c-9824-d77ac77e3e0f
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
