@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260629T100558Z
+DTSTAMP:20260630T084038Z
 UID:00d8523d-6198-59df-9240-aec8a2f79dbc
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260629T230000Z
 DTEND:20260630T010000Z
-DTSTAMP:20260629T100558Z
+DTSTAMP:20260630T084038Z
 UID:13c767c3-2536-5aa0-970d-215fc585437e
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -57,44 +57,10 @@ URL:https://events.burlington.ca/meetings/Detail/2026-06-29-1900-Integrate
  d-Transportation-Advisory-Committee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burlington Seniors' Advisory Committee (cancelled due to the lack 
- of quorum) 
-DTSTART:20260622T140000Z
-DTEND:20260622T160000Z
-DTSTAMP:20260629T100559Z
-UID:18103e5f-8a95-5d05-9171-6755f0755e33
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Seniors' Advisory Committee (BSAC) is a committee made up of commu
- nity volunteers and reports to City Council through the Committee of the W
- hole meeting. BSAC represents Burlington seniors' perspectives on municipa
- l and other key seniors' issues\, for example: transportation\, isolation\
- , affordability\, parks and recreation services\, geographical service del
- ivery. BSAC provides a voice for Burlington seniors\, exchanging informati
- on about current issues and emerging concerns and provides input to city s
- taff as requested and to the Halton Region's Older Adult Advisory Committe
- e (OAAC) on an ongoing basis. BSAC responds to seniors' community needs an
- d creates and executes an annual work plan\, which may include: hosting se
- niors' discussion forums\, supporting strategic planning for development o
- f local seniors' services\, public information. For any additional informa
- tion\, please see\nwww.Burlington.ca/bsac\n.\nPlease note Advisory Committ
- ees are not webcasted. There is no link to a video at HTML- Minutes and Vi
- deo.\n\nDetails: https://events.burlington.ca/meetings/Detail/2026-06-22-1
- 000-Burlington-Seniors-Advisory-Committee-cancelled-du\n\nAgenda: https://
- burlingtonpublishing.escribemeetings.com/Meeting.aspx?Id=effd8bb2-e154-491
- c-8d3a-cab54a0198ce&Agenda=Agenda&lang=English https://events.burlington.c
- a/meetings/Detail/2026-06-22-1000-Burlington-Seniors-Advisory-Committee-ca
- ncelled-du/bc9fe593-0b93-4f00-8c47-b46a01129755
-URL:https://events.burlington.ca/meetings/Detail/2026-06-22-1000-Burlingto
- n-Seniors-Advisory-Committee-cancelled-du
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burlington Cycling Advisory Committee
 DTSTART:20260630T230000Z
 DTEND:20260701T010000Z
-DTSTAMP:20260629T100558Z
+DTSTAMP:20260630T084038Z
 UID:7a7419da-379f-5ac1-a90a-e1d0ec099322
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -115,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260812T230000Z
 DTEND:20260813T010000Z
-DTSTAMP:20260629T100558Z
+DTSTAMP:20260630T084038Z
 UID:f0ca6070-eaf5-555c-9824-d77ac77e3e0f
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
