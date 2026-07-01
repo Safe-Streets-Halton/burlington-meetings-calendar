@@ -3,36 +3,10 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Burlington Agricultural and Rural Affairs Advisory Committee
-DTSTART:20260623T230000Z
-DTEND:20260624T010000Z
-DTSTAMP:20260630T084038Z
-UID:00d8523d-6198-59df-9240-aec8a2f79dbc
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Agricultural and Rural Affairs Advisory Committee is a committee m
- ade up of community volunteers and reports to City Council through the Com
- mittee of the Whole meeting. The mandate of the committee is to provide ad
- vice to Council on Burlington's agricultural and rural goals\, objectives 
- and policies\; and to raise community awareness and understanding of agric
- ultural and rural issues as they relate to the city and its activities.\nP
- lease note Advisory Committees are not webcasted. There is no link to a vi
- deo at HTML-Minutes and Video.\n\nDetails: https://events.burlington.ca/me
- etings/Detail/2026-06-23-1900-Burlington-Agricultural-and-Rural-Affairs-Ad
- visory\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meeting
- .aspx?Id=5e0017c6-5851-43a6-93a3-12f882f7184e&Agenda=Agenda&lang=English h
- ttps://events.burlington.ca/meetings/Detail/2026-06-23-1900-Burlington-Agr
- icultural-and-Rural-Affairs-Advisory/addabe67-bd32-44bd-a718-b46601338925
-URL:https://events.burlington.ca/meetings/Detail/2026-06-23-1900-Burlingto
- n-Agricultural-and-Rural-Affairs-Advisory
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Integrated Transportation Advisory Committee
 DTSTART:20260629T230000Z
 DTEND:20260630T010000Z
-DTSTAMP:20260630T084038Z
+DTSTAMP:20260701T085753Z
 UID:13c767c3-2536-5aa0-970d-215fc585437e
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -60,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Burlington Cycling Advisory Committee
 DTSTART:20260630T230000Z
 DTEND:20260701T010000Z
-DTSTAMP:20260630T084038Z
+DTSTAMP:20260701T085754Z
 UID:7a7419da-379f-5ac1-a90a-e1d0ec099322
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -81,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260812T230000Z
 DTEND:20260813T010000Z
-DTSTAMP:20260630T084038Z
+DTSTAMP:20260701T085753Z
 UID:f0ca6070-eaf5-555c-9824-d77ac77e3e0f
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
