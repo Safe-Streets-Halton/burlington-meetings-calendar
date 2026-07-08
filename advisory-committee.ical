@@ -3,31 +3,10 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Burlington Cycling Advisory Committee
-DTSTART:20260630T230000Z
-DTEND:20260701T010000Z
-DTSTAMP:20260707T084811Z
-UID:7a7419da-379f-5ac1-a90a-e1d0ec099322
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nThe Bur
- lington Cycling Advisory Committee is a committee made up of community vol
- unteers and reports to City Council through the Committee of the Whole mee
- ting. The role of the committee is to advise Council on matters pertaining
-  to cycling in the City of Burlington. For any additional information\, pl
- ease see www.Burlington.ca/cycling.\nPlease note Advisory Committees are n
- ot webcasted. There is no link to a video at HTML- Minutes and Video.\n\nD
- etails: https://events.burlington.ca/meetings/Detail/2026-06-30-1900-Burli
- ngton-Cycling-Advisory-Committee
-URL:https://events.burlington.ca/meetings/Detail/2026-06-30-1900-Burlingto
- n-Cycling-Advisory-Committee
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee
 DTSTART:20260812T230000Z
 DTEND:20260813T010000Z
-DTSTAMP:20260707T084811Z
+DTSTAMP:20260708T075233Z
 UID:f0ca6070-eaf5-555c-9824-d77ac77e3e0f
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
