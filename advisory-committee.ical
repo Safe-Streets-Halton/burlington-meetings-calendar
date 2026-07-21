@@ -2,4 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Heritage Burlington Advisory Committee
+DTSTART:20260812T230000Z
+DTEND:20260813T010000Z
+DTSTAMP:20260721T075317Z
+UID:f0ca6070-eaf5-555c-9824-d77ac77e3e0f
+DESCRIPTION:The public is welcome to delegate to an advisory committee mee
+ ting or attend as an observer.  Participation can be remote or in-person.
+  For information on how to speak at a meeting or to get information on how
+  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
+ e Burlington Advisory Committee is a committee made up of community volunt
+ eers and reports to City Council through the Committee of the Whole. The m
+ andate of the committee is to provide advice to Council on issues related 
+ to the conservation of Burlington's cultural heritage and to promote commu
+ nity awareness and understanding of Burlington's cultural heritage. For an
+ y additional information\, please see www.Burlington.ca/heritageburlington
+ .\nPlease note Advisory Committees are not webcasted. There is no link to 
+ a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
+ /meetings/Detail/2026-08-12-1900-Heritage-Burlington-Advisory-Committee
+URL:https://events.burlington.ca/meetings/Detail/2026-08-12-1900-Heritage-
+ Burlington-Advisory-Committee
+END:VEVENT
 END:VCALENDAR
