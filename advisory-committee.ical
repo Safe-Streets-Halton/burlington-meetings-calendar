@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Heritage Burlington Advisory Committee
+SUMMARY:Heritage Burlington Advisory Committee (remote only)
 DTSTART:20260812T230000Z
 DTEND:20260813T010000Z
-DTSTAMP:20260728T075819Z
-UID:f0ca6070-eaf5-555c-9824-d77ac77e3e0f
+DTSTAMP:20260729T080317Z
+UID:483d3d72-78f9-57fb-85f7-e04270e24556
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
   For information on how to speak at a meeting or to get information on how
@@ -20,8 +20,9 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  y additional information\, please see www.Burlington.ca/heritageburlington
  .\nPlease note Advisory Committees are not webcasted. There is no link to 
  a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
- /meetings/Detail/2026-08-12-1900-Heritage-Burlington-Advisory-Committee
+ /meetings/Detail/2026-08-12-1900-Heritage-Burlington-Advisory-Committee-re
+ mote-only
 URL:https://events.burlington.ca/meetings/Detail/2026-08-12-1900-Heritage-
- Burlington-Advisory-Committee
+ Burlington-Advisory-Committee-remote-only
 END:VEVENT
 END:VCALENDAR
