@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee (remote only)
 DTSTART:20260812T230000Z
 DTEND:20260813T010000Z
-DTSTAMP:20260812T065157Z
+DTSTAMP:20260813T065436Z
 UID:483d3d72-78f9-57fb-85f7-e04270e24556
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -24,8 +24,8 @@ DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  mote-only\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meet
  ing.aspx?Id=75814388-2d2f-4c95-8eba-246d05132843&Agenda=Agenda&lang=Englis
  h https://events.burlington.ca/meetings/Detail/2026-08-12-1900-Heritage-Bu
- rlington-Advisory-Committee-remote-only/7004abfd-b1a0-41c9-9567-b49f00e7c9
- 11
+ rlington-Advisory-Committee-remote-only/467621ad-f613-4836-bfe9-b4a400e35b
+ cb
 URL:https://events.burlington.ca/meetings/Detail/2026-08-12-1900-Heritage-
  Burlington-Advisory-Committee-remote-only
 END:VEVENT
