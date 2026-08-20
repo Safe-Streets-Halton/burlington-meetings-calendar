@@ -3,37 +3,10 @@ VERSION:2.0
 PRODID:-//BurlingtonOntario//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Heritage Burlington Advisory Committee (remote only)
-DTSTART:20260812T230000Z
-DTEND:20260813T010000Z
-DTSTAMP:20260819T055424Z
-UID:483d3d72-78f9-57fb-85f7-e04270e24556
-DESCRIPTION:The public is welcome to delegate to an advisory committee mee
- ting or attend as an observer.  Participation can be remote or in-person.
-  For information on how to speak at a meeting or to get information on how
-  to attend remotely or in-person\, email\nclerks@burlington.ca\n.\nHeritag
- e Burlington Advisory Committee is a committee made up of community volunt
- eers and reports to City Council through the Committee of the Whole. The m
- andate of the committee is to provide advice to Council on issues related 
- to the conservation of Burlington's cultural heritage and to promote commu
- nity awareness and understanding of Burlington's cultural heritage. For an
- y additional information\, please see www.Burlington.ca/heritageburlington
- .\nPlease note Advisory Committees are not webcasted. There is no link to 
- a video at HTML-Minutes and Video\n\nDetails: https://events.burlington.ca
- /meetings/Detail/2026-08-12-1900-Heritage-Burlington-Advisory-Committee-re
- mote-only\n\nAgenda: https://burlingtonpublishing.escribemeetings.com/Meet
- ing.aspx?Id=75814388-2d2f-4c95-8eba-246d05132843&Agenda=Agenda&lang=Englis
- h https://events.burlington.ca/meetings/Detail/2026-08-12-1900-Heritage-Bu
- rlington-Advisory-Committee-remote-only/467621ad-f613-4836-bfe9-b4a400e35b
- cb
-URL:https://events.burlington.ca/meetings/Detail/2026-08-12-1900-Heritage-
- Burlington-Advisory-Committee-remote-only
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee (Remote Only)
 DTSTART:20260929T230000Z
 DTEND:20260930T010000Z
-DTSTAMP:20260819T055424Z
+DTSTAMP:20260820T055530Z
 UID:4d125065-6569-583b-a7b4-8927b4ef1711
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
