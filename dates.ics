@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council
 DTSTART:20261222T143000Z
 DTEND:20261222T213000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055706Z
 UID:0b0513d1-5828-5995-8d9c-c1183496159c
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Council Workshop Committee
 DTSTART:20260917T170000Z
 DTEND:20260917T203000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055706Z
 UID:1511dd06-d42b-5b4d-ad27-29c70d05230f
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Pipeline to Permit Committee (Cancelled\, not required)
 DTSTART:20260917T133000Z
 DTEND:20260917T160000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055707Z
 UID:1f618ede-1904-54fa-9077-4b9b983ec936
 DESCRIPTION:Standing committee and City Council meetings are held at City 
  Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Council Workshop Committee
 DTSTART:20261210T180000Z
 DTEND:20261210T213000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055707Z
 UID:328a4f17-7603-568c-a509-4d33e4d93b32
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of the Whole
 DTSTART:20261207T143000Z
 DTEND:20261207T213000Z
-DTSTAMP:20260820T055529Z
+DTSTAMP:20260821T055707Z
 UID:41f59e64-40b2-51a5-a198-4031117e1e3d
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Burlington Advisory Committee (Remote Only)
 DTSTART:20260929T230000Z
 DTEND:20260930T010000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055707Z
 UID:4d125065-6569-583b-a7b4-8927b4ef1711
 DESCRIPTION:The public is welcome to delegate to an advisory committee mee
  ting or attend as an observer.  Participation can be remote or in-person.
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20260819T170000Z
 DTEND:20260820T000000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055708Z
 UID:6701f150-91ab-52b3-906b-fb333402858f
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Council Information Package
 DTSTART:20260814T150000Z
 DTEND:20260814T160000Z
-DTSTAMP:20260820T055532Z
+DTSTAMP:20260821T055708Z
 UID:6a1566b0-0461-5757-9159-85acdaa52151
 DESCRIPTION:Council Information Packages (CIPS) are published every week o
  n Friday afternoons for members of City Council and the public. They can i
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Audit Committee
 DTSTART:20260916T193000Z
 DTEND:20260916T213000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055706Z
 UID:6e2edb16-0b31-5fd5-8204-bfe2c1eb239a
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Appeals Committee
 DTSTART:20260924T170000Z
 DTEND:20260924T210000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055707Z
 UID:7198e108-0cfc-58cd-b4eb-e4fc005af2b4
 DESCRIPTION:The Burlington Appeals Committee is an administrative tribunal
   established by City Council in August 2025 (DGM-57-25).  The Appeals C
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Pipeline to Permit Committee
 DTSTART:20261210T143000Z
 DTEND:20261210T170000Z
-DTSTAMP:20260820T055531Z
+DTSTAMP:20260821T055706Z
 UID:71f51301-d23e-5e59-8827-eb264e292ebd
 DESCRIPTION:Standing committee and City Council meetings are held at City 
  Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Council Workshop Committee
 DTSTART:20261117T143000Z
 DTEND:20261117T180000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055707Z
 UID:a0f358a3-7f20-5a21-97c8-4200493f92e6
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Appeals Committee (cancelled\, not required)
 DTSTART:20260827T170000Z
 DTEND:20260827T210000Z
-DTSTAMP:20260820T055531Z
+DTSTAMP:20260821T055708Z
 UID:a9455fbe-a474-5c0b-bfbb-f3005035623c
 DESCRIPTION:The Burlington Appeals Committee is an administrative tribunal
   established by City Council in August 2025 (DGM-57-25).  The Appeals C
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council
 DTSTART:20260929T133000Z
 DTEND:20260929T203000Z
-DTSTAMP:20260820T055529Z
+DTSTAMP:20260821T055707Z
 UID:b085af5a-df37-50bf-a11d-fa903fcd9a07
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Audit Committee
 DTSTART:20261209T203000Z
 DTEND:20261209T223000Z
-DTSTAMP:20260820T055529Z
+DTSTAMP:20260821T055706Z
 UID:b3bfe84a-950d-56bf-b32f-2a22246722ee
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of the Whole
 DTSTART:20260914T133000Z
 DTEND:20260914T203000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055706Z
 UID:baa5dd52-e664-57a0-a73a-811f1a63854a
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Appeals Committee
 DTSTART:20261126T180000Z
 DTEND:20261126T220000Z
-DTSTAMP:20260820T055529Z
+DTSTAMP:20260821T055708Z
 UID:c65d2c10-6944-500f-8923-81338d5d5053
 DESCRIPTION:The Burlington Appeals Committee is an administrative tribunal
   established by City Council in August 2025 (DGM-57-25).  The Appeals C
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20260902T213000Z
 DTEND:20260903T020000Z
-DTSTAMP:20260820T055531Z
+DTSTAMP:20260821T055707Z
 UID:ccd428b6-c8e6-5779-8a91-1a2859ad34d7
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -390,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Appeals Committee
 DTSTART:20261029T170000Z
 DTEND:20261029T210000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055706Z
 UID:dd41af5d-7586-5c0f-be31-3308bb64f12f
 DESCRIPTION:The Burlington Appeals Committee is an administrative tribunal
   established by City Council in August 2025 (DGM-57-25).  The Appeals C
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20260923T170000Z
 DTEND:20260924T000000Z
-DTSTAMP:20260820T055530Z
+DTSTAMP:20260821T055707Z
 UID:e1c1c6c5-ad69-5079-9b9f-fc010364fda5
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
