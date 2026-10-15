@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council
 DTSTART:20261222T143000Z
 DTEND:20261222T213000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:0b0513d1-5828-5995-8d9c-c1183496159c
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20261021T170000Z
 DTEND:20261022T000000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:1c81931b-7d2d-5057-8691-83122426c714
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -67,48 +67,10 @@ URL:https://events.burlington.ca/meetings/Detail/2026-10-21-1300-Committee
  -of-Adjustment
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Committee of Adjustment
-DTSTART:20261007T213000Z
-DTEND:20261008T023000Z
-DTSTAMP:20261014T102422Z
-UID:224191c3-b289-5320-9c2c-846a2649495c
-DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
- ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
- rencing technology.\nRequests to delegate at a meeting can be made by subm
- itting a written request by email to the Secretary Treasurer of the Commit
- tee of Adjustment at committeeofadjustment@burlington.ca or by phoning 905
- -335-7777\, ext. 7629 by noon the business day before the meeting is to be
-  held. You are encouraged to pre-register as a delegate as soon as possibl
- e to facilitate an orderly registration process.\nIt is recommended that v
- irtual delegates include their intended remarks\, which will be circulated
-  to all members in advance\, as a backup to any disruptions in technology 
- issues that may occur.\nIf you do not wish to delegate\, but would like to
-  submit correspondence\, please email your comments to committeeofadjustme
- nt@burlington.ca. Any notes and comments will be circulated to the applica
- nt\, staff and members in advance of the meeting and will forming part of 
- the public record.\nThe link will be active 30 minutes before the start ti
- me.\nApplications will be heard in the order that they appear on the agend
- a or otherwise stated by the Chair.\nZoom Details\nWhen: Oct 7\, 2026 05:3
- 0 PM Eastern Time (US and Canada)\nTopic:  Hybrid CoA Meeting no 18_5:30 
- PM\nJoin from PC\, Mac\, iPad\, or Android:\nhttps://us06web.zoom.us/j/836
- 71363281\nPhone one-tap:\n+17789072071\,\,83671363281# Canada\n+1780666014
- 4\,\,83671363281# Canada\nJoin via audio:\n+1 778 907 2071 Canada\n+1 780 
- 666 0144 Canada\n+1 204 272 7920 Canada\n+1 438 809 7799 Canada\n+1 587 32
- 8 1099 Canada\n+1 647 374 4685 Canada\n+1 647 558 0588 Canada\nWebinar ID:
-  836 7136 3281\nInternational numbers available:\nhttps://us06web.zoom.us/
- u/ksBSxp6EX\n\nDetails: https://events.burlington.ca/meetings/Detail/2026-
- 10-07-1730-Committee-of-Adjustment\n\nAgenda: https://burlingtonpublishing
- .escribemeetings.com/Meeting.aspx?Id=fed40530-04b0-4220-813c-fe8b6f272de1&
- Agenda=Agenda&lang=English https://events.burlington.ca/meetings/Detail/20
- 26-10-07-1730-Committee-of-Adjustment/3fae7b9e-2414-4392-a56d-b4cd012a3e73
-URL:https://events.burlington.ca/meetings/Detail/2026-10-07-1730-Committee
- -of-Adjustment
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Appeals Committee
 DTSTART:20261105T180000Z
 DTEND:20261105T220000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:2e60ae01-1412-516e-88db-b75213e8ff11
 DESCRIPTION:The Burlington Appeals Committee is an administrative tribunal
   established by City Council in August 2025 (DGM-57-25).  The Appeals C
@@ -124,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Council Workshop Committee
 DTSTART:20261210T180000Z
 DTEND:20261210T213000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:328a4f17-7603-568c-a509-4d33e4d93b32
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -142,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20261118T180000Z
 DTEND:20261119T010000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:3eaa13ec-bfea-5905-8c66-fe3cdba5b54e
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -177,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of the Whole
 DTSTART:20261207T143000Z
 DTEND:20261207T213000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:41f59e64-40b2-51a5-a198-4031117e1e3d
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -196,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Regular Meeting of Council
 DTSTART:20261117T180000Z
 DTEND:20261117T213000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:5432cbf7-2a1a-5183-90bd-1c71237a5284
 DESCRIPTION:City Council meetings are held at city hall\, 426 Brant St. Re
  quests to speak at this meeting can be made by completing the online deleg
@@ -221,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20261216T180000Z
 DTEND:20261217T010000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:705ae8b0-ae59-5e2f-be22-a28a0d7a50a4
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -256,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Pipeline to Permit Committee
 DTSTART:20261210T143000Z
 DTEND:20261210T170000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:71f51301-d23e-5e59-8827-eb264e292ebd
 DESCRIPTION:Standing committee and City Council meetings are held at City 
  Hall\, 426 Brant St. Written delegations can be submitted by email to Legi
@@ -271,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Council Workshop Committee
 DTSTART:20261117T143000Z
 DTEND:20261117T170000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:a0f358a3-7f20-5a21-97c8-4200493f92e6
 DESCRIPTION:Council Workshop meetings are held at city hall\, 426 Brant St
  . Workshops are live webcasted\, and archived on the city website. Council
@@ -289,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20261202T223000Z
 DTEND:20261203T033000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:a9d90bb6-b981-5747-9e64-ae63055c8dc2
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -324,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Audit Committee
 DTSTART:20261209T203000Z
 DTEND:20261209T223000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:b3bfe84a-950d-56bf-b32f-2a22246722ee
 DESCRIPTION:Standing committee and City Council meetings are held at city 
  hall\, 426 Brant St. Requests to speak at this meeting can be made by comp
@@ -340,10 +302,27 @@ URL:https://events.burlington.ca/meetings/Detail/2026-12-09-1530-Audit-Com
  mittee
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inaugural Meeting of Council
+DTSTART:20261116T233000Z
+DTEND:20261117T020000Z
+DTSTAMP:20261015T100920Z
+UID:c232e321-94b8-58e0-972d-ce60d2283c31
+DESCRIPTION:Event Details\nBurlington’s Inaugural City Council meeting i
+ s happening on November 16 at the Burlington Performing Arts Centre.\nBurl
+ ington’s Mayor and Council will be sworn in for the 2026-2030 term at 6:
+ 30 p.m. Doors open at 5:30 p.m.\nContact\nMike de Rond\, City Clerk/Direct
+ or\, Legislative Services\n905-335-7777\nEmail\nWebsite\nConnect\nLocation
+ :\nBurlington Performing Arts Centre\, 440 Locust Street\, Burlington\, ON
+ \, L7S 1T7\n\nDetails: https://events.burlington.ca/meetings/Detail/2026-1
+ 1-16-1830-Inaugural-Meeting-of-Council
+URL:https://events.burlington.ca/meetings/Detail/2026-11-16-1830-Inaugural
+ -Meeting-of-Council
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Committee of Adjustment
 DTSTART:20261104T223000Z
 DTEND:20261105T033000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:c577b09a-1497-56c0-be52-10589da44a4b
 DESCRIPTION:Committee of Adjustment\nmeetings will be held in-person at Ci
  ty Hall Council Chambers\, 426 Brant St. and virtually via Zoom videoconfe
@@ -378,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Appeals Committee
 DTSTART:20261126T180000Z
 DTEND:20261126T220000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:c65d2c10-6944-500f-8923-81338d5d5053
 DESCRIPTION:The Burlington Appeals Committee is an administrative tribunal
   established by City Council in August 2025 (DGM-57-25).  The Appeals C
@@ -394,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Appeals Committee
 DTSTART:20261029T170000Z
 DTEND:20261029T210000Z
-DTSTAMP:20261014T102422Z
+DTSTAMP:20261015T100920Z
 UID:dd41af5d-7586-5c0f-be31-3308bb64f12f
 DESCRIPTION:The Burlington Appeals Committee is an administrative tribunal
   established by City Council in August 2025 (DGM-57-25).  The Appeals C
